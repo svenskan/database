@@ -18,7 +18,7 @@ class Proverb
     element.css('li').each do |attribute|
       text = attribute.text
       case text
-      when /^English equivalent: (.*)$/i
+      when /^Translation and English equivalent: (.*)$/i, /^English equivalent: (.*)$/i
         proverb.equivalent = typograph($1)
       when /^Translation: (.*)$/i
         proverb.translation = typograph($1)

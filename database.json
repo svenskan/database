@@ -70,7 +70,9 @@
   ],
   "B": [
     {
-      "expression": "Bara döda fiskar följer strömmen."
+      "expression": "Bara döda fiskar följer strömmen.",
+      "translation": "Only dead fish follow the stream.",
+      "meaning": "Foolish people mindlessly copy others."
     },
     {
       "expression": "Barn gör som du gör, inte som du säger.",
@@ -159,7 +161,8 @@
       "translation": "Better to keep quiet than to speak poorly (of someone)."
     },
     {
-      "expression": "Bättre älskat och förlorat än att aldrig ha älskat."
+      "expression": "Bättre älskat och förlorat än att aldrig ha älskat.",
+      "equivalent": "Tis better to have loved and lost than to have never loved at all."
     },
     {
       "expression": "Bäst att smida medan järnet är varmt.",
@@ -341,7 +344,8 @@
       "meaning": "With hindsight it is easy to see what went wrong or what should have been done, but this is of no practical purpose."
     },
     {
-      "expression": "Det är mänskligt att fela men gudomligt att förlåta."
+      "expression": "Det är mänskligt att fela men gudomligt att förlåta.",
+      "equivalent": "To err is human; to forgive, divine."
     },
     {
       "expression": "Det är saligare att giva än att taga.",
@@ -653,7 +657,8 @@
       "meaning": "An innocent demeanor may hide much guilt."
     },
     {
-      "expression": "I krig och kärlek är allt tillåtet."
+      "expression": "I krig och kärlek är allt tillåtet.",
+      "equivalent": "All is fair in love and war."
     },
     {
       "expression": "I mörker är alla katter grå.",
@@ -756,6 +761,7 @@
     },
     {
       "expression": "Kasta inte ut barnet med badvattnet.",
+      "equivalent": "Do not throw the baby out with the bathwater.",
       "meaning": "Do not reject something in its entirety just because parts of it are bad; other parts might be good."
     },
     {
@@ -814,7 +820,8 @@
       "translation": "A small tuft often overturns a big load."
     },
     {
-      "expression": "Lyckan kan inte köpas för pengar."
+      "expression": "Lyckan kan inte köpas för pengar.",
+      "equivalent": "Money cannot buy happiness."
     },
     {
       "expression": "Lyckan kommer lyckan går.",
@@ -824,6 +831,7 @@
     },
     {
       "expression": "Lyckan står den djärve bi.",
+      "equivalent": "Fortune favours the bold.",
       "meaning": "Those who act boldly or courageously are most likely to succeed."
     },
     {
@@ -853,6 +861,7 @@
     },
     {
       "expression": "Lättare sagt än gjort.",
+      "equivalent": "Easier said than done.",
       "meaning": "It is usually far easier to advice, suggest, or talk about doing something than actually to do it."
     },
     {
@@ -1085,7 +1094,8 @@
       "meaning": "It is acceptable to break rules in times of need."
     },
     {
-      "expression": "Nöden är uppfinningarnas moder."
+      "expression": "Nöden är uppfinningarnas moder.",
+      "equivalent": "Necessity is the mother of invention."
     }
   ],
   "O": [
@@ -1180,6 +1190,7 @@
     },
     {
       "expression": "Sagt ord och kastad sten kan inte tas tillbaka.",
+      "equivalent": "A spoken word and a thrown stone cannot be called back.",
       "meaning": "You can’t take back what you have said."
     },
     {
@@ -1375,6 +1386,7 @@
     },
     {
       "expression": "Sök och du skall finna.",
+      "equivalent": "Seek and ye shall find.",
       "meaning": "You must make a personal effort to get what you want."
     }
   ],
@@ -1429,6 +1441,7 @@
     },
     {
       "expression": "Två fel gör inte ett rätt.",
+      "equivalent": "Two wrongs do not make a right.",
       "meaning": "Wrongdoing is always unacceptable, even if another person has done the same thing."
     },
     {
@@ -1523,6 +1536,7 @@
     },
     {
       "expression": "Vägen till mannens hjärta går genom magen.",
+      "equivalent": "The way to a man’s heart is through his stomach.",
       "meaning": "The best way to please a man is by feeding him well."
     },
     {
@@ -1549,6 +1563,7 @@
     },
     {
       "expression": "Ändamålet helgar medlen.",
+      "equivalent": "The end justifies the means.",
       "meaning": "Any course of action, however immoral or unscrupulous, is justifiable if it achieves a worthy objective."
     },
     {
@@ -1587,7 +1602,8 @@
       "translation": "Even the best can make mistakes."
     },
     {
-      "expression": "Även dåren tros vis om han tiger."
+      "expression": "Även dåren tros vis om han tiger.",
+      "equivalent": "Even a fool when he holdeth his peace is counted wise."
     },
     {
       "expression": "Även en blind höna kan hitta ett korn.",
@@ -1611,6 +1627,7 @@
   "Ö": [
     {
       "expression": "Öga för öga, tand för tand.",
+      "equivalent": "Eye for an eye, tooth for a tooth.",
       "meaning": "Retaliation or punishment should take the same form as the original offense or crime."
     },
     {
