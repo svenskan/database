@@ -1,6 +1,7 @@
 URL := https://en.wikiquote.org/wiki/Swedish_proverbs
 
 convert: database.json
+	./csvize.rb $< database
 
 update:
 	rm -f database.html
