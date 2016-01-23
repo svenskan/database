@@ -1,7 +1,7 @@
 URL := https://en.wikiquote.org/wiki/Swedish_proverbs
 
-convert: index.html
+convert: database.html
 	./convert.rb $<
 
-index.html:
-	\curl ${URL} > index.html
+database.html:
+	\curl ${URL} > database.html
