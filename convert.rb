@@ -40,6 +40,8 @@ class Proverb
       value = self.send(attribute)
       object[attribute] = value unless value.nil?
     end
+    value = object.delete(:equivalent)
+    object[:translation] = value unless value.nil?
     object
   end
 end
