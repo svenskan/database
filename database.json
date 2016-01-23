@@ -228,7 +228,8 @@
       "translation": "He who saves, has."
     },
     {
-      "expression": "Den som tiger han samtycker."
+      "expression": "Den som tiger han samtycker.",
+      "translation": "He who stays quiet consents."
     },
     {
       "expression": "Den som viskar han ljuger.",
@@ -243,7 +244,8 @@
       "translation": "The nail that sticks out gets struck."
     },
     {
-      "expression": "Den som är fri från synd skall kasta första stenen."
+      "expression": "Den som är fri från synd skall kasta första stenen.",
+      "equivalent": "Let him who is without sin cast the first stone."
     },
     {
       "expression": "Det angår också dig när det brinner i grannens vägg.",
@@ -769,7 +771,8 @@
       "equivalent": "Don’t throw stones in glasshouses."
     },
     {
-      "expression": "Klaga inte över för lite vind - lär dig segla."
+      "expression": "Klaga inte över för lite vind - lär dig segla.",
+      "translation": "Don’t complain about lack of wind—learn to sail."
     },
     {
       "expression": "Kommer tid kommer råd.",
@@ -808,7 +811,8 @@
       "meaning": "Lazy people are wasteful."
     },
     {
-      "expression": "Lika barn leka bäst."
+      "expression": "Lika barn leka bäst.",
+      "translation": "Alike children play the best."
     },
     {
       "expression": "Lita inte till en annan, det du själv kan göra.",
