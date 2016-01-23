@@ -19,11 +19,11 @@ class Proverb
       text = attribute.text
       case text
       when /^Translation and English equivalent: (.*)$/i, /^English equivalent: (.*)$/i
-        proverb.equivalent = typograph($1)
+        proverb.equivalent = compact(proverb.equivalent, typograph($1))
       when /^Translation: (.*)$/i
-        proverb.translation = typograph($1)
-      when  /^Meaning: "(.*)"\.$/i, /^Meaning: "(.*)"$/i, /^Meaning: (.*)$/i
-        proverb.meaning = typograph($1)
+        proverb.translation = compact(proverb.translation, typograph($1))
+      when /^Meaning: "(.*)"\.$/i, /^Meaning: "(.*)"$/i, /^Meaning: (.*)$/i
+        proverb.meaning = compact(proverb.meaning, typograph($1))
       end
     end
 
@@ -42,6 +42,10 @@ class Proverb
     end
     object
   end
+end
+
+def compact(*sentences)
+  sentences.compact[0]
 end
 
 def typograph(text)
