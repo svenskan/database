@@ -6,8 +6,8 @@ update:
 	rm -f database.html
 	$(MAKE) convert
 
-database.json: database.html convert.rb
-	./convert.rb $< > $@
+database.json: database.html jsonize.rb
+	./jsonize.rb $< > $@
 
 database.html:
 	\curl ${URL} > database.html
