@@ -1,6 +1,35 @@
 #!/usr/bin/env ruby
 
+require 'json'
 require 'nokogiri'
+
+class Proverb
+  ATTRIBUTES = [:text, :translation, :meaning]
+
+  attr_accessor *ATTRIBUTES
+
+  def self.parse(element)
+    text = element.css('i')[0]
+    return nil if text.nil?
+
+    proverb = Proverb.new
+    proverb.text = text.text
+    proverb
+  end
+
+  def to_s
+    JSON.pretty_generate(as_json)
+  end
+
+  def as_json(options = {})
+    object = {}
+    ATTRIBUTES.each do |attribute|
+      value = self.send(attribute)
+      object[attribute] = value unless value.nil?
+    end
+    object
+  end
+end
 
 raise 'an HTML file is required' if ARGV.length < 1
 
@@ -15,9 +44,8 @@ elements.each do |element|
     next unless letter.length == 1
     puts "Letter: #{letter}"
   when 'ul'
-    text = element.css('i')[0]
-    next if text.nil?
-    text = text.text
-    puts "Pronoun: #{text}"
+    proverb = Proverb.parse(element)
+    next if proverb.nil?
+    puts proverb
   end
 end
