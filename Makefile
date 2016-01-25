@@ -1,14 +1,14 @@
 URL := https://en.wikiquote.org/wiki/Swedish_proverbs
 
 process: database.json bin/csvize.rb
-	bin/csvize.rb $< database
+	bundle exec bin/csvize.rb $< database
 
 update:
 	rm -f database.html
-	$(MAKE) convert
+	$(MAKE) process
 
 database.json: database.html bin/jsonize.rb
-	bin/jsonize.rb $< > $@
+	bundle exec bin/jsonize.rb $< > $@
 
 database.html:
 	\curl ${URL} > database.html
