@@ -8,7 +8,7 @@ kept in sync with a Wikiquote titled “[Swedish proverbs][1].”
 
 If you would like to add new provers or improve the existing ones,
 
-1. go the aforementioned [article][1],
+1. go to the aforementioned [article][1],
 2. edit the article as you wish,
 3. fork and clone the repository,
 4. run `make update`,
