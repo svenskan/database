@@ -1,6 +1,7 @@
 # Ordspråk
 
-The repository is a database of Swedish proverbs. The content is taken from and
+The repository is a database of Swedish proverbs, categorized by the first
+letter and provided in the JSON and CVS formats. The content is taken from and
 kept in sync with a Wikiquote titled “[Swedish proverbs][1].”
 
 ## Contribution
