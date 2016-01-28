@@ -1,0 +1,930 @@
+[
+  {
+    "translation": "ask, pray",
+    "infinitiv": "be",
+    "presens": "ber",
+    "preteritum": "bad",
+    "supinum": "bett",
+    "imperativum": "be"
+  },
+  {
+    "translation": "decide",
+    "infinitiv": "besluta",
+    "presens": "beslutar",
+    "preteritum": "beslöt",
+    "supinum": "beslutit / beslutat",
+    "imperativum": "besluta"
+  },
+  {
+    "translation": "bind",
+    "infinitiv": "binda",
+    "presens": "binder",
+    "preteritum": "band",
+    "supinum": "bundit",
+    "imperativum": "bind"
+  },
+  {
+    "translation": "bite",
+    "infinitiv": "bita",
+    "presens": "biter",
+    "preteritum": "bet",
+    "supinum": "bitit",
+    "imperativum": "bit"
+  },
+  {
+    "translation": "offer, bid",
+    "infinitiv": "bjuda",
+    "presens": "bjuder",
+    "preteritum": "bjöd",
+    "supinum": "bjudit",
+    "imperativum": "bjud"
+  },
+  {
+    "translation": "become",
+    "infinitiv": "(bliva) / bli",
+    "presens": "(bliver) / blir",
+    "preteritum": "blev",
+    "supinum": "blivit",
+    "imperativum": "(bliv) / bli"
+  },
+  {
+    "translation": "burn",
+    "infinitiv": "brinna",
+    "presens": "brinner",
+    "preteritum": "brann",
+    "supinum": "brunnit",
+    "imperativum": "brinn"
+  },
+  {
+    "translation": "burst, snap",
+    "infinitiv": "brista",
+    "presens": "brister",
+    "preteritum": "brast",
+    "supinum": "brustit",
+    "imperativum": "brist"
+  },
+  {
+    "translation": "break",
+    "infinitiv": "bryta",
+    "presens": "bryter",
+    "preteritum": "bröt",
+    "supinum": "brutit",
+    "imperativum": "bryt"
+  },
+  {
+    "translation": "bear",
+    "infinitiv": "bära",
+    "presens": "bär",
+    "preteritum": "bar",
+    "supinum": "burit",
+    "imperativum": "bär"
+  },
+  {
+    "translation": "should",
+    "infinitiv": "(böra)",
+    "presens": "bör",
+    "preteritum": "borde",
+    "supinum": "bort",
+    "imperativum": ""
+  },
+  {
+    "translation": "draw, drag, pull",
+    "infinitiv": "dra",
+    "presens": "drar",
+    "preteritum": "drog",
+    "supinum": "dragit",
+    "imperativum": "dra"
+  },
+  {
+    "translation": "drink",
+    "infinitiv": "dricka",
+    "presens": "dricker",
+    "preteritum": "drack",
+    "supinum": "druckit",
+    "imperativum": "drick"
+  },
+  {
+    "translation": "propel, drive",
+    "infinitiv": "driva",
+    "presens": "driver",
+    "preteritum": "drev",
+    "supinum": "drivit",
+    "imperativum": "driv"
+  },
+  {
+    "translation": "be adequate, be suitable",
+    "infinitiv": "duga",
+    "presens": "duger",
+    "preteritum": "dög",
+    "supinum": "dugit",
+    "imperativum": "dug"
+  },
+  {
+    "translation": "dive",
+    "infinitiv": "dyka",
+    "presens": "dyker",
+    "preteritum": "dök / dykte",
+    "supinum": "dykt",
+    "imperativum": "dyk"
+  },
+  {
+    "translation": "die",
+    "infinitiv": "dö",
+    "presens": "dör",
+    "preteritum": "dog",
+    "supinum": "dött",
+    "imperativum": "dö"
+  },
+  {
+    "translation": "hide",
+    "infinitiv": "dölja",
+    "presens": "döljer",
+    "preteritum": "dolde",
+    "supinum": "dolt",
+    "imperativum": "dölj"
+  },
+  {
+    "translation": "fall",
+    "infinitiv": "falla",
+    "presens": "faller",
+    "preteritum": "föll",
+    "supinum": "fallit",
+    "imperativum": "fall"
+  },
+  {
+    "translation": "move, travel",
+    "infinitiv": "fara",
+    "presens": "far",
+    "preteritum": "for",
+    "supinum": "farit",
+    "imperativum": "far"
+  },
+  {
+    "translation": "find",
+    "infinitiv": "finna",
+    "presens": "finner",
+    "preteritum": "fann",
+    "supinum": "funnit",
+    "imperativum": "finn"
+  },
+  {
+    "translation": "exist",
+    "infinitiv": "finnas",
+    "presens": "finns",
+    "preteritum": "fanns",
+    "supinum": "funnits",
+    "imperativum": ""
+  },
+  {
+    "translation": "fly",
+    "infinitiv": "flyga",
+    "presens": "flyger",
+    "preteritum": "flög",
+    "supinum": "flugit",
+    "imperativum": "flyg"
+  },
+  {
+    "translation": "float",
+    "infinitiv": "flyta",
+    "presens": "flyter",
+    "preteritum": "flöt",
+    "supinum": "flutit",
+    "imperativum": "flyt"
+  },
+  {
+    "translation": "freeze",
+    "infinitiv": "frysa",
+    "presens": "fryser",
+    "preteritum": "frös",
+    "supinum": "frusit",
+    "imperativum": "frys"
+  },
+  {
+    "translation": "get",
+    "infinitiv": "få",
+    "presens": "får",
+    "preteritum": "fick",
+    "supinum": "fått",
+    "imperativum": "få"
+  },
+  {
+    "translation": "understand",
+    "infinitiv": "förstå",
+    "presens": "förstår",
+    "preteritum": "förstod",
+    "supinum": "förstått",
+    "imperativum": "förstå"
+  },
+  {
+    "translation": "disappear",
+    "infinitiv": "försvinna",
+    "presens": "försvinner",
+    "preteritum": "försvann",
+    "supinum": "försvunnit",
+    "imperativum": "försvinn"
+  },
+  {
+    "translation": "give",
+    "infinitiv": "(giva) / ge",
+    "presens": "(giver) / ger",
+    "preteritum": "gav",
+    "supinum": "(givit) / gett",
+    "imperativum": "ge"
+  },
+  {
+    "translation": "cast",
+    "infinitiv": "gjuta",
+    "presens": "gjuter",
+    "preteritum": "göt",
+    "supinum": "gjutit",
+    "imperativum": "gjut"
+  },
+  {
+    "translation": "glide",
+    "infinitiv": "glida",
+    "presens": "glider",
+    "preteritum": "gled",
+    "supinum": "glidit",
+    "imperativum": "glid"
+  },
+  {
+    "translation": "please, delight",
+    "infinitiv": "glädja",
+    "presens": "gläd(j)er",
+    "preteritum": "gladde",
+    "supinum": "glatt",
+    "imperativum": "gläd"
+  },
+  {
+    "translation": "grip",
+    "infinitiv": "gripa",
+    "presens": "griper",
+    "preteritum": "grep",
+    "supinum": "gripit",
+    "imperativum": "grip"
+  },
+  {
+    "translation": "cry",
+    "infinitiv": "gråta",
+    "presens": "gråter",
+    "preteritum": "grät",
+    "supinum": "gråtit",
+    "imperativum": "gråt"
+  },
+  {
+    "translation": "go, walk",
+    "infinitiv": "gå",
+    "presens": "går",
+    "preteritum": "gick",
+    "supinum": "gått",
+    "imperativum": "gå"
+  },
+  {
+    "translation": "do",
+    "infinitiv": "göra",
+    "presens": "gör",
+    "preteritum": "gjorde",
+    "supinum": "gjort",
+    "imperativum": "gör"
+  },
+  {
+    "translation": "have",
+    "infinitiv": "ha",
+    "presens": "har",
+    "preteritum": "hade",
+    "supinum": "haft",
+    "imperativum": "ha"
+  },
+  {
+    "translation": "be called",
+    "infinitiv": "heta",
+    "presens": "heter",
+    "preteritum": "hette",
+    "supinum": "hetat",
+    "imperativum": "het"
+  },
+  {
+    "translation": "make in time",
+    "infinitiv": "hinna",
+    "presens": "hinner",
+    "preteritum": "hann",
+    "supinum": "hunnit",
+    "imperativum": "hinn"
+  },
+  {
+    "translation": "chop, slash",
+    "infinitiv": "hugga",
+    "presens": "hugger",
+    "preteritum": "högg",
+    "supinum": "huggit",
+    "imperativum": "hugg"
+  },
+  {
+    "translation": "hold",
+    "infinitiv": "hålla",
+    "presens": "håller",
+    "preteritum": "höll",
+    "supinum": "hållit",
+    "imperativum": "håll"
+  },
+  {
+    "translation": "step",
+    "infinitiv": "kliva",
+    "presens": "kliver",
+    "preteritum": "klev",
+    "supinum": "klivit",
+    "imperativum": "kliv"
+  },
+  {
+    "translation": "tie",
+    "infinitiv": "knyta",
+    "presens": "knyter",
+    "preteritum": "knöt",
+    "supinum": "knutit",
+    "imperativum": "knyt"
+  },
+  {
+    "translation": "come",
+    "infinitiv": "komma",
+    "presens": "kommer",
+    "preteritum": "kom",
+    "supinum": "kommit",
+    "imperativum": "kom"
+  },
+  {
+    "translation": "crawl",
+    "infinitiv": "krypa",
+    "presens": "kryper",
+    "preteritum": "kröp",
+    "supinum": "krupit",
+    "imperativum": "kryp"
+  },
+  {
+    "translation": "know, be able to",
+    "infinitiv": "kunna",
+    "presens": "kan",
+    "preteritum": "kunde",
+    "supinum": "kunnat",
+    "imperativum": ""
+  },
+  {
+    "translation": "smile",
+    "infinitiv": "le",
+    "presens": "ler",
+    "preteritum": "log",
+    "supinum": "lett",
+    "imperativum": "le"
+  },
+  {
+    "translation": "suffer",
+    "infinitiv": "lida",
+    "presens": "lider",
+    "preteritum": "led",
+    "supinum": "lidit",
+    "imperativum": "lid"
+  },
+  {
+    "translation": "lie (be at rest)",
+    "infinitiv": "ligga",
+    "presens": "ligger",
+    "preteritum": "låg",
+    "supinum": "legat",
+    "imperativum": "ligg"
+  },
+  {
+    "translation": "lie (tell untruths)",
+    "infinitiv": "ljuga",
+    "presens": "ljuger",
+    "preteritum": "ljög",
+    "supinum": "ljugit",
+    "imperativum": "ljug"
+  },
+  {
+    "translation": "obey",
+    "infinitiv": "lyda",
+    "presens": "lyder",
+    "preteritum": "löd/lydde",
+    "supinum": "lydit/lytt",
+    "imperativum": "lyd"
+  },
+  {
+    "translation": "let",
+    "infinitiv": "låta",
+    "presens": "låter",
+    "preteritum": "lät",
+    "supinum": "låtit",
+    "imperativum": "låt"
+  },
+  {
+    "translation": "lay",
+    "infinitiv": "lägga",
+    "presens": "lägger",
+    "preteritum": "lade",
+    "supinum": "lagt",
+    "imperativum": "lägg"
+  },
+  {
+    "translation": "must",
+    "infinitiv": "(måsta)",
+    "presens": "måste",
+    "preteritum": "måste",
+    "supinum": "(måst)",
+    "imperativum": ""
+  },
+  {
+    "translation": "curtsey",
+    "infinitiv": "niga",
+    "presens": "niger",
+    "preteritum": "neg",
+    "supinum": "nigit",
+    "imperativum": "nig"
+  },
+  {
+    "translation": "enjoy, take pleasure in",
+    "infinitiv": "njuta",
+    "presens": "njuter",
+    "preteritum": "njöt",
+    "supinum": "njutit",
+    "imperativum": "njut"
+  },
+  {
+    "translation": "pinch",
+    "infinitiv": "nypa",
+    "presens": "nyper",
+    "preteritum": "nöp",
+    "supinum": "nypt",
+    "imperativum": "nyp"
+  },
+  {
+    "translation": "sneeze",
+    "infinitiv": "nysa",
+    "presens": "nyser",
+    "preteritum": "nös/nyste",
+    "supinum": "nysit/nyst",
+    "imperativum": "nys"
+  },
+  {
+    "translation": "beep, squeak",
+    "infinitiv": "pipa",
+    "presens": "piper",
+    "preteritum": "pep",
+    "supinum": "pipit",
+    "imperativum": "pip"
+  },
+  {
+    "translation": "ride",
+    "infinitiv": "rida",
+    "presens": "rider",
+    "preteritum": "red",
+    "supinum": "ridit",
+    "imperativum": "rid"
+  },
+  {
+    "translation": "run, flow",
+    "infinitiv": "rinna",
+    "presens": "rinner",
+    "preteritum": "rann",
+    "supinum": "runnit",
+    "imperativum": "rinn"
+  },
+  {
+    "translation": "scratch hard",
+    "infinitiv": "riva",
+    "presens": "river",
+    "preteritum": "rev",
+    "supinum": "rivit",
+    "imperativum": "riv"
+  },
+  {
+    "translation": "roar",
+    "infinitiv": "ryta",
+    "presens": "ryter",
+    "preteritum": "röt",
+    "supinum": "rutit",
+    "imperativum": "ryt"
+  },
+  {
+    "translation": "see",
+    "infinitiv": "se",
+    "presens": "ser",
+    "preteritum": "såg",
+    "supinum": "sett",
+    "imperativum": "se"
+  },
+  {
+    "translation": "sit",
+    "infinitiv": "sitta",
+    "presens": "sitter",
+    "preteritum": "satt",
+    "supinum": "suttit",
+    "imperativum": "sitt"
+  },
+  {
+    "translation": "sing",
+    "infinitiv": "sjunga",
+    "presens": "sjunger",
+    "preteritum": "sjöng",
+    "supinum": "sjungit",
+    "imperativum": "sjung"
+  },
+  {
+    "translation": "sink",
+    "infinitiv": "sjunka",
+    "presens": "sjunker",
+    "preteritum": "sjönk",
+    "supinum": "sjunkit",
+    "imperativum": "sjunk"
+  },
+  {
+    "translation": "shine",
+    "infinitiv": "skina",
+    "presens": "skiner",
+    "preteritum": "sken",
+    "supinum": "skinit",
+    "imperativum": "skin"
+  },
+  {
+    "translation": "shoot",
+    "infinitiv": "skjuta",
+    "presens": "skjuter",
+    "preteritum": "sköt",
+    "supinum": "skjutit",
+    "imperativum": "skjut"
+  },
+  {
+    "translation": "will, shall",
+    "infinitiv": "(skola)",
+    "presens": "ska",
+    "preteritum": "skulle",
+    "supinum": "skolat",
+    "imperativum": ""
+  },
+  {
+    "translation": "scream",
+    "infinitiv": "skrika",
+    "presens": "skriker",
+    "preteritum": "skrek",
+    "supinum": "skrikit",
+    "imperativum": "skrik"
+  },
+  {
+    "translation": "write",
+    "infinitiv": "skriva",
+    "presens": "skriver",
+    "preteritum": "skrev",
+    "supinum": "skrivit",
+    "imperativum": "skriv"
+  },
+  {
+    "translation": "brag",
+    "infinitiv": "skryta",
+    "presens": "skryter",
+    "preteritum": "skröt",
+    "supinum": "skrutit",
+    "imperativum": "skryt"
+  },
+  {
+    "translation": "cut",
+    "infinitiv": "skära",
+    "presens": "skär",
+    "preteritum": "skar",
+    "supinum": "skurit",
+    "imperativum": "skär"
+  },
+  {
+    "translation": "be excused from, avoid",
+    "infinitiv": "slippa",
+    "presens": "slipper",
+    "preteritum": "slapp",
+    "supinum": "sluppit",
+    "imperativum": "slipp"
+  },
+  {
+    "translation": "tear",
+    "infinitiv": "slita",
+    "presens": "sliter",
+    "preteritum": "slet",
+    "supinum": "slitit",
+    "imperativum": "slit"
+  },
+  {
+    "translation": "punch",
+    "infinitiv": "slå",
+    "presens": "slår",
+    "preteritum": "slog",
+    "supinum": "slagit",
+    "imperativum": "slå"
+  },
+  {
+    "translation": "fight",
+    "infinitiv": "slåss",
+    "presens": "slåss",
+    "preteritum": "slogs",
+    "supinum": "slagits",
+    "imperativum": "slåss"
+  },
+  {
+    "translation": "sneak",
+    "infinitiv": "smyga",
+    "presens": "smyger",
+    "preteritum": "smög",
+    "supinum": "smugit",
+    "imperativum": "smyg"
+  },
+  {
+    "translation": "melt",
+    "infinitiv": "smälta",
+    "presens": "smälter",
+    "preteritum": "smälte/smalt",
+    "supinum": "smält",
+    "imperativum": "smält"
+  },
+  {
+    "translation": "grease, smear",
+    "infinitiv": "smörja",
+    "presens": "smörjer",
+    "preteritum": "smorde",
+    "supinum": "smort",
+    "imperativum": "smörj"
+  },
+  {
+    "translation": "blow one's nose",
+    "infinitiv": "snyta",
+    "presens": "snyter",
+    "preteritum": "snöt",
+    "supinum": "snutit",
+    "imperativum": "snyt"
+  },
+  {
+    "translation": "sleep",
+    "infinitiv": "sova",
+    "presens": "sover",
+    "preteritum": "sov",
+    "supinum": "sovit",
+    "imperativum": "sov"
+  },
+  {
+    "translation": "spin; purr",
+    "infinitiv": "spinna",
+    "presens": "spinner",
+    "preteritum": "spann",
+    "supinum": "spunnit",
+    "imperativum": "spinn"
+  },
+  {
+    "translation": "crack",
+    "infinitiv": "spricka",
+    "presens": "spricker",
+    "preteritum": "sprack",
+    "supinum": "spruckit",
+    "imperativum": "sprick"
+  },
+  {
+    "translation": "spread",
+    "infinitiv": "sprida",
+    "presens": "sprider",
+    "preteritum": "spred/spridde",
+    "supinum": "spridit/spritt",
+    "imperativum": "sprid"
+  },
+  {
+    "translation": "run",
+    "infinitiv": "springa",
+    "presens": "springer",
+    "preteritum": "sprang",
+    "supinum": "sprungit",
+    "imperativum": "spring"
+  },
+  {
+    "translation": "sting, stick",
+    "infinitiv": "sticka",
+    "presens": "sticker",
+    "preteritum": "stack",
+    "supinum": "stuckit",
+    "imperativum": "stick"
+  },
+  {
+    "translation": "arise; step",
+    "infinitiv": "stiga",
+    "presens": "stiger",
+    "preteritum": "steg",
+    "supinum": "stigit",
+    "imperativum": "stig"
+  },
+  {
+    "translation": "steal",
+    "infinitiv": "stjäla",
+    "presens": "stjäl",
+    "preteritum": "stal",
+    "supinum": "stulit",
+    "imperativum": "stjäl"
+  },
+  {
+    "translation": "battle",
+    "infinitiv": "strida",
+    "presens": "strider",
+    "preteritum": "stred",
+    "supinum": "stridit",
+    "imperativum": "strid"
+  },
+  {
+    "translation": "stroke, rub",
+    "infinitiv": "stryka",
+    "presens": "stryker",
+    "preteritum": "strök",
+    "supinum": "strukit",
+    "imperativum": "stryk"
+  },
+  {
+    "translation": "stand",
+    "infinitiv": "stå",
+    "presens": "står",
+    "preteritum": "stod",
+    "supinum": "stått",
+    "imperativum": "stå"
+  },
+  {
+    "translation": "suck",
+    "infinitiv": "suga",
+    "presens": "suger",
+    "preteritum": "sög",
+    "supinum": "sugit",
+    "imperativum": "sug"
+  },
+  {
+    "translation": "drink alcohol",
+    "infinitiv": "supa",
+    "presens": "super",
+    "preteritum": "söp",
+    "supinum": "supit",
+    "imperativum": "sup"
+  },
+  {
+    "translation": "smart, sting",
+    "infinitiv": "svida",
+    "presens": "svider",
+    "preteritum": "sved",
+    "supinum": "svidit",
+    "imperativum": "svid"
+  },
+  {
+    "translation": "let down, fail",
+    "infinitiv": "svika",
+    "presens": "sviker",
+    "preteritum": "svek",
+    "supinum": "svikit",
+    "imperativum": "svik"
+  },
+  {
+    "translation": "swallow",
+    "infinitiv": "svälja",
+    "presens": "sväljer",
+    "preteritum": "svalde",
+    "supinum": "svalt",
+    "imperativum": "svälj"
+  },
+  {
+    "translation": "starve",
+    "infinitiv": "svälta",
+    "presens": "svälter",
+    "preteritum": "svalt/svälte",
+    "supinum": "svultit/svält",
+    "imperativum": "svält"
+  },
+  {
+    "translation": "swear",
+    "infinitiv": "svära",
+    "presens": "svär",
+    "preteritum": "svor",
+    "supinum": "svurit",
+    "imperativum": "svär"
+  },
+  {
+    "translation": "say",
+    "infinitiv": "säga",
+    "presens": "säger",
+    "preteritum": "sade",
+    "supinum": "sagt",
+    "imperativum": "säg"
+  },
+  {
+    "translation": "sell",
+    "infinitiv": "sälja",
+    "presens": "säljer",
+    "preteritum": "sålde",
+    "supinum": "sålt",
+    "imperativum": "sälj"
+  },
+  {
+    "translation": "seat",
+    "infinitiv": "sätta",
+    "presens": "sätter",
+    "preteritum": "satte",
+    "supinum": "satt",
+    "imperativum": "sitt"
+  },
+  {
+    "translation": "take",
+    "infinitiv": "ta",
+    "presens": "tar",
+    "preteritum": "tog",
+    "supinum": "tagit",
+    "imperativum": "ta"
+  },
+  {
+    "translation": "keep silent",
+    "infinitiv": "tiga",
+    "presens": "tiger",
+    "preteritum": "teg",
+    "supinum": "tigit",
+    "imperativum": "tig"
+  },
+  {
+    "translation": "force, compel",
+    "infinitiv": "tvinga",
+    "presens": "tvinger/tvingar",
+    "preteritum": "tvang/tvingade",
+    "supinum": "tvungit/tvingat",
+    "imperativum": "tving/tvinga"
+  },
+  {
+    "translation": "be",
+    "infinitiv": "vara",
+    "presens": "är",
+    "preteritum": "var",
+    "supinum": "varit",
+    "imperativum": "var"
+  },
+  {
+    "translation": "know",
+    "infinitiv": "veta",
+    "presens": "vet",
+    "preteritum": "visste",
+    "supinum": "vetat",
+    "imperativum": ""
+  },
+  {
+    "translation": "fold; yield",
+    "infinitiv": "vika",
+    "presens": "viker",
+    "preteritum": "vek/vikte",
+    "supinum": "vikit/vikt",
+    "imperativum": "vik"
+  },
+  {
+    "translation": "want",
+    "infinitiv": "vilja",
+    "presens": "vill",
+    "preteritum": "ville",
+    "supinum": "velat",
+    "imperativum": ""
+  },
+  {
+    "translation": "win",
+    "infinitiv": "vinna",
+    "presens": "vinner",
+    "preteritum": "vann",
+    "supinum": "vunnit",
+    "imperativum": "vinn"
+  },
+  {
+    "translation": "turn",
+    "infinitiv": "vrida",
+    "presens": "vrider",
+    "preteritum": "vred",
+    "supinum": "vridit",
+    "imperativum": "vrid"
+  },
+  {
+    "translation": "choose",
+    "infinitiv": "välja",
+    "presens": "väljer",
+    "preteritum": "valde",
+    "supinum": "valt",
+    "imperativum": "välj"
+  },
+  {
+    "translation": "adapt, accustom",
+    "infinitiv": "vänja",
+    "presens": "vänjer",
+    "preteritum": "vande/vänjde",
+    "supinum": "vant/vänjt",
+    "imperativum": "vänj"
+  },
+  {
+    "translation": "grow",
+    "infinitiv": "växa",
+    "presens": "växer",
+    "preteritum": "växte",
+    "supinum": "växt/vuxit",
+    "imperativum": "väx"
+  },
+  {
+    "translation": "eat",
+    "infinitiv": "äta",
+    "presens": "äter",
+    "preteritum": "åt",
+    "supinum": "ätit",
+    "imperativum": "ät"
+  }
+]
