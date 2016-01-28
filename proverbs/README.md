@@ -1,12 +1,11 @@
-# Ordspråk
+# Proverbs
 
-The repository is a database of Swedish proverbs, categorized by the first
-letter and provided in the JSON and CVS formats. The content is taken from and
-kept in sync with a Wikiquote titled “[Swedish proverbs][1].”
+The directory contains a database of Swedish proverbs. The content is taken from
+and kept in sync with a Wikiquote article titled “[Swedish proverbs][1].”
 
 ## Contribution
 
-If you would like to add new provers or improve the existing ones,
+If you would like to add new content or improve the existing one,
 
 1. go to the aforementioned [article][1],
 2. edit the article as you wish,
