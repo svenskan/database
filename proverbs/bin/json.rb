@@ -4,7 +4,7 @@ require 'json'
 require 'nokogiri'
 
 class Record
-  ATTRIBUTES = [:expression, :equivalent, :translation, :meaning]
+  ATTRIBUTES = %i(expression equivalent translation meaning)
 
   attr_accessor *ATTRIBUTES
 

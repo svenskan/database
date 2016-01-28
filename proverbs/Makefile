@@ -11,6 +11,6 @@ database.json: database.html bin/json.rb
 	bundle exec bin/json.rb $< > $@
 
 database.html:
-	\curl ${URL} > database.html
+	\curl ${URL} > $@
 
 .PHONY: all update
