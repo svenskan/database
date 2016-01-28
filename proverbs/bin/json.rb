@@ -3,7 +3,7 @@
 require 'json'
 require 'nokogiri'
 
-class Proverb
+class Record
   ATTRIBUTES = [:expression, :equivalent, :translation, :meaning]
 
   attr_accessor *ATTRIBUTES
@@ -12,22 +12,22 @@ class Proverb
     attribute = element.css('i')[0]
     return nil if attribute.nil?
 
-    proverb = Proverb.new
-    proverb.expression = attribute.text
+    record = Record.new
+    record.expression = attribute.text
 
     element.css('li').each do |attribute|
       text = attribute.text
       case text
       when /^Translation and English equivalent: (.*)$/i, /^English equivalent: (.*)$/i
-        proverb.equivalent = compact(proverb.equivalent, typograph($1))
+        record.equivalent = compact(record.equivalent, typograph($1))
       when /^Translation: (.*)$/i
-        proverb.translation = compact(proverb.translation, typograph($1))
+        record.translation = compact(record.translation, typograph($1))
       when /^Meaning: "(.*)"\.$/i, /^Meaning: "(.*)"$/i, /^Meaning: (.*)$/i
-        proverb.meaning = compact(proverb.meaning, typograph($1))
+        record.meaning = compact(record.meaning, typograph($1))
       end
     end
 
-    proverb
+    record
   end
 
   def to_json(options = {})
@@ -73,9 +73,9 @@ elements.each do |element|
     next unless letter.length == 1
     database[letter] = []
   when 'ul'
-    proverb = Proverb.parse(element)
-    next if proverb.nil?
-    database[letter] << proverb
+    record = Record.parse(element)
+    next if record.nil?
+    database[letter] << record
   end
 end
 

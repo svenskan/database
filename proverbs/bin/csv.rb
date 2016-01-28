@@ -10,11 +10,11 @@ database = JSON::load(open(ARGV[0]))
 output = ARGV[1]
 
 [('A'...'Z').to_a, 'Å', 'Ä', 'Ö'].flatten.each do |letter|
-  proverbs = database[letter]
-  next if proverbs.nil?
+  records = database[letter]
+  next if records.nil?
   CSV.open(File.join(output, "#{letter}.csv"), 'wb') do |file|
-    proverbs.map do |proverb|
-      file << [proverb['expression'], proverb['translation'], proverb['meaning']]
+    records.map do |record|
+      file << [record['expression'], record['translation'], record['meaning']]
     end
   end
 end
