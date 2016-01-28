@@ -1,11 +1,11 @@
 URL := https://en.wikiquote.org/wiki/Swedish_proverbs
 
-process: database.json bin/csvize.rb
-	bundle exec bin/csvize.rb $< database
-
-update:
+all:
 	rm -f database.html
-	$(MAKE) process
+	$(MAKE) update
+
+update: database.json bin/csvize.rb
+	bundle exec bin/csvize.rb $< database
 
 database.json: database.html bin/jsonize.rb
 	bundle exec bin/jsonize.rb $< > $@
@@ -13,4 +13,4 @@ database.json: database.html bin/jsonize.rb
 database.html:
 	\curl ${URL} > database.html
 
-.PHONY: process update
+.PHONY: all update
