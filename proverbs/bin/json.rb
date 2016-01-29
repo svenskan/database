@@ -64,19 +64,12 @@ raise 'an HTML file is required' if ARGV.length < 1
 page = Nokogiri::HTML(open(ARGV[0]))
 elements = page.css('#mw-content-text')[0].children
 
-database = {}
-letter = nil
+database = []
 elements.each do |element|
-  case element.node_name
-  when 'h2'
-    letter = element.css('.mw-headline').text
-    next unless letter.length == 1
-    database[letter] = []
-  when 'ul'
-    record = Record.parse(element)
-    next if record.nil?
-    database[letter] << record
-  end
+  next unless element.node_name == 'ul'
+  record = Record.parse(element)
+  next if record.nil?
+  database << record
 end
 
 puts JSON.pretty_generate(database)

@@ -1,1506 +1,1460 @@
-{
-  "A": [
-    {
-      "expression": "Alla goda ting är tre.",
-      "translation": "All good things are three."
-    },
-    {
-      "expression": "Alla känner apan, men apan känner ingen.",
-      "translation": "Everyone knows the monkey, but the monkey knows no one.",
-      "meaning": "Those that stick out are often both well-known and avoided."
-    },
-    {
-      "expression": "Alla sätt är bra utom de dåliga.",
-      "translation": "All methods are good except for the bad ones."
-    },
-    {
-      "expression": "Alla vägar bär till Rom.",
-      "translation": "All roads lead to Rome.",
-      "meaning": "There are many different routes to the same goal."
-    },
-    {
-      "expression": "Alla är vi barn i början.",
-      "translation": "We all start out as children.",
-      "meaning": "Mistakes should be expected of beginners."
-    },
-    {
-      "expression": "Alla vill vara herrar, men ingen vill bära säcken.",
-      "meaning": "Too many people want to be the leader, and not enough people are willing to follow to do the detail work.",
-      "translation": "There are too many chiefs and not enough Indians."
-    },
-    {
-      "expression": "Allt är inte guld som glimmar.",
-      "translation": "All that glitters is not gold."
-    },
-    {
-      "expression": "Anfall är bästa försvar.",
-      "translation": "The best defense is a good offense.",
-      "meaning": "If you attack your opponents, they will be so busy fighting off your attack that they will not be able to attack you."
-    },
-    {
-      "expression": "Arga katter får rivet skinn.",
-      "translation": "Quarrelsome dogs come limping home."
-    },
-    {
-      "expression": "Att skiljas är att dö en smula.",
-      "translation": "To separate is to die a little."
-    },
-    {
-      "expression": "Att försvara ett fel är att fela igen.",
-      "translation": "To defend a wrong, is to wrong do anew."
-    },
-    {
-      "expression": "Att våga är att tappa fotfästet en stund, att inte våga är att förlora sig själv.",
-      "translation": "To dare is to lose your foothold for a moment, to not dare is to lose yourself."
-    },
-    {
-      "expression": "Av barn, fyllon och dårar får man höra sanningen.",
-      "translation": "Children, fools and drunken men tell the truth."
-    },
-    {
-      "expression": "Av skadan blir man vis.",
-      "translation": "Injury makes you wise.",
-      "meaning": "You learn from your mistakes."
-    },
-    {
-      "expression": "Avundsjukan vilar aldrig.",
-      "translation": "Envy takes no holiday."
-    }
-  ],
-  "B": [
-    {
-      "expression": "Bara döda fiskar följer strömmen.",
-      "translation": "Only dead fish follow the stream.",
-      "meaning": "Foolish people mindlessly copy others."
-    },
-    {
-      "expression": "Barn gör som du gör, inte som du säger.",
-      "translation": "Children do as you do, not as you say."
-    },
-    {
-      "expression": "Behandla andra som du själv vill bli behandlad.",
-      "translation": "Do unto others as you would have them do unto you."
-    },
-    {
-      "expression": "Blod är tjockare än vatten.",
-      "translation": "Blood is thicker than water."
-    },
-    {
-      "expression": "Blott Sverige svenska krusbär har.",
-      "translation": "Only Sweden has Swedish gooseberries.",
-      "meaning": "Sweden is a unique country."
-    },
-    {
-      "expression": "Borsta framför din egen dörr först.",
-      "translation": "Sweep your own doorstep clean."
-    },
-    {
-      "expression": "Borta bra men hemma bäst.",
-      "translation": "Away is good but home is best."
-    },
-    {
-      "expression": "Bra karl reder sig själv.",
-      "translation": "Every bird must hatch its own eggs.",
-      "meaning": "Avoid being dependent on others."
-    },
-    {
-      "expression": "Bränt barn skyr elden.",
-      "translation": "Once bitten, twice shy."
-    },
-    {
-      "expression": "Bättre brödlös än rådlös.",
-      "translation": "Better short of pence than short of sense."
-    },
-    {
-      "expression": "Bättre dåligt minne än dåliga minnen.",
-      "translation": "Poor memory is better than bad memories.",
-      "meaning": "Don’t dwell on past mistakes and bad experiences."
-    },
-    {
-      "expression": "Bättre ett ärligt nej än ett falskt ja.",
-      "translation": "Rather an honest ‘no’ than an insincere ‘yes’.",
-      "meaning": "Telling a bitter truth is usually better than lying."
-    },
-    {
-      "expression": "Bättre förekomma än förekommas.",
-      "translation": "Better give the slight than take it."
-    },
-    {
-      "expression": "Bättre en fågel i handen än tio i skogen.",
-      "translation": "A bird in the hand is worth two in the bush.",
-      "meaning": "Value the things you already have more than the things you might never get."
-    },
-    {
-      "expression": "Bättre ensam än i dåligt sällskap.",
-      "translation": "Better alone than in bad company."
-    },
-    {
-      "expression": "Bättre fly än illa fäkta.",
-      "translation": "He who fights and runs away may live to fight another day."
-    },
-    {
-      "expression": "Bättre sent än aldrig.",
-      "translation": "Better late than never."
-    },
-    {
-      "expression": "Bättre stämma i bäcken än i ån.",
-      "translation": "An ounce of prevention is worth a pound of cure.",
-      "meaning": "Be proactive about preventing bad things from happening; defects are best taken care of at an early stage."
-    },
-    {
-      "expression": "Bättre tiga än illa tala.",
-      "translation": "Man more often repents what he did say than he did not."
-    },
-    {
-      "expression": "Bättre älskat och förlorat än att aldrig ha älskat.",
-      "translation": "Tis better to have loved and lost than to have never loved at all."
-    },
-    {
-      "expression": "Bäst att smida medan järnet är varmt.",
-      "translation": "Strike while the iron is hot."
-    },
-    {
-      "expression": "Bäst bli klok av annans skada.",
-      "translation": "Wise men learn by other men’s harms, fools by their own."
-    }
-  ],
-  "D": [
-    {
-      "expression": "Delad glädje är dubbel glädje (och delad sorg är halv sorg).",
-      "translation": "Joy shared, joy doubled: sorrow shared, sorrow halved."
-    },
-    {
-      "expression": "Den dagen, den sorgen.",
-      "translation": "Cross your bridges when you reach them."
-    },
-    {
-      "expression": "Den drucknes tal är den nyktres tankar.",
-      "translation": "The drunken man’s words is the sober man’s thoughts."
-    },
-    {
-      "expression": "Den enes död, den andres bröd.",
-      "translation": "One man’s meat is another man’s poison."
-    },
-    {
-      "expression": "Den som alltid vet bäst lär sig aldrig något.",
-      "translation": "He who always knows best never learns."
-    },
-    {
-      "expression": "Den som gapar efter mycket, mister ofta hela stycket.",
-      "translation": "Grasp all, lose all.",
-      "meaning": "One who wants everything, may lose it all."
-    },
-    {
-      "expression": "Den som ger sig in i leken, får leken tåla.",
-      "translation": "He that would have eggs must endure the cackling of hens."
-    },
-    {
-      "expression": "Den som gräver en grop åt andra faller ofta själv däri.",
-      "translation": "He who digs a pit for others, often falls into it himself."
-    },
-    {
-      "expression": "Den som lever får se.",
-      "translation": "Only time will tell."
-    },
-    {
-      "expression": "Den som sover syndar icke.",
-      "translation": "Criticism is something you can avoid by saying nothing, doing nothing and being nothing."
-    },
-    {
-      "expression": "Den som spar han har.",
-      "translation": "Waste not, want not."
-    },
-    {
-      "expression": "Den som tiger han samtycker.",
-      "translation": "He who stays quiet consents."
-    },
-    {
-      "expression": "Den som viskar han ljuger.",
-      "translation": "He who whispers lies."
-    },
-    {
-      "expression": "Den som väntar på något gott, väntar aldrig för länge.",
-      "translation": "He who waits for something good never waits too long."
-    },
-    {
-      "expression": "Den spik som sticker ut blir slagen.",
-      "translation": "The nail that sticks out gets struck."
-    },
-    {
-      "expression": "Den som är fri från synd skall kasta första stenen.",
-      "translation": "Let him who is without sin cast the first stone."
-    },
-    {
-      "expression": "Det angår också dig när det brinner i grannens vägg.",
-      "translation": "It concerns you, too, when your neighbor’s wall is on fire."
-    },
-    {
-      "expression": "Det blir aldrig som man tänkt sig.",
-      "translation": "Things never turn out the way you imagined."
-    },
-    {
-      "expression": "Det blir som det blir.",
-      "translation": "We must take things as we find them."
-    },
-    {
-      "expression": "Det dunkelt sagda är det dunkelt tänkta.",
-      "translation": "What is unclearly said is unclearly thought."
-    },
-    {
-      "expression": "Det finns inget dåligt väder, bara dåliga kläder.",
-      "translation": "There’s no such thing as bad weather, only the wrong clothes."
-    },
-    {
-      "expression": "Det gäller att smida medan järnet är varmt.",
-      "translation": "Strike while the iron is hot."
-    },
-    {
-      "expression": "Det kommer inga stekta sparvar flygande i din mun.",
-      "translation": "Birds fly not into our mouth ready roasted."
-    },
-    {
-      "expression": "Det man inte har i huvudet får man ha i benen.",
-      "translation": "A forgetful head makes a weary pair of heels."
-    },
-    {
-      "expression": "Det man inte vet mår man inte dåligt av.",
-      "translation": "What you do not know does not hurt you."
-    },
-    {
-      "expression": "Det man förlorar på gungorna tar man igen på karusellen.",
-      "translation": "What you lose on the swings you gain on the roundabouts."
-    },
-    {
-      "expression": "Det ska böjas i tid det som krokigt ska bli.",
-      "translation": "Soon crooks the tree that good gambrel would be."
-    },
-    {
-      "expression": "Det som börjar med en knappnål slutar oftast med en silverskål",
-      "translation": "He that steals an egg will steal an ox."
-    },
-    {
-      "expression": "Det som inte dödar, härdar.",
-      "translation": "That which does not kill you, makes you stronger. Pain is gain."
-    },
-    {
-      "expression": "Det som göms i snö kommer fram vid tö.",
-      "translation": "What is hidden in snow is revealed at thaw."
-    },
-    {
-      "expression": "Det vattnet du hämtar ur bäcken lär dig känna källan.",
-      "translation": "The water you collect from the stream teaches you about its source."
-    },
-    {
-      "expression": "Det viktigaste är inte att vinna, utan att kämpa väl.",
-      "translation": "The most important thing is not to win, but to fight well."
-    },
-    {
-      "expression": "Det är aldrig för sent.",
-      "translation": "It is never too late."
-    },
-    {
-      "expression": "Det är bäst att bita i det sura äpplet.",
-      "translation": "Better hold with the hound, as run with the hare."
-    },
-    {
-      "expression": "Det är inte ens fel när två träter.",
-      "translation": "It takes two to make a quarrel."
-    },
-    {
-      "expression": "Det är lätt att skära breda remsor av andras läder.",
-      "translation": "Men cut large thongs of other men’s leather.",
-      "meaning": "This Proverb aims at all thoſe Perſons, who, niggardly to an Exceſs of their own, would fain gain the Character of Generous or Charitable at other People’s Expences, and ſo are very liberal of other People’s Pockets to ſave their own, either in Donations of Amity or Alms."
-    },
-    {
-      "expression": "Det är lätt att vara efterklok.",
-      "translation": "It’s easy to be wise after the event.",
-      "meaning": "With hindsight it is easy to see what went wrong or what should have been done, but this is of no practical purpose."
-    },
-    {
-      "expression": "Det är mänskligt att fela men gudomligt att förlåta.",
-      "translation": "To err is human; to forgive, divine."
-    },
-    {
-      "expression": "Det är saligare att giva än att taga.",
-      "translation": "It is more blissful to give than to receive.",
-      "meaning": "The act of giving is more worthy, noble and spiritually satisfying than the act of receiving,"
-    },
-    {
-      "expression": "Det är skönare lyss till den sträng som brast än att aldrig spänna en båge.",
-      "translation": "It is fairer to listen to the string that broke than to never strain a bow.",
-      "meaning": "It is better to fail than to never have tried."
-    },
-    {
-      "expression": "Det är som mörkast innan gryningen.",
-      "translation": "It’s always darkest before the dawn."
-    },
-    {
-      "expression": "Det är tanken som räknas.",
-      "translation": "It’s the thought that counts.",
-      "meaning": "Good intentions make up for a bad outcome."
-    },
-    {
-      "expression": "Dra inte alla över en kam.",
-      "translation": "Do not pull everyone over with a comb.",
-      "meaning": "Do not stereotype."
-    },
-    {
-      "expression": "Dra sitt strå till stacken",
-      "translation": "We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.",
-      "meaning": "To do one’s share of a work at hand (usually for a good cause)."
-    },
-    {
-      "expression": "Droppen kan urholka stenen.",
-      "translation": "Constant dripping wears the stone."
-    },
-    {
-      "expression": "Där vinet går in går vettet ut.",
-      "translation": "Where wine enters sense leaves."
-    }
-  ],
-  "E": [
-    {
-      "expression": "Efter regn kommer solsken.",
-      "translation": "It’s a long lane that has no turning.",
-      "meaning": "Hard times seldom last forever."
-    },
-    {
-      "expression": "Efteråt är intet råd.",
-      "translation": "Advice comes too late when a thing is done."
-    },
-    {
-      "expression": "Egen härd är guld värd.",
-      "translation": "There is no place like home."
-    },
-    {
-      "expression": "Eget beröm luktar illa.",
-      "translation": "Don’t blow your own horn."
-    },
-    {
-      "expression": "Elda inte för kråkorna.",
-      "translation": "Don’t light a fire for the crows.",
-      "meaning": "Don’t waste resources."
-    },
-    {
-      "expression": "En dålig hantverkare skyller på sina verktyg.",
-      "translation": "A poor craftsman blames his tools."
-    },
-    {
-      "expression": "En gnutta osaklighet sparar tonvis med förklaringar.",
-      "translation": "An ounce of lying saves tons of explanations."
-    },
-    {
-      "expression": "En kedja är inte starkare än dess svagaste länk.",
-      "translation": "A chain is only as strong as its weakest link.",
-      "meaning": "A weak part or member will affect the success or effectiveness of the whole."
-    },
-    {
-      "expression": "En knuten näve kan varken ge eller ta.",
-      "translation": "Better bow than break.",
-      "meaning": "It is better to make some confession, or pay a little deference to others, our neighbors, friends, acquaintances, and especially our superiors, rather than lose our credit or break friendship."
-    },
-    {
-      "expression": "En plats för var sak och var sak på sin plats.",
-      "translation": "A place for each thing and each thing in its place"
-    },
-    {
-      "expression": "En gång är ingen gång.",
-      "translation": "One time is no time."
-    },
-    {
-      "expression": "En gång, ingen gång — två gånger, en vana.",
-      "translation": "One time, no time—two times, a habit."
-    },
-    {
-      "expression": "En olycka kommer sällan ensam.",
-      "translation": "Misery loves company."
-    },
-    {
-      "expression": "En svala gör ingen sommar.",
-      "translation": "One swallow does not a summer make.",
-      "meaning": "Do not feel sure or rejoice noticing a favourable sign. The appearance of a single sign of a favourable event is not yet a definite indication of its coming. It may be an unrelated, sporadic appearance."
-    },
-    {
-      "expression": "En vandring på tusen mil börjar alltid med ett steg.",
-      "translation": "A journey of a thousand miles always begins with a single step."
-    },
-    {
-      "expression": "Ensam är stark.",
-      "translation": "Alone is strong.",
-      "meaning": "You can accomplish a lot on your own."
-    },
-    {
-      "expression": "Envar är sin egen lyckas smed.",
-      "translation": "Every man is the smith of his own fortune.",
-      "meaning": "In shaping one’s own fortune one should not rely on the help of others, as they are also concerned mainly about their own matters."
-    },
-    {
-      "expression": "Ett gott skratt förlänger livet.",
-      "translation": "A hearty laugh lengthens your life."
-    },
-    {
-      "expression": "Ett mjukt svar stillar vreden.",
-      "translation": "A soft answer calms the wrath."
-    },
-    {
-      "expression": "Ett rent samvete är bästa huvudkudden.",
-      "translation": "A good conscience is a soft pillow; A safe conscience makes a sound sleep."
-    }
-  ],
-  "F": [
-    {
-      "expression": "Finns det hjärterum, finns det stjärterum.",
-      "translation": "If there is room in the heart, there is room for the behind.",
-      "meaning": "Said when an effort is made to accommodate guests."
-    },
-    {
-      "expression": "Friskt vågat, hälften vunnet.",
-      "translation": "Faith is half the battle."
-    },
-    {
-      "expression": "För lata svin är marken alltid frusen.",
-      "translation": "Idle people have the least leisure."
-    },
-    {
-      "expression": "Förbjuden frukt smakar alltid bäst.",
-      "translation": "Forbidden fruit is sweet.",
-      "meaning": "Things that you must not have or do are always the most desirable."
-    },
-    {
-      "expression": "Förbjuden väg är ofta hårt sliten.",
-      "translation": "Forbidden road is often heavily worn."
-    },
-    {
-      "expression": "Först till kvarn får först mala.",
-      "translation": "First come, first served.",
-      "meaning": "Those who arrive or apply earliest are most likely to get what they want from a limited supply of things, such as tickets, discounted goods or refreshments."
-    }
-  ],
-  "G": [
-    {
-      "expression": "Gammal kärlek rostar aldrig.",
-      "translation": "Old love never rusts."
-    },
-    {
-      "expression": "Gammal är äldst.",
-      "translation": "Old is oldest.",
-      "meaning": "(Jokingly) said to imply that the older generation is superior, e.g., when an older person beats a younger one at something."
-    },
-    {
-      "expression": "Ge dig inte på berg när det finns småsten.",
-      "translation": "Don’t set about mountains when there are pebbles."
-    },
-    {
-      "expression": "Genom sig själv känner man andra.",
-      "translation": "A thief thinks everyone around him is a thief.",
-      "meaning": "You presume others are like yourself, including when it comes to bad characteristics."
-    },
-    {
-      "expression": "Genvägar är ofta senvägar.",
-      "translation": "Shortcuts are often ’longcuts’.",
-      "meaning": "What you think will be a shortcut often isn’t, since you might get lost. Also used metaphorically."
-    },
-    {
-      "expression": "Gräset är alltid grönare på andra sidan (staketet).",
-      "translation": "The grass is always greener on the far side of the hill.",
-      "meaning": "A different place, situation, job, or lifestyle always seems more attractive or appealing than your own."
-    },
-    {
-      "expression": "Gräv där du står.",
-      "translation": "Bloom where you are planted.",
-      "meaning": "It is often best to build up upon the prowess and expertise you already have."
-    },
-    {
-      "expression": "Guld blindar många, kärleken blindar alla.",
-      "translation": "Gold blinds many, love blinds all."
-    },
-    {
-      "expression": "Gå inte över ån efter vatten.",
-      "translation": "Do not cross the brook for water.",
-      "meaning": "Do not do things in a needlessly laborious or complicated way."
-    },
-    {
-      "expression": "Gör inte en höna av en fjäder.",
-      "translation": "Don’t make a mountain out of a molehill.",
-      "meaning": "Do not blow things out of proportion."
-    },
-    {
-      "expression": "Gör om, gör rätt.",
-      "translation": "If at first you don’t succeed, try, try again.",
-      "meaning": "If you possess the ability to learn from your mistakes, then failure is literally impossible, because each rejection brings you closer to perfection."
-    }
-  ],
-  "H": [
-    {
-      "expression": "Han har varit I Rom men inte sett Påven.",
-      "translation": "He was in Rome and did not see the pope."
-    },
-    {
-      "expression": "Har man sagt A får man säga B.",
-      "translation": "Who says \"A\" must say \"B\".",
-      "meaning": "If you say or do one thing, you must be prepared to do or say what logically follows."
-    },
-    {
-      "expression": "Har man tagit fan i båten får man ro honom i land.",
-      "translation": "Better never begun, as never ended."
-    },
-    {
-      "expression": "Hastig rikedom gör mannen misstänkt.",
-      "translation": "No one gets rich quickly if he is honest."
-    },
-    {
-      "expression": "Hellre en fågel i handen än tio i skogen.",
-      "translation": "A bird in the hand is worth two in the bush.",
-      "meaning": "Something you have for certain now is of more value than something better you may get, especially if you risk losing what you have in order to get it."
-    },
-    {
-      "expression": "Hellre fria en skyldig än fälla en oskyldig.",
-      "translation": "It is better to free someone guilty than to convict someone innocent."
-    },
-    {
-      "expression": "Hoppet är det sista som lämnar människan.",
-      "translation": "Hope is the last thing to leave a human being."
-    },
-    {
-      "expression": "Hungern är bästa kryddan.",
-      "translation": "Hunger is the best flavouring."
-    },
-    {
-      "expression": "Hur man än vänder sig har man ändan bak.",
-      "translation": "Whichever way you turn you have your end in the back.",
-      "meaning": "Used to express frustration things seems to go wrong no matter what you do."
-    },
-    {
-      "expression": "Hut går hem.",
-      "translation": "Hoots goes home.",
-      "meaning": "If you treat others in a bad way, you are likely to be treated in a bad way yourself."
-    },
-    {
-      "expression": "Huvudkudden är bästa rådgivaren.",
-      "translation": "Take counsel of one’s pillow."
-    },
-    {
-      "expression": "Hälsan tiger still.",
-      "translation": "Health is quietly keeping silent [sic!].",
-      "meaning": "Those who are healthy do not appreciate it."
-    },
-    {
-      "expression": "Hämnden är ljuv.",
-      "translation": "Revenge is sweet."
-    },
-    {
-      "expression": "Högmod går före fall.",
-      "translation": "Pride goes before fall."
-    }
-  ],
-  "I": [
-    {
-      "expression": "I de blindas rike är den enögde kung.",
-      "translation": "Among the blind, the one-eyed is king."
-    },
-    {
-      "expression": "I de lugnaste vattnen går de fulaste fiskarna.",
-      "translation": "An honest look covereth many faults.",
-      "meaning": "An innocent demeanor may hide much guilt."
-    },
-    {
-      "expression": "I krig och kärlek är allt tillåtet.",
-      "translation": "All is fair in love and war."
-    },
-    {
-      "expression": "I mörker är alla katter grå.",
-      "translation": "In the dark all cats are gray."
-    },
-    {
-      "expression": "I nöden prövas vännen.",
-      "translation": "A friend in need is a friend indeed."
-    },
-    {
-      "expression": "I vinet kommer sanningen fram.",
-      "translation": "In wine there is truth.",
-      "meaning": "Alcohol consumed removes the inhibition against telling the truth that occasionally one would like to keep secret."
-    },
-    {
-      "expression": "I öknen är sanden billig.",
-      "translation": "Beggars can’t be choosers.",
-      "meaning": "Supply and demand rules."
-    },
-    {
-      "expression": "Ibland kan man inte se skogen på grund av alla träd.",
-      "translation": "He is missing the forest because of the trees."
-    },
-    {
-      "expression": "Idel solsken gör öken.",
-      "translation": "Too much of one thing, good for nothing",
-      "meaning": "You can have too much of something good."
-    },
-    {
-      "expression": "Inga nyheter är goda nyheter.",
-      "translation": "No news is good news."
-    },
-    {
-      "expression": "Inga träd växer till himmelen.",
-      "translation": "All that is fair must fade."
-    },
-    {
-      "expression": "Ingen rök utan eld.",
-      "translation": "Every why has its wherefore."
-    },
-    {
-      "expression": "Ingen är oumbärlig.",
-      "translation": "No one is indispensable."
-    },
-    {
-      "expression": "Ingen är profet i sitt eget land/i sin egen hemstad.",
-      "translation": "A prophet is not honoured in his own country.",
-      "meaning": "An outstanding person is often less respected at home than elsewhere. This may be due to personal reasons unrelated to his achievments, or the result of being in an indifferent/ignorant/hostile community."
-    },
-    {
-      "expression": "Ingenting är nytt under solen.",
-      "translation": "Nothing is new under the sun.",
-      "meaning": "Someone has always done the same thing earlier."
-    },
-    {
-      "expression": "Inget kalas utan kras.",
-      "translation": "No party without shattering."
-    },
-    {
-      "expression": "Inget ont som inte har något gott med sig.",
-      "translation": "No cloud without a silver lining."
-    },
-    {
-      "expression": "Inget är så bra att det inte kan göras bättre.",
-      "translation": "Nothing is so good that it can’t be made better."
-    }
-  ],
-  "J": [
-    {
-      "expression": "Ju fler kockar desto sämre soppa.",
-      "translation": "Too many cooks spoil the broth."
-    },
-    {
-      "expression": "Ju närmare källan, desto klarare vatten.",
-      "translation": "The closer to the source, the clearer the water."
-    },
-    {
-      "expression": "Ju senare på kvällen, desto vackrare folk.",
-      "translation": "The later in the evening, the more beautiful the people."
-    }
-  ],
-  "K": [
-    {
-      "expression": "Kaka söker maka.",
-      "translation": "Like will to like.",
-      "meaning": "Every man loves well what is like to himself."
-    },
-    {
-      "expression": "Kasta inte pärlor för svin.",
-      "translation": "Do not throw pearls before swine."
-    },
-    {
-      "expression": "Kasta inte ut barnet med badvattnet.",
-      "meaning": "Do not reject something in its entirety just because parts of it are bad; other parts might be good.",
-      "translation": "Do not throw the baby out with the bathwater."
-    },
-    {
-      "expression": "Kasta inte sten i glashus.",
-      "translation": "Don’t throw stones in glasshouses."
-    },
-    {
-      "expression": "Klaga inte över för lite vind - lär dig segla.",
-      "translation": "Don’t complain about lack of wind—learn to sail."
-    },
-    {
-      "expression": "Kommer tid kommer råd.",
-      "translation": "Comes time comes counsel."
-    },
-    {
-      "expression": "Kläderna gör mannen.",
-      "translation": "The tailor makes the man."
-    },
-    {
-      "expression": "Kärleken är blind.",
-      "translation": "Love is blind."
-    },
-    {
-      "expression": "Kärt barn har många namn.",
-      "translation": "A beloved child has many names.",
-      "meaning": "Someone or something which is popular is often referred to by many different epithets."
-    },
-    {
-      "expression": "Köp inte grisen i säcken.",
-      "translation": "Let the buyer have a thousand eyes for the seller wants only one."
-    }
-  ],
-  "L": [
-    {
-      "expression": "Lagt kort ligger.",
-      "translation": "You can’t un-ring a bell.",
-      "meaning": "Said when something cannot be undone or taken back."
-    },
-    {
-      "expression": "Lat skräddare tar en lång tråd.",
-      "translation": "A lazy tailorer uses a long thread.",
-      "meaning": "Lazy people are wasteful."
-    },
-    {
-      "expression": "Lika barn leka bäst.",
-      "translation": "Alike children play the best."
-    },
-    {
-      "expression": "Lita inte till en annan, det du själv kan göra.",
-      "translation": "For what thou canst do thyself, rely not on another."
-    },
-    {
-      "expression": "Liten tuva stjälper ofta stort lass.",
-      "translation": "A small tuft often overturns a big load."
-    },
-    {
-      "expression": "Lyckan kan inte köpas för pengar.",
-      "translation": "Money cannot buy happiness."
-    },
-    {
-      "expression": "Lyckan kommer lyckan går.",
-      "translation": "The wheel of fortune is forever in motion.",
-      "meaning": "People’s fortunes are constantly changing—somebody who has good luck one year may have bad luck the next, and vice versa. "
-    },
-    {
-      "expression": "Lyckan står den djärve bi.",
-      "meaning": "Those who act boldly or courageously are most likely to succeed.",
-      "translation": "Fortune favours the bold."
-    },
-    {
-      "expression": "Lägg inte alla ägg i samma korg.",
-      "translation": "Don’t put all the eggs in the same basket.",
-      "meaning": "Spread your risks or investments so that if one enterprise fails you will not lose everything."
-    },
-    {
-      "expression": "Lägg inte sten på börda.",
-      "translation": "Don’t add fuel to the fire.",
-      "meaning": "One should not make a bad situation even worse by an improper remark."
-    },
-    {
-      "expression": "Lärdom är mer värt än guld.",
-      "translation": "Insight is more valuable than gold."
-    },
-    {
-      "expression": "Lätt fånget, lätt förgånget.",
-      "translation": "Easy come, easy go."
-    },
-    {
-      "expression": "Lättare döljer en vis sin visdom än en dåre sin dårskap.",
-      "translation": "Easier hides a wise man his wisdom than a fool his madness."
-    },
-    {
-      "expression": "Lättare sagt än gjort.",
-      "meaning": "It is usually far easier to advice, suggest, or talk about doing something than actually to do it.",
-      "translation": "Easier said than done."
-    },
-    {
-      "expression": "Låt inte gräset gro under fötterna.",
-      "translation": "Don’t let grass grow on your feet.",
-      "meaning": "Try new things!"
-    },
-    {
-      "expression": "Låt inte vargen vakta fåren.",
-      "meaning": "This Proverb reflects upon the ill Conduct of Men in the Management of their Affairs, by intrufting either Sharpers with their Money, Blabs with their Secrets, or Enemies or Informer: with their Lives: For no Obligation can bind againft Nature: A Fox will love a Goofe ftill, though his Skin be ftript over his Ears for it; and a Common Cheat will always follow his old Trade of tricking his Friend, in fpite of all Promifes and Principle: of Honour, Honefty, and good Faith.",
-      "translation": "A nice wife and a back door oft do make a rich man poor."
-    },
-    {
-      "expression": "Låt maten tysta mun.",
-      "translation": "Let the food silence the mouth.",
-      "meaning": "Said when someone is being inappropriately loud at the dinner table—often to children."
-    },
-    {
-      "expression": "Lögnaren blir bara trodd en gång.",
-      "translation": "The liar will only be trusted once.",
-      "meaning": "Liars must remember the untruths they have told, to avoid contradicting themselves at some later date."
-    }
-  ],
-  "M": [
-    {
-      "expression": "Man måste lära sig krypa innan man kan gå.",
-      "translation": "Learn to walk before you can run.",
-      "meaning": "It is necessary to learn the basics before progressing to more advanced things."
-    },
-    {
-      "expression": "Magen mättas förr än ögat.",
-      "translation": "The eye is bigger than the belly."
-    },
-    {
-      "expression": "Man får ta saken i egna händer.",
-      "translation": "One must take matters into one’s own hands.",
-      "meaning": "If something is bugging you, take care of the problem yourself."
-    },
-    {
-      "expression": "Man får ta seden dit man kommer.",
-      "translation": "When in Rome, do as the Romans; When among wolves you must howl."
-    },
-    {
-      "expression": "Man har aldrig roligare än vad man gör sig.",
-      "translation": "You never have more fun than what you do.",
-      "meaning": "How much fun you have depends on what you choose to do."
-    },
-    {
-      "expression": "Man hör vad man vill höra.",
-      "translation": "None is as deaf as he who does not want to hear."
-    },
-    {
-      "expression": "Man lär så länge man lever.",
-      "translation": "One learns as long as one lives."
-    },
-    {
-      "expression": "Man lär sig av misstagen.",
-      "translation": "One learns from mistakes."
-    },
-    {
-      "expression": "Man kan inte både äta kakan och ha kakan kvar.",
-      "translation": "You can’t have your cake and eat it too.",
-      "meaning": "You cannot do two mutually incompatible things at the same time."
-    },
-    {
-      "expression": "Man kan inte lära gamla hundar sitta.",
-      "translation": "You can’t teach an old dog new tricks.",
-      "meaning": "Old people are often unwilling or unable to learn new skills or adopt new methods."
-    },
-    {
-      "expression": "Man måste rätta munnen efter matsäcken.",
-      "translation": "Cut your cloak according to your cloth.",
-      "meaning": "You have to match your revenues with your expenses."
-    },
-    {
-      "expression": "Man saknar inte kon förrän båset är tomt.",
-      "translation": "You never miss the well till it runs dry.",
-      "meaning": "We tend to take some things for granted, and become aware of their value only when they are no longer available."
-    },
-    {
-      "expression": "Man ska inte bjuda bagarbarn på bullar.",
-      "translation": "One should not offer cinnamon rolls to baker’s children.",
-      "meaning": "Avoid doing redundant things."
-    },
-    {
-      "expression": "Man skall inte byta häst mitt i strömmen.",
-      "translation": "Don’t change horses in midstream.",
-      "meaning": "It is often wise not to quit an undertaking already begun."
-    },
-    {
-      "expression": "Man ska inte buga för dumheten bara för att den är gammal.",
-      "translation": "Might is not always right.",
-      "meaning": "Authorities, old customs and old institutions might be in the wrong."
-    },
-    {
-      "expression": "Man ska inte döma hunden efter håren.",
-      "translation": "Never judge a book by its cover; Never judge by appearances.",
-      "meaning": "Do not make a judgment about something or somebody on the basis of outward appearance alone."
-    },
-    {
-      "expression": "Man ska inte gjuta olja på elden.",
-      "translation": "Don’t add fuel to the fire.",
-      "meaning": "One should not make a bad situation even worse by an improper remark."
-    },
-    {
-      "expression": "Man ska inte gråta över spilld mjölk.",
-      "translation": "Do not weep over spilled milk.",
-      "meaning": "Dwelling on past mishaps will only waste your time."
-    },
-    {
-      "expression": "Man tröttnar aldrig på att arbeta för sig själv.",
-      "translation": "A man does not feel a burden of his own choosing."
-    },
-    {
-      "expression": "Man är alltid sig själv närmast.",
-      "translation": "Skin is nearer than the skirt.",
-      "meaning": "When you make decisions you choose which is best for yourself rather than taking into consideration ethical or ideological convictions."
-    },
-    {
-      "expression": "Medan gräset gror, dör kon.",
-      "translation": "While the grass grows the steed starves."
-    },
-    {
-      "expression": "Mister du en så står dig tusen åter.",
-      "translation": "There are plenty of fish in the sea.",
-      "meaning": "Usually used concerning broken hearts. There is also a continuation for it: Väljer du en så är det tusen som gråter. (If you choose one, a thousand will cry.)."
-    },
-    {
-      "expression": "Morgonstund har guld i mund.",
-      "translation": "The early bird catches the worm."
-    },
-    {
-      "expression": "Mycket vill ha mer.",
-      "translation": "Much would have more.",
-      "meaning": "When you have much of something, you will want even more."
-    },
-    {
-      "expression": "Måla inte fan på väggen.",
-      "translation": "Don’t paint the devil on the wall."
-    },
-    {
-      "expression": "Många bäckar små, blir till en stor å.",
-      "translation": "Small streams make great rivers."
-    },
-    {
-      "expression": "Många hugg fälla eken.",
-      "meaning": "A difficult task, e. g. removing a person/group from a strong position, or changing established ideas cannot be done quickly. It can be achieved gradually, by small steps, a little at a time.",
-      "translation": "Many strokes cut down great oaks."
-    },
-    {
-      "expression": "Människan spår, men gud rår.",
-      "translation": "Man proposes, God disposes."
-    }
-  ],
-  "N": [
-    {
-      "expression": "Nya kvastar sopar bäst.",
-      "translation": "A new broom sweeps clean.",
-      "meaning": "We should never use an old tool when the extra labor in consequence costs more than a new one. Thousands wear out their lives and waste their time merely by the use of dull and unsuitable instruments."
-    },
-    {
-      "expression": "Någon måtta får det vara.",
-      "translation": "There must be some moderation."
-    },
-    {
-      "expression": "När det regnar manna från himlen har den fattige ingen sked.",
-      "translation": "When it rains manna from heaven, the poor one does not have a spoon."
-    },
-    {
-      "expression": "När det regnar på prästen, så droppar det på klockaren.",
-      "translation": "When it rains on the priest, it dripples on the sacristan.",
-      "meaning": "When someone is successful, his subordinates are a little better off as well."
-    },
-    {
-      "expression": "När fan blir gammal blir han religiös.",
-      "translation": "When the devil grows old he turns religious.",
-      "meaning": "People often become more religious as they get closer to death. Also used metaphorically when people appear to change in self-serving ways."
-    },
-    {
-      "expression": "När Gud kommer med döden, kommer fan med arvingarna.",
-      "translation": "When God brings death, the devil brings heirs."
-    },
-    {
-      "expression": "När man talar om trollen så står de i farstun och lyssnar.",
-      "translation": "Speak of the devil..."
-    },
-    {
-      "expression": "När musen är mätt, smakar mjölet beskt.",
-      "translation": "When the mouse is full, the flour tastes bitter.",
-      "meaning": "When you finally got something, you don’t appreciate it anymore."
-    },
-    {
-      "expression": "När nöden är som störst är hjälpen som närmast.",
-      "translation": "When distress is the greatest, help is the nearest."
-    },
-    {
-      "expression": "När katten är borta dansar råttorna på bordet.",
-      "translation": "When the cat’s away, the mice will play.",
-      "meaning": "In the absence of the person in authority those under his control will often neglect the duties/rules imposed on them."
-    },
-    {
-      "expression": "Nära skjuter ingen hare.",
-      "translation": "Close but no cigar."
-    },
-    {
-      "expression": "Nöden har ingen lag.",
-      "translation": "Necessity has no law.",
-      "meaning": "It is acceptable to break rules in times of need."
-    },
-    {
-      "expression": "Nöden är uppfinningarnas moder.",
-      "translation": "Necessity is the mother of invention."
-    }
-  ],
-  "O": [
-    {
-      "expression": "Om en blind leder en blind, så faller de båda i gropen.",
-      "translation": "If a blind leads a blind man both shall fall into a ditch.",
-      "meaning": "A person ignorant or inexperienced in something cannot assist someone similar."
-    },
-    {
-      "expression": "Om kvällen får den late brått.",
-      "translation": "During the evening the lazy get in a hurry."
-    },
-    {
-      "expression": "Om man ger någon ett finger vill han ha hela handen.",
-      "translation": "Give him an inch and he will take a yard.",
-      "meaning": "People are inclined to take excessive advantage of the tolerance or generosity of others; often used to warn against making even the smallest concession."
-    },
-    {
-      "expression": "Omväxling förnöjer.",
-      "translation": "Variety delights."
-    },
-    {
-      "expression": "Ont krut förgås inte så lätt.",
-      "translation": "Evil gun powder doesn’t go away easily.",
-      "meaning": "Adverse things are long lived."
-    },
-    {
-      "expression": "Ont skall med ont fördrivas.",
-      "translation": "Fight fire with fire; Like cures like."
-    },
-    {
-      "expression": "Osvuret är bäst.",
-      "translation": "Be quick to act, and slow to promise.",
-      "meaning": "Avoid making promises (to yourself as well)."
-    },
-    {
-      "expression": "Otack är världens lön.",
-      "translation": "Ingratitude is the world’s reward.",
-      "meaning": "Said when it is felt that someone hasn’t received the praise or compensation he deserves."
-    }
-  ],
-  "P": [
-    {
-      "expression": "Pengar luktar inte.",
-      "translation": "Money does not smell.",
-      "meaning": "Money has a value regardless of how it is earned."
-    },
-    {
-      "expression": "Pengar växer inte på träd.",
-      "translation": "Money does not grow on trees."
-    },
-    {
-      "expression": "Pengar öppnar alla portar utom himmelens.",
-      "translation": "Money opens all gates but heaven’s."
-    },
-    {
-      "expression": "Prisa inte dagen förrän solen har gått ner.",
-      "translation": "Don’t praise the day before the sun has set.",
-      "meaning": "Don’t celebrate until you are 100% sure there is a reason to."
-    },
-    {
-      "expression": "På rullande sten växer ingen mossa.",
-      "translation": "A rolling stone gathers no moss.",
-      "meaning": "The unsettled person does not prosper."
-    },
-    {
-      "expression": "Politiker är som krokodiler, stora i käften men saknar öron.",
-      "translation": "Politicians are like crocodiles—big jaws but no ears."
-    }
-  ],
-  "R": [
-    {
-      "expression": "Rom byggdes inte på en dag.",
-      "translation": "Rome was not built in one day.",
-      "meaning": "Large undertakings need proper time to complete, they cannot be done quickly."
-    },
-    {
-      "expression": "Ropa inte hej förrän du är över bäcken.",
-      "translation": "Don’t celebrate until you have crossed the creek.",
-      "meaning": "Don’t cap a victory in advance, and don’t announce something officially which you are not entirely sure of."
-    }
-  ],
-  "S": [
-    {
-      "expression": "Synden straffar sig själv.",
-      "translation": "Sin punishes itself.",
-      "meaning": "Said when someone gets in trouble due to having acted in a bad way."
-    },
-    {
-      "expression": "Sagt ord och kastad sten kan inte tas tillbaka.",
-      "meaning": "You can’t take back what you have said.",
-      "translation": "A spoken word and a thrown stone cannot be called back."
-    },
-    {
-      "expression": "Sakta men säkert.",
-      "translation": "Slow and steady wins the race."
-    },
-    {
-      "expression": "(För) sent skall syndaren vakna.",
-      "translation": "(Too) late shall the sinner awaken."
-    },
-    {
-      "expression": "Själv är bästa dräng.",
-      "translation": "If you want something done, do it yourself."
-    },
-    {
-      "expression": "Skam den som ger sig.",
-      "translation": "Shame on he who gives up."
-    },
-    {
-      "expression": "Skadeglädjen är den enda sanna glädjen.",
-      "translation": "Schadenfreude is the only true joy."
-    },
-    {
-      "expression": "Skenet bedrar.",
-      "translation": "Never judge by appearances; Judge not a man and things at first sight.",
-      "meaning": "Things are not always as they seem, and you can not necessarily trust the evidence of your eyes."
-    },
-    {
-      "expression": "Skjut inte dig själv i foten.",
-      "translation": "Don’t shoot yourself in the foot."
-    },
-    {
-      "expression": "Skjut inte upp till morgondagen det du kan göra idag.",
-      "translation": "Don’t postpone till tomorrow what you can do today."
-    },
-    {
-      "expression": "Skomakare bliv vid din läst.",
-      "translation": "A blind man should not judge of colours."
-    },
-    {
-      "expression": "Skrattar bäst, som skrattar sist.",
-      "translation": "He who laughs last, laughs longest."
-    },
-    {
-      "expression": "Skynda långsamt.",
-      "translation": "Hurry slowly.",
-      "meaning": "Do your work slowly to make sure it gets done thoroughly."
-    },
-    {
-      "expression": "Skåda inte given häst i mun.",
-      "translation": "Look not a horse in the mouth.",
-      "meaning": "And so with respect to gifts and donations in general, whether their value be more or less, they should be accounted tokens of kindness and received with promptness and cordiality."
-    },
-    {
-      "expression": "Slutet gott, allting gott.",
-      "translation": "All is well that ends well."
-    },
-    {
-      "expression": "Smakar det så kostar det.",
-      "translation": "If you buy quality you only cry once.",
-      "meaning": "You get what you pay for."
-    },
-    {
-      "expression": "Smaken är som baken, delad.",
-      "translation": "There is no accounting for taste.",
-      "meaning": "Taste is subjective."
-    },
-    {
-      "expression": "Smedens häst och skomakarens ungar är sämst skodda.",
-      "translation": "Cobblers’ children are worst shod.",
-      "meaning": "Working hard for others one may neglect one’s own needs or the needs of those closest to him."
-    },
-    {
-      "expression": "Små smulor är också bröd."
-    },
-    {
-      "expression": "Små sår och fattiga vänner ska man inte förakta.",
-      "translation": "Small wounds and poor friends should not be despised."
-    },
-    {
-      "expression": "Snålheten bedrar visheten.",
-      "translation": "If you buy cheaply you pay dearly."
-    },
-    {
-      "expression": "Som de gamla sjunga, så kvittra de unga.",
-      "translation": "As old people sing, young people tweet.",
-      "meaning": "Young people grow up to be like old people."
-    },
-    {
-      "expression": "Som fan läser bibeln.",
-      "translation": "The devil can cite scripture for his purpose. (From Shakespeare, Merchant in Venice act 1, scene 3)"
-    },
-    {
-      "expression": "Som man bäddar får man ligga.",
-      "translation": "As you make your bed, so you must lie."
-    },
-    {
-      "expression": "Som man ropar får man svar.",
-      "translation": "As you shout you get will be answered. (As you shout in the forest you will be answered.)",
-      "meaning": "General: The way you formulate a question or a statement will affect the answer you get. Also: your own behavior affects other people’s behavior towards you, e.g., You will be treated politely to the same extent that you yourself act politely."
-    },
-    {
-      "expression": "Som man sår får man skörda.",
-      "meaning": "The consequences are directly related to one’s actions.",
-      "translation": "As you sow, so shall you reap."
-    },
-    {
-      "expression": "Som man är klädd blir man hädd.",
-      "translation": "Fine feathers make fine birds.",
-      "meaning": "By dressing in elegant or good-quality clothing, people create a favorable impression on others, often appearing to be of better breeding or higher class than they are"
-    },
-    {
-      "expression": "Somliga straffar Gud direkt.",
-      "translation": "Some people are punished immediately by God.",
-      "meaning": "Used sarcastically when something bad—and possibly unrelated—happens to someone just after they have acted in a bad way."
-    },
-    {
-      "expression": "Sovande bonde får drömmande dräng.",
-      "translation": "A sleepy master makes his servant a lout."
-    },
-    {
-      "expression": "Spill inte krut på döda kråkor.",
-      "translation": "Don’t beat a dead horse."
-    },
-    {
-      "expression": "Spotta inte i motvind.",
-      "translation": "Strive not against the stream."
-    },
-    {
-      "expression": "Stor i orden, liten på jorden.",
-      "translation": "The worst wheel makes the most noise.",
-      "meaning": "Said about braggarts that have little to show for themselves."
-    },
-    {
-      "expression": "Surt sade räven om rönnbären.",
-      "translation": "Sour grapes.",
-      "meaning": "From a story about a fox that wants to eat some rowanberries that he can’t reach because they’re high up in a tree. A crow lands in the tree and starts eating the berries. When the crow asks the fox if he wants some, the fox replies No, they’re sour. The proverb can be used to state that you think someone really wants something the person claims they do not or that the person makes up an excuse for not wanting it because they cannot get it anyway."
-    },
-    {
-      "expression": "Svårigheter finns till för att övervinnas.",
-      "translation": "Adversity exists to be overcome."
-    },
-    {
-      "expression": "Så länge det finns liv finns det hopp.",
-      "translation": "While there is life there is hope.",
-      "meaning": "No matter how grave the situation is, there is always a chance that everything will work out."
-    },
-    {
-      "expression": "Sådan herre, sådan dräng/slav/hund.",
-      "translation": "Like master, like man.",
-      "meaning": "Servants and other workers tend to follow the good or bad example set by their employers."
-    },
-    {
-      "expression": "Sådan moder, sådan dotter.",
-      "translation": "Like mother, like daughter.",
-      "meaning": "Daughters may look and behave like their mothers. This is due to inheritance and the example observed closely and daily."
-    },
-    {
-      "expression": "Sådan fader, sådan son.",
-      "translation": "Like father, like son.",
-      "meaning": "Sons may look and behave like their fathers. This is due to inheritance and the example observed closely and daily."
-    },
-    {
-      "expression": "Såga inte av den gren du sitter på.",
-      "translation": "Don’t saw off the branch you’re sitting on."
-    },
-    {
-      "expression": "Sälj inte skinnet förrän björnen är skjuten.",
-      "translation": "Sell not the bear’s skin before you have caught him.",
-      "meaning": "Do not plan too far ahead and do not be too optimistic. One cannot be sure of the success of a job until it is completed. Unforeseen unfavourable developments can never be excluded."
-    },
-    {
-      "expression": "Sök och du skall finna.",
-      "meaning": "You must make a personal effort to get what you want.",
-      "translation": "Seek and ye shall find."
-    }
-  ],
-  "T": [
-    {
-      "expression": "Ta tjuren vid hornen.",
-      "translation": "Grab the bull by its horns.",
-      "meaning": "To directly tackle a difficult problem."
-    },
-    {
-      "expression": "Tala är silver, tiga är guld.",
-      "translation": "Silence is golden."
-    },
-    {
-      "expression": "Tala med bönder på bönders vis och med de lärde på latin.",
-      "translation": "Speak with farmers like farmers speak, and with the educated in latin.",
-      "meaning": "Adjust your message after the receivers ability to understand what you are saying"
-    },
-    {
-      "expression": "Tiden går fort när man har roligt.",
-      "translation": "Time passes by quickly when you are enjoying yourself."
-    },
-    {
-      "expression": "Tiden läker alla sår.",
-      "translation": "Time heals all wounds."
-    },
-    {
-      "expression": "Tillfället gör tjuven.",
-      "translation": "Opportunity makes the thief."
-    },
-    {
-      "expression": "Tomma tunnor skramlar mest.",
-      "translation": "It’s the empty can that makes the most noise.",
-      "meaning": "It is not he who advertises for himself the most that can achieve the greatest results."
-    },
-    {
-      "expression": "Trägen vinner.",
-      "translation": "God is with those who persevere; Persevere and never fear."
-    },
-    {
-      "expression": "Tron kan försätta berg.",
-      "translation": "Faith will move mountains.",
-      "meaning": "Nothing is impossible to those who have sufficient faith; applied not only to religious faith, but to any strong belief in a cause or objective."
-    },
-    {
-      "expression": "Tänk efter före.",
-      "translation": "Look before you leap."
-    },
-    {
-      "expression": "Två fel gör inte ett rätt.",
-      "meaning": "Wrongdoing is always unacceptable, even if another person has done the same thing.",
-      "translation": "Two wrongs do not make a right."
-    },
-    {
-      "expression": "Tålamod är konsten att hoppas.",
-      "translation": "Patience is the art of hoping."
-    }
-  ],
-  "U": [
-    {
-      "expression": "Undantaget bekräftar regeln.",
-      "translation": "The exception proves the rule.",
-      "meaning": "The existence of an exception to a rule shows that the rule itself exists and is applicable in other cases; often used loosely to explain away any such inconsistency."
-    }
-  ],
-  "V": [
-    {
-      "expression": "Var dag har nog av sin egen plåga.",
-      "translation": "Sufficient untill the day is the evil thereof."
-    },
-    {
-      "expression": "Var sak har sin tid.",
-      "translation": "Everythings in its season."
-    },
-    {
-      "expression": "Var fågel sjunger efter sin egen näbb.",
-      "translation": "Different strokes, suit different folks."
-    },
-    {
-      "expression": "Var skall sleven vara om inte i grytan?",
-      "translation": "Let him that is cold blow the coals."
-    },
-    {
-      "expression": "Var smed har sin sed.",
-      "translation": "Each smith has his custom.",
-      "meaning": "Each household has its own customs."
-    },
-    {
-      "expression": "Varav hjärtat är fullt talar munnen.",
-      "translation": "The tongue ever turns to the aching tooth; What the heart thinketh the tongue speaketh."
-    },
-    {
-      "expression": "Varje moln har en silverkant.",
-      "translation": "Every cloud has a silver lining.",
-      "meaning": "Bad situations often bring something good with them."
-    },
-    {
-      "expression": "Varnad är väpnad.",
-      "translation": "Warned is forearmed.",
-      "meaning": "A warned person is prepared."
-    },
-    {
-      "expression": "Verkligheten överträffar dikten.",
-      "translation": "Fact is stranger than fiction.",
-      "meaning": "Things that happen in real life are often far more unlikely than those dreamed up by writers."
-    },
-    {
-      "expression": "Vill man vara fin får man lida pin.",
-      "translation": "No pain, no gain; Nothing ventured, nothing gained."
-    },
-    {
-      "expression": "Vis är den som råd lyder, men oråd skall ingen lyda.",
-      "translation": "Those are wise that heed advice, but no one should heed dissuasive advice.",
-      "meaning": "Advice often contain a genuine warning or an effective suggestion, which is unprudent not to take into consideration."
-    },
-    {
-      "expression": "Visdomen har långa öron och kort tunga.",
-      "translation": "Nature gave us two ears and one mouth."
-    },
-    {
-      "expression": "Väck inte den björn som sover.",
-      "translation": "Let sleeping dogs lie.",
-      "meaning": "Do not cause trouble by disturbing a stable—but potentially problematic—situation."
-    },
-    {
-      "expression": "Vännens örfil är ärligt menad, fiendens kyssar vill bedra.",
-      "translation": "A friend’s frown is better than a foe’s smile."
-    },
-    {
-      "expression": "Vägen till helvetet är kantad med goda föresatser.",
-      "translation": "The road to hell is paved with good intentions."
-    },
-    {
-      "expression": "Vägen till mannens hjärta går genom magen.",
-      "meaning": "The best way to please a man is by feeding him well.",
-      "translation": "The way to a man’s heart is through his stomach."
-    },
-    {
-      "expression": "Väggarna har öron.",
-      "translation": "The walls have ears.",
-      "meaning": "Someone you are talking about will often overhear your conversation."
-    },
-    {
-      "expression": "Världen är liten.",
-      "meaning": "It is amazing how often you meet somebody you know—or somebody who knows one of your friends or relatives, comes from your home town, or went to your school—in a distant or unexpected place; said when such a coincidence occurs.",
-      "translation": "It’s a small world."
-    }
-  ],
-  "Å": [
-    {
-      "expression": "Åsnan känns igen på öronen, den dumme på sina ord.",
-      "translation": "The donkey is known by his ears, the fool by his words."
-    }
-  ],
-  "Ä": [
-    {
-      "expression": "Älska mig när jag minst av allt förtjänar det, för det är då jag behöver det som mest.",
-      "translation": "Love me when I least deserve it, because that is when I need it the most."
-    },
-    {
-      "expression": "Ändamålet helgar medlen.",
-      "meaning": "Any course of action, however immoral or unscrupulous, is justifiable if it achieves a worthy objective.",
-      "translation": "The end justifies the means."
-    },
-    {
-      "expression": "Äpplet faller inte långt från trädet.",
-      "translation": "The apple does not fall far from the tree.",
-      "meaning": "Children observe daily and—in their behaviour—often follow the example of their parents."
-    },
-    {
-      "expression": "Är det inte det ena så är det det andra, sa flickan som blödde näsblod.",
-      "translation": "‘If it isn’t one thing it’s the other’ said the girl with a nosebleed.",
-      "meaning": "There is always something to be dissatisfied with."
-    },
-    {
-      "expression": "Är huvudet dumt får kroppen lida.",
-      "translation": "If the head is dumb, the body suffers.",
-      "meaning": "Said when someone hurts him or herself through a foolish act."
-    },
-    {
-      "expression": "Ärlighet varar längst.",
-      "translation": "Honesty is the best policy.",
-      "meaning": "Being honest or telling the truth is always the wisest course of action."
-    },
-    {
-      "expression": "Äras den som äras bör.",
-      "translation": "Give credit where credit is due."
-    },
-    {
-      "expression": "Äta bör man annars dör man.",
-      "translation": "One should eat or one dies."
-    },
-    {
-      "expression": "Även den bäste kan fela.",
-      "translation": "A good marksman may miss."
-    },
-    {
-      "expression": "Även dåren tros vis om han tiger.",
-      "translation": "Even a fool when he holdeth his peace is counted wise."
-    },
-    {
-      "expression": "Även en blind höna kan hitta ett korn.",
-      "translation": "Even a blind pig may occasionally pick up an acorn.",
-      "meaning": "An incompetent person or an unsystematic approach is bound to succeed every now and then by chance."
-    },
-    {
-      "expression": "Även små grytor har öron.",
-      "translation": "Little pitchers have big ears.",
-      "meaning": "Children often understand more than one might think."
-    },
-    {
-      "expression": "Även solen har sina fläckar.",
-      "translation": "Every rose has its thorns.",
-      "meaning": "No one is perfect."
-    }
-  ],
-  "Ö": [
-    {
-      "expression": "Öga för öga, tand för tand.",
-      "meaning": "Retaliation or punishment should take the same form as the original offense or crime.",
-      "translation": "Eye for an eye, tooth for a tooth."
-    },
-    {
-      "expression": "Ögonen vill ha mer än magen.",
-      "translation": "The eye is bigger than the belly.",
-      "meaning": "Greed persuades a person to take more the he or she can manage."
-    },
-    {
-      "expression": "Övning ger färdighet.",
-      "translation": "Practice makes perfect."
-    }
-  ]
-}
+[
+  {
+    "expression": "Alla goda ting är tre.",
+    "translation": "All good things are three."
+  },
+  {
+    "expression": "Alla känner apan, men apan känner ingen.",
+    "translation": "Everyone knows the monkey, but the monkey knows no one.",
+    "meaning": "Those that stick out are often both well-known and avoided."
+  },
+  {
+    "expression": "Alla sätt är bra utom de dåliga.",
+    "translation": "All methods are good except for the bad ones."
+  },
+  {
+    "expression": "Alla vägar bär till Rom.",
+    "translation": "All roads lead to Rome.",
+    "meaning": "There are many different routes to the same goal."
+  },
+  {
+    "expression": "Alla är vi barn i början.",
+    "translation": "We all start out as children.",
+    "meaning": "Mistakes should be expected of beginners."
+  },
+  {
+    "expression": "Alla vill vara herrar, men ingen vill bära säcken.",
+    "meaning": "Too many people want to be the leader, and not enough people are willing to follow to do the detail work.",
+    "translation": "There are too many chiefs and not enough Indians."
+  },
+  {
+    "expression": "Allt är inte guld som glimmar.",
+    "translation": "All that glitters is not gold."
+  },
+  {
+    "expression": "Anfall är bästa försvar.",
+    "translation": "The best defense is a good offense.",
+    "meaning": "If you attack your opponents, they will be so busy fighting off your attack that they will not be able to attack you."
+  },
+  {
+    "expression": "Arga katter får rivet skinn.",
+    "translation": "Quarrelsome dogs come limping home."
+  },
+  {
+    "expression": "Att skiljas är att dö en smula.",
+    "translation": "To separate is to die a little."
+  },
+  {
+    "expression": "Att försvara ett fel är att fela igen.",
+    "translation": "To defend a wrong, is to wrong do anew."
+  },
+  {
+    "expression": "Att våga är att tappa fotfästet en stund, att inte våga är att förlora sig själv.",
+    "translation": "To dare is to lose your foothold for a moment, to not dare is to lose yourself."
+  },
+  {
+    "expression": "Av barn, fyllon och dårar får man höra sanningen.",
+    "translation": "Children, fools and drunken men tell the truth."
+  },
+  {
+    "expression": "Av skadan blir man vis.",
+    "translation": "Injury makes you wise.",
+    "meaning": "You learn from your mistakes."
+  },
+  {
+    "expression": "Avundsjukan vilar aldrig.",
+    "translation": "Envy takes no holiday."
+  },
+  {
+    "expression": "Bara döda fiskar följer strömmen.",
+    "translation": "Only dead fish follow the stream.",
+    "meaning": "Foolish people mindlessly copy others."
+  },
+  {
+    "expression": "Barn gör som du gör, inte som du säger.",
+    "translation": "Children do as you do, not as you say."
+  },
+  {
+    "expression": "Behandla andra som du själv vill bli behandlad.",
+    "translation": "Do unto others as you would have them do unto you."
+  },
+  {
+    "expression": "Blod är tjockare än vatten.",
+    "translation": "Blood is thicker than water."
+  },
+  {
+    "expression": "Blott Sverige svenska krusbär har.",
+    "translation": "Only Sweden has Swedish gooseberries.",
+    "meaning": "Sweden is a unique country."
+  },
+  {
+    "expression": "Borsta framför din egen dörr först.",
+    "translation": "Sweep your own doorstep clean."
+  },
+  {
+    "expression": "Borta bra men hemma bäst.",
+    "translation": "Away is good but home is best."
+  },
+  {
+    "expression": "Bra karl reder sig själv.",
+    "translation": "Every bird must hatch its own eggs.",
+    "meaning": "Avoid being dependent on others."
+  },
+  {
+    "expression": "Bränt barn skyr elden.",
+    "translation": "Once bitten, twice shy."
+  },
+  {
+    "expression": "Bättre brödlös än rådlös.",
+    "translation": "Better short of pence than short of sense."
+  },
+  {
+    "expression": "Bättre dåligt minne än dåliga minnen.",
+    "translation": "Poor memory is better than bad memories.",
+    "meaning": "Don’t dwell on past mistakes and bad experiences."
+  },
+  {
+    "expression": "Bättre ett ärligt nej än ett falskt ja.",
+    "translation": "Rather an honest ‘no’ than an insincere ‘yes’.",
+    "meaning": "Telling a bitter truth is usually better than lying."
+  },
+  {
+    "expression": "Bättre förekomma än förekommas.",
+    "translation": "Better give the slight than take it."
+  },
+  {
+    "expression": "Bättre en fågel i handen än tio i skogen.",
+    "translation": "A bird in the hand is worth two in the bush.",
+    "meaning": "Value the things you already have more than the things you might never get."
+  },
+  {
+    "expression": "Bättre ensam än i dåligt sällskap.",
+    "translation": "Better alone than in bad company."
+  },
+  {
+    "expression": "Bättre fly än illa fäkta.",
+    "translation": "He who fights and runs away may live to fight another day."
+  },
+  {
+    "expression": "Bättre sent än aldrig.",
+    "translation": "Better late than never."
+  },
+  {
+    "expression": "Bättre stämma i bäcken än i ån.",
+    "translation": "An ounce of prevention is worth a pound of cure.",
+    "meaning": "Be proactive about preventing bad things from happening; defects are best taken care of at an early stage."
+  },
+  {
+    "expression": "Bättre tiga än illa tala.",
+    "translation": "Man more often repents what he did say than he did not."
+  },
+  {
+    "expression": "Bättre älskat och förlorat än att aldrig ha älskat.",
+    "translation": "Tis better to have loved and lost than to have never loved at all."
+  },
+  {
+    "expression": "Bäst att smida medan järnet är varmt.",
+    "translation": "Strike while the iron is hot."
+  },
+  {
+    "expression": "Bäst bli klok av annans skada.",
+    "translation": "Wise men learn by other men’s harms, fools by their own."
+  },
+  {
+    "expression": "Delad glädje är dubbel glädje (och delad sorg är halv sorg).",
+    "translation": "Joy shared, joy doubled: sorrow shared, sorrow halved."
+  },
+  {
+    "expression": "Den dagen, den sorgen.",
+    "translation": "Cross your bridges when you reach them."
+  },
+  {
+    "expression": "Den drucknes tal är den nyktres tankar.",
+    "translation": "The drunken man’s words is the sober man’s thoughts."
+  },
+  {
+    "expression": "Den enes död, den andres bröd.",
+    "translation": "One man’s meat is another man’s poison."
+  },
+  {
+    "expression": "Den som alltid vet bäst lär sig aldrig något.",
+    "translation": "He who always knows best never learns."
+  },
+  {
+    "expression": "Den som gapar efter mycket, mister ofta hela stycket.",
+    "translation": "Grasp all, lose all.",
+    "meaning": "One who wants everything, may lose it all."
+  },
+  {
+    "expression": "Den som ger sig in i leken, får leken tåla.",
+    "translation": "He that would have eggs must endure the cackling of hens."
+  },
+  {
+    "expression": "Den som gräver en grop åt andra faller ofta själv däri.",
+    "translation": "He who digs a pit for others, often falls into it himself."
+  },
+  {
+    "expression": "Den som lever får se.",
+    "translation": "Only time will tell."
+  },
+  {
+    "expression": "Den som sover syndar icke.",
+    "translation": "Criticism is something you can avoid by saying nothing, doing nothing and being nothing."
+  },
+  {
+    "expression": "Den som spar han har.",
+    "translation": "Waste not, want not."
+  },
+  {
+    "expression": "Den som tiger han samtycker.",
+    "translation": "He who stays quiet consents."
+  },
+  {
+    "expression": "Den som viskar han ljuger.",
+    "translation": "He who whispers lies."
+  },
+  {
+    "expression": "Den som väntar på något gott, väntar aldrig för länge.",
+    "translation": "He who waits for something good never waits too long."
+  },
+  {
+    "expression": "Den spik som sticker ut blir slagen.",
+    "translation": "The nail that sticks out gets struck."
+  },
+  {
+    "expression": "Den som är fri från synd skall kasta första stenen.",
+    "translation": "Let him who is without sin cast the first stone."
+  },
+  {
+    "expression": "Det angår också dig när det brinner i grannens vägg.",
+    "translation": "It concerns you, too, when your neighbor’s wall is on fire."
+  },
+  {
+    "expression": "Det blir aldrig som man tänkt sig.",
+    "translation": "Things never turn out the way you imagined."
+  },
+  {
+    "expression": "Det blir som det blir.",
+    "translation": "We must take things as we find them."
+  },
+  {
+    "expression": "Det dunkelt sagda är det dunkelt tänkta.",
+    "translation": "What is unclearly said is unclearly thought."
+  },
+  {
+    "expression": "Det finns inget dåligt väder, bara dåliga kläder.",
+    "translation": "There’s no such thing as bad weather, only the wrong clothes."
+  },
+  {
+    "expression": "Det gäller att smida medan järnet är varmt.",
+    "translation": "Strike while the iron is hot."
+  },
+  {
+    "expression": "Det kommer inga stekta sparvar flygande i din mun.",
+    "translation": "Birds fly not into our mouth ready roasted."
+  },
+  {
+    "expression": "Det man inte har i huvudet får man ha i benen.",
+    "translation": "A forgetful head makes a weary pair of heels."
+  },
+  {
+    "expression": "Det man inte vet mår man inte dåligt av.",
+    "translation": "What you do not know does not hurt you."
+  },
+  {
+    "expression": "Det man förlorar på gungorna tar man igen på karusellen.",
+    "translation": "What you lose on the swings you gain on the roundabouts."
+  },
+  {
+    "expression": "Det ska böjas i tid det som krokigt ska bli.",
+    "translation": "Soon crooks the tree that good gambrel would be."
+  },
+  {
+    "expression": "Det som börjar med en knappnål slutar oftast med en silverskål",
+    "translation": "He that steals an egg will steal an ox."
+  },
+  {
+    "expression": "Det som inte dödar, härdar.",
+    "translation": "That which does not kill you, makes you stronger. Pain is gain."
+  },
+  {
+    "expression": "Det som göms i snö kommer fram vid tö.",
+    "translation": "What is hidden in snow is revealed at thaw."
+  },
+  {
+    "expression": "Det vattnet du hämtar ur bäcken lär dig känna källan.",
+    "translation": "The water you collect from the stream teaches you about its source."
+  },
+  {
+    "expression": "Det viktigaste är inte att vinna, utan att kämpa väl.",
+    "translation": "The most important thing is not to win, but to fight well."
+  },
+  {
+    "expression": "Det är aldrig för sent.",
+    "translation": "It is never too late."
+  },
+  {
+    "expression": "Det är bäst att bita i det sura äpplet.",
+    "translation": "Better hold with the hound, as run with the hare."
+  },
+  {
+    "expression": "Det är inte ens fel när två träter.",
+    "translation": "It takes two to make a quarrel."
+  },
+  {
+    "expression": "Det är lätt att skära breda remsor av andras läder.",
+    "translation": "Men cut large thongs of other men’s leather.",
+    "meaning": "This Proverb aims at all thoſe Perſons, who, niggardly to an Exceſs of their own, would fain gain the Character of Generous or Charitable at other People’s Expences, and ſo are very liberal of other People’s Pockets to ſave their own, either in Donations of Amity or Alms."
+  },
+  {
+    "expression": "Det är lätt att vara efterklok.",
+    "translation": "It’s easy to be wise after the event.",
+    "meaning": "With hindsight it is easy to see what went wrong or what should have been done, but this is of no practical purpose."
+  },
+  {
+    "expression": "Det är mänskligt att fela men gudomligt att förlåta.",
+    "translation": "To err is human; to forgive, divine."
+  },
+  {
+    "expression": "Det är saligare att giva än att taga.",
+    "translation": "It is more blissful to give than to receive.",
+    "meaning": "The act of giving is more worthy, noble and spiritually satisfying than the act of receiving,"
+  },
+  {
+    "expression": "Det är skönare lyss till den sträng som brast än att aldrig spänna en båge.",
+    "translation": "It is fairer to listen to the string that broke than to never strain a bow.",
+    "meaning": "It is better to fail than to never have tried."
+  },
+  {
+    "expression": "Det är som mörkast innan gryningen.",
+    "translation": "It’s always darkest before the dawn."
+  },
+  {
+    "expression": "Det är tanken som räknas.",
+    "translation": "It’s the thought that counts.",
+    "meaning": "Good intentions make up for a bad outcome."
+  },
+  {
+    "expression": "Dra inte alla över en kam.",
+    "translation": "Do not pull everyone over with a comb.",
+    "meaning": "Do not stereotype."
+  },
+  {
+    "expression": "Dra sitt strå till stacken",
+    "translation": "We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop.",
+    "meaning": "To do one’s share of a work at hand (usually for a good cause)."
+  },
+  {
+    "expression": "Droppen kan urholka stenen.",
+    "translation": "Constant dripping wears the stone."
+  },
+  {
+    "expression": "Där vinet går in går vettet ut.",
+    "translation": "Where wine enters sense leaves."
+  },
+  {
+    "expression": "Efter regn kommer solsken.",
+    "translation": "It’s a long lane that has no turning.",
+    "meaning": "Hard times seldom last forever."
+  },
+  {
+    "expression": "Efteråt är intet råd.",
+    "translation": "Advice comes too late when a thing is done."
+  },
+  {
+    "expression": "Egen härd är guld värd.",
+    "translation": "There is no place like home."
+  },
+  {
+    "expression": "Eget beröm luktar illa.",
+    "translation": "Don’t blow your own horn."
+  },
+  {
+    "expression": "Elda inte för kråkorna.",
+    "translation": "Don’t light a fire for the crows.",
+    "meaning": "Don’t waste resources."
+  },
+  {
+    "expression": "En dålig hantverkare skyller på sina verktyg.",
+    "translation": "A poor craftsman blames his tools."
+  },
+  {
+    "expression": "En gnutta osaklighet sparar tonvis med förklaringar.",
+    "translation": "An ounce of lying saves tons of explanations."
+  },
+  {
+    "expression": "En kedja är inte starkare än dess svagaste länk.",
+    "translation": "A chain is only as strong as its weakest link.",
+    "meaning": "A weak part or member will affect the success or effectiveness of the whole."
+  },
+  {
+    "expression": "En knuten näve kan varken ge eller ta.",
+    "translation": "Better bow than break.",
+    "meaning": "It is better to make some confession, or pay a little deference to others, our neighbors, friends, acquaintances, and especially our superiors, rather than lose our credit or break friendship."
+  },
+  {
+    "expression": "En plats för var sak och var sak på sin plats.",
+    "translation": "A place for each thing and each thing in its place"
+  },
+  {
+    "expression": "En gång är ingen gång.",
+    "translation": "One time is no time."
+  },
+  {
+    "expression": "En gång, ingen gång — två gånger, en vana.",
+    "translation": "One time, no time—two times, a habit."
+  },
+  {
+    "expression": "En olycka kommer sällan ensam.",
+    "translation": "Misery loves company."
+  },
+  {
+    "expression": "En svala gör ingen sommar.",
+    "translation": "One swallow does not a summer make.",
+    "meaning": "Do not feel sure or rejoice noticing a favourable sign. The appearance of a single sign of a favourable event is not yet a definite indication of its coming. It may be an unrelated, sporadic appearance."
+  },
+  {
+    "expression": "En vandring på tusen mil börjar alltid med ett steg.",
+    "translation": "A journey of a thousand miles always begins with a single step."
+  },
+  {
+    "expression": "Ensam är stark.",
+    "translation": "Alone is strong.",
+    "meaning": "You can accomplish a lot on your own."
+  },
+  {
+    "expression": "Envar är sin egen lyckas smed.",
+    "translation": "Every man is the smith of his own fortune.",
+    "meaning": "In shaping one’s own fortune one should not rely on the help of others, as they are also concerned mainly about their own matters."
+  },
+  {
+    "expression": "Ett gott skratt förlänger livet.",
+    "translation": "A hearty laugh lengthens your life."
+  },
+  {
+    "expression": "Ett mjukt svar stillar vreden.",
+    "translation": "A soft answer calms the wrath."
+  },
+  {
+    "expression": "Ett rent samvete är bästa huvudkudden.",
+    "translation": "A good conscience is a soft pillow; A safe conscience makes a sound sleep."
+  },
+  {
+    "expression": "Finns det hjärterum, finns det stjärterum.",
+    "translation": "If there is room in the heart, there is room for the behind.",
+    "meaning": "Said when an effort is made to accommodate guests."
+  },
+  {
+    "expression": "Friskt vågat, hälften vunnet.",
+    "translation": "Faith is half the battle."
+  },
+  {
+    "expression": "För lata svin är marken alltid frusen.",
+    "translation": "Idle people have the least leisure."
+  },
+  {
+    "expression": "Förbjuden frukt smakar alltid bäst.",
+    "translation": "Forbidden fruit is sweet.",
+    "meaning": "Things that you must not have or do are always the most desirable."
+  },
+  {
+    "expression": "Förbjuden väg är ofta hårt sliten.",
+    "translation": "Forbidden road is often heavily worn."
+  },
+  {
+    "expression": "Först till kvarn får först mala.",
+    "translation": "First come, first served.",
+    "meaning": "Those who arrive or apply earliest are most likely to get what they want from a limited supply of things, such as tickets, discounted goods or refreshments."
+  },
+  {
+    "expression": "Gammal kärlek rostar aldrig.",
+    "translation": "Old love never rusts."
+  },
+  {
+    "expression": "Gammal är äldst.",
+    "translation": "Old is oldest.",
+    "meaning": "(Jokingly) said to imply that the older generation is superior, e.g., when an older person beats a younger one at something."
+  },
+  {
+    "expression": "Ge dig inte på berg när det finns småsten.",
+    "translation": "Don’t set about mountains when there are pebbles."
+  },
+  {
+    "expression": "Genom sig själv känner man andra.",
+    "translation": "A thief thinks everyone around him is a thief.",
+    "meaning": "You presume others are like yourself, including when it comes to bad characteristics."
+  },
+  {
+    "expression": "Genvägar är ofta senvägar.",
+    "translation": "Shortcuts are often ’longcuts’.",
+    "meaning": "What you think will be a shortcut often isn’t, since you might get lost. Also used metaphorically."
+  },
+  {
+    "expression": "Gräset är alltid grönare på andra sidan (staketet).",
+    "translation": "The grass is always greener on the far side of the hill.",
+    "meaning": "A different place, situation, job, or lifestyle always seems more attractive or appealing than your own."
+  },
+  {
+    "expression": "Gräv där du står.",
+    "translation": "Bloom where you are planted.",
+    "meaning": "It is often best to build up upon the prowess and expertise you already have."
+  },
+  {
+    "expression": "Guld blindar många, kärleken blindar alla.",
+    "translation": "Gold blinds many, love blinds all."
+  },
+  {
+    "expression": "Gå inte över ån efter vatten.",
+    "translation": "Do not cross the brook for water.",
+    "meaning": "Do not do things in a needlessly laborious or complicated way."
+  },
+  {
+    "expression": "Gör inte en höna av en fjäder.",
+    "translation": "Don’t make a mountain out of a molehill.",
+    "meaning": "Do not blow things out of proportion."
+  },
+  {
+    "expression": "Gör om, gör rätt.",
+    "translation": "If at first you don’t succeed, try, try again.",
+    "meaning": "If you possess the ability to learn from your mistakes, then failure is literally impossible, because each rejection brings you closer to perfection."
+  },
+  {
+    "expression": "Han har varit I Rom men inte sett Påven.",
+    "translation": "He was in Rome and did not see the pope."
+  },
+  {
+    "expression": "Har man sagt A får man säga B.",
+    "translation": "Who says \"A\" must say \"B\".",
+    "meaning": "If you say or do one thing, you must be prepared to do or say what logically follows."
+  },
+  {
+    "expression": "Har man tagit fan i båten får man ro honom i land.",
+    "translation": "Better never begun, as never ended."
+  },
+  {
+    "expression": "Hastig rikedom gör mannen misstänkt.",
+    "translation": "No one gets rich quickly if he is honest."
+  },
+  {
+    "expression": "Hellre en fågel i handen än tio i skogen.",
+    "translation": "A bird in the hand is worth two in the bush.",
+    "meaning": "Something you have for certain now is of more value than something better you may get, especially if you risk losing what you have in order to get it."
+  },
+  {
+    "expression": "Hellre fria en skyldig än fälla en oskyldig.",
+    "translation": "It is better to free someone guilty than to convict someone innocent."
+  },
+  {
+    "expression": "Hoppet är det sista som lämnar människan.",
+    "translation": "Hope is the last thing to leave a human being."
+  },
+  {
+    "expression": "Hungern är bästa kryddan.",
+    "translation": "Hunger is the best flavouring."
+  },
+  {
+    "expression": "Hur man än vänder sig har man ändan bak.",
+    "translation": "Whichever way you turn you have your end in the back.",
+    "meaning": "Used to express frustration things seems to go wrong no matter what you do."
+  },
+  {
+    "expression": "Hut går hem.",
+    "translation": "Hoots goes home.",
+    "meaning": "If you treat others in a bad way, you are likely to be treated in a bad way yourself."
+  },
+  {
+    "expression": "Huvudkudden är bästa rådgivaren.",
+    "translation": "Take counsel of one’s pillow."
+  },
+  {
+    "expression": "Hälsan tiger still.",
+    "translation": "Health is quietly keeping silent [sic!].",
+    "meaning": "Those who are healthy do not appreciate it."
+  },
+  {
+    "expression": "Hämnden är ljuv.",
+    "translation": "Revenge is sweet."
+  },
+  {
+    "expression": "Högmod går före fall.",
+    "translation": "Pride goes before fall."
+  },
+  {
+    "expression": "I de blindas rike är den enögde kung.",
+    "translation": "Among the blind, the one-eyed is king."
+  },
+  {
+    "expression": "I de lugnaste vattnen går de fulaste fiskarna.",
+    "translation": "An honest look covereth many faults.",
+    "meaning": "An innocent demeanor may hide much guilt."
+  },
+  {
+    "expression": "I krig och kärlek är allt tillåtet.",
+    "translation": "All is fair in love and war."
+  },
+  {
+    "expression": "I mörker är alla katter grå.",
+    "translation": "In the dark all cats are gray."
+  },
+  {
+    "expression": "I nöden prövas vännen.",
+    "translation": "A friend in need is a friend indeed."
+  },
+  {
+    "expression": "I vinet kommer sanningen fram.",
+    "translation": "In wine there is truth.",
+    "meaning": "Alcohol consumed removes the inhibition against telling the truth that occasionally one would like to keep secret."
+  },
+  {
+    "expression": "I öknen är sanden billig.",
+    "translation": "Beggars can’t be choosers.",
+    "meaning": "Supply and demand rules."
+  },
+  {
+    "expression": "Ibland kan man inte se skogen på grund av alla träd.",
+    "translation": "He is missing the forest because of the trees."
+  },
+  {
+    "expression": "Idel solsken gör öken.",
+    "translation": "Too much of one thing, good for nothing",
+    "meaning": "You can have too much of something good."
+  },
+  {
+    "expression": "Inga nyheter är goda nyheter.",
+    "translation": "No news is good news."
+  },
+  {
+    "expression": "Inga träd växer till himmelen.",
+    "translation": "All that is fair must fade."
+  },
+  {
+    "expression": "Ingen rök utan eld.",
+    "translation": "Every why has its wherefore."
+  },
+  {
+    "expression": "Ingen är oumbärlig.",
+    "translation": "No one is indispensable."
+  },
+  {
+    "expression": "Ingen är profet i sitt eget land/i sin egen hemstad.",
+    "translation": "A prophet is not honoured in his own country.",
+    "meaning": "An outstanding person is often less respected at home than elsewhere. This may be due to personal reasons unrelated to his achievments, or the result of being in an indifferent/ignorant/hostile community."
+  },
+  {
+    "expression": "Ingenting är nytt under solen.",
+    "translation": "Nothing is new under the sun.",
+    "meaning": "Someone has always done the same thing earlier."
+  },
+  {
+    "expression": "Inget kalas utan kras.",
+    "translation": "No party without shattering."
+  },
+  {
+    "expression": "Inget ont som inte har något gott med sig.",
+    "translation": "No cloud without a silver lining."
+  },
+  {
+    "expression": "Inget är så bra att det inte kan göras bättre.",
+    "translation": "Nothing is so good that it can’t be made better."
+  },
+  {
+    "expression": "Ju fler kockar desto sämre soppa.",
+    "translation": "Too many cooks spoil the broth."
+  },
+  {
+    "expression": "Ju närmare källan, desto klarare vatten.",
+    "translation": "The closer to the source, the clearer the water."
+  },
+  {
+    "expression": "Ju senare på kvällen, desto vackrare folk.",
+    "translation": "The later in the evening, the more beautiful the people."
+  },
+  {
+    "expression": "Kaka söker maka.",
+    "translation": "Like will to like.",
+    "meaning": "Every man loves well what is like to himself."
+  },
+  {
+    "expression": "Kasta inte pärlor för svin.",
+    "translation": "Do not throw pearls before swine."
+  },
+  {
+    "expression": "Kasta inte ut barnet med badvattnet.",
+    "meaning": "Do not reject something in its entirety just because parts of it are bad; other parts might be good.",
+    "translation": "Do not throw the baby out with the bathwater."
+  },
+  {
+    "expression": "Kasta inte sten i glashus.",
+    "translation": "Don’t throw stones in glasshouses."
+  },
+  {
+    "expression": "Klaga inte över för lite vind - lär dig segla.",
+    "translation": "Don’t complain about lack of wind—learn to sail."
+  },
+  {
+    "expression": "Kommer tid kommer råd.",
+    "translation": "Comes time comes counsel."
+  },
+  {
+    "expression": "Kläderna gör mannen.",
+    "translation": "The tailor makes the man."
+  },
+  {
+    "expression": "Kärleken är blind.",
+    "translation": "Love is blind."
+  },
+  {
+    "expression": "Kärt barn har många namn.",
+    "translation": "A beloved child has many names.",
+    "meaning": "Someone or something which is popular is often referred to by many different epithets."
+  },
+  {
+    "expression": "Köp inte grisen i säcken.",
+    "translation": "Let the buyer have a thousand eyes for the seller wants only one."
+  },
+  {
+    "expression": "Lagt kort ligger.",
+    "translation": "You can’t un-ring a bell.",
+    "meaning": "Said when something cannot be undone or taken back."
+  },
+  {
+    "expression": "Lat skräddare tar en lång tråd.",
+    "translation": "A lazy tailorer uses a long thread.",
+    "meaning": "Lazy people are wasteful."
+  },
+  {
+    "expression": "Lika barn leka bäst.",
+    "translation": "Alike children play the best."
+  },
+  {
+    "expression": "Lita inte till en annan, det du själv kan göra.",
+    "translation": "For what thou canst do thyself, rely not on another."
+  },
+  {
+    "expression": "Liten tuva stjälper ofta stort lass.",
+    "translation": "A small tuft often overturns a big load."
+  },
+  {
+    "expression": "Lyckan kan inte köpas för pengar.",
+    "translation": "Money cannot buy happiness."
+  },
+  {
+    "expression": "Lyckan kommer lyckan går.",
+    "translation": "The wheel of fortune is forever in motion.",
+    "meaning": "People’s fortunes are constantly changing—somebody who has good luck one year may have bad luck the next, and vice versa. "
+  },
+  {
+    "expression": "Lyckan står den djärve bi.",
+    "meaning": "Those who act boldly or courageously are most likely to succeed.",
+    "translation": "Fortune favours the bold."
+  },
+  {
+    "expression": "Lägg inte alla ägg i samma korg.",
+    "translation": "Don’t put all the eggs in the same basket.",
+    "meaning": "Spread your risks or investments so that if one enterprise fails you will not lose everything."
+  },
+  {
+    "expression": "Lägg inte sten på börda.",
+    "translation": "Don’t add fuel to the fire.",
+    "meaning": "One should not make a bad situation even worse by an improper remark."
+  },
+  {
+    "expression": "Lärdom är mer värt än guld.",
+    "translation": "Insight is more valuable than gold."
+  },
+  {
+    "expression": "Lätt fånget, lätt förgånget.",
+    "translation": "Easy come, easy go."
+  },
+  {
+    "expression": "Lättare döljer en vis sin visdom än en dåre sin dårskap.",
+    "translation": "Easier hides a wise man his wisdom than a fool his madness."
+  },
+  {
+    "expression": "Lättare sagt än gjort.",
+    "meaning": "It is usually far easier to advice, suggest, or talk about doing something than actually to do it.",
+    "translation": "Easier said than done."
+  },
+  {
+    "expression": "Låt inte gräset gro under fötterna.",
+    "translation": "Don’t let grass grow on your feet.",
+    "meaning": "Try new things!"
+  },
+  {
+    "expression": "Låt inte vargen vakta fåren.",
+    "meaning": "This Proverb reflects upon the ill Conduct of Men in the Management of their Affairs, by intrufting either Sharpers with their Money, Blabs with their Secrets, or Enemies or Informer: with their Lives: For no Obligation can bind againft Nature: A Fox will love a Goofe ftill, though his Skin be ftript over his Ears for it; and a Common Cheat will always follow his old Trade of tricking his Friend, in fpite of all Promifes and Principle: of Honour, Honefty, and good Faith.",
+    "translation": "A nice wife and a back door oft do make a rich man poor."
+  },
+  {
+    "expression": "Låt maten tysta mun.",
+    "translation": "Let the food silence the mouth.",
+    "meaning": "Said when someone is being inappropriately loud at the dinner table—often to children."
+  },
+  {
+    "expression": "Lögnaren blir bara trodd en gång.",
+    "translation": "The liar will only be trusted once.",
+    "meaning": "Liars must remember the untruths they have told, to avoid contradicting themselves at some later date."
+  },
+  {
+    "expression": "Man måste lära sig krypa innan man kan gå.",
+    "translation": "Learn to walk before you can run.",
+    "meaning": "It is necessary to learn the basics before progressing to more advanced things."
+  },
+  {
+    "expression": "Magen mättas förr än ögat.",
+    "translation": "The eye is bigger than the belly."
+  },
+  {
+    "expression": "Man får ta saken i egna händer.",
+    "translation": "One must take matters into one’s own hands.",
+    "meaning": "If something is bugging you, take care of the problem yourself."
+  },
+  {
+    "expression": "Man får ta seden dit man kommer.",
+    "translation": "When in Rome, do as the Romans; When among wolves you must howl."
+  },
+  {
+    "expression": "Man har aldrig roligare än vad man gör sig.",
+    "translation": "You never have more fun than what you do.",
+    "meaning": "How much fun you have depends on what you choose to do."
+  },
+  {
+    "expression": "Man hör vad man vill höra.",
+    "translation": "None is as deaf as he who does not want to hear."
+  },
+  {
+    "expression": "Man lär så länge man lever.",
+    "translation": "One learns as long as one lives."
+  },
+  {
+    "expression": "Man lär sig av misstagen.",
+    "translation": "One learns from mistakes."
+  },
+  {
+    "expression": "Man kan inte både äta kakan och ha kakan kvar.",
+    "translation": "You can’t have your cake and eat it too.",
+    "meaning": "You cannot do two mutually incompatible things at the same time."
+  },
+  {
+    "expression": "Man kan inte lära gamla hundar sitta.",
+    "translation": "You can’t teach an old dog new tricks.",
+    "meaning": "Old people are often unwilling or unable to learn new skills or adopt new methods."
+  },
+  {
+    "expression": "Man måste rätta munnen efter matsäcken.",
+    "translation": "Cut your cloak according to your cloth.",
+    "meaning": "You have to match your revenues with your expenses."
+  },
+  {
+    "expression": "Man saknar inte kon förrän båset är tomt.",
+    "translation": "You never miss the well till it runs dry.",
+    "meaning": "We tend to take some things for granted, and become aware of their value only when they are no longer available."
+  },
+  {
+    "expression": "Man ska inte bjuda bagarbarn på bullar.",
+    "translation": "One should not offer cinnamon rolls to baker’s children.",
+    "meaning": "Avoid doing redundant things."
+  },
+  {
+    "expression": "Man skall inte byta häst mitt i strömmen.",
+    "translation": "Don’t change horses in midstream.",
+    "meaning": "It is often wise not to quit an undertaking already begun."
+  },
+  {
+    "expression": "Man ska inte buga för dumheten bara för att den är gammal.",
+    "translation": "Might is not always right.",
+    "meaning": "Authorities, old customs and old institutions might be in the wrong."
+  },
+  {
+    "expression": "Man ska inte döma hunden efter håren.",
+    "translation": "Never judge a book by its cover; Never judge by appearances.",
+    "meaning": "Do not make a judgment about something or somebody on the basis of outward appearance alone."
+  },
+  {
+    "expression": "Man ska inte gjuta olja på elden.",
+    "translation": "Don’t add fuel to the fire.",
+    "meaning": "One should not make a bad situation even worse by an improper remark."
+  },
+  {
+    "expression": "Man ska inte gråta över spilld mjölk.",
+    "translation": "Do not weep over spilled milk.",
+    "meaning": "Dwelling on past mishaps will only waste your time."
+  },
+  {
+    "expression": "Man tröttnar aldrig på att arbeta för sig själv.",
+    "translation": "A man does not feel a burden of his own choosing."
+  },
+  {
+    "expression": "Man är alltid sig själv närmast.",
+    "translation": "Skin is nearer than the skirt.",
+    "meaning": "When you make decisions you choose which is best for yourself rather than taking into consideration ethical or ideological convictions."
+  },
+  {
+    "expression": "Medan gräset gror, dör kon.",
+    "translation": "While the grass grows the steed starves."
+  },
+  {
+    "expression": "Mister du en så står dig tusen åter.",
+    "translation": "There are plenty of fish in the sea.",
+    "meaning": "Usually used concerning broken hearts. There is also a continuation for it: Väljer du en så är det tusen som gråter. (If you choose one, a thousand will cry.)."
+  },
+  {
+    "expression": "Morgonstund har guld i mund.",
+    "translation": "The early bird catches the worm."
+  },
+  {
+    "expression": "Mycket vill ha mer.",
+    "translation": "Much would have more.",
+    "meaning": "When you have much of something, you will want even more."
+  },
+  {
+    "expression": "Måla inte fan på väggen.",
+    "translation": "Don’t paint the devil on the wall."
+  },
+  {
+    "expression": "Många bäckar små, blir till en stor å.",
+    "translation": "Small streams make great rivers."
+  },
+  {
+    "expression": "Många hugg fälla eken.",
+    "meaning": "A difficult task, e. g. removing a person/group from a strong position, or changing established ideas cannot be done quickly. It can be achieved gradually, by small steps, a little at a time.",
+    "translation": "Many strokes cut down great oaks."
+  },
+  {
+    "expression": "Människan spår, men gud rår.",
+    "translation": "Man proposes, God disposes."
+  },
+  {
+    "expression": "Nya kvastar sopar bäst.",
+    "translation": "A new broom sweeps clean.",
+    "meaning": "We should never use an old tool when the extra labor in consequence costs more than a new one. Thousands wear out their lives and waste their time merely by the use of dull and unsuitable instruments."
+  },
+  {
+    "expression": "Någon måtta får det vara.",
+    "translation": "There must be some moderation."
+  },
+  {
+    "expression": "När det regnar manna från himlen har den fattige ingen sked.",
+    "translation": "When it rains manna from heaven, the poor one does not have a spoon."
+  },
+  {
+    "expression": "När det regnar på prästen, så droppar det på klockaren.",
+    "translation": "When it rains on the priest, it dripples on the sacristan.",
+    "meaning": "When someone is successful, his subordinates are a little better off as well."
+  },
+  {
+    "expression": "När fan blir gammal blir han religiös.",
+    "translation": "When the devil grows old he turns religious.",
+    "meaning": "People often become more religious as they get closer to death. Also used metaphorically when people appear to change in self-serving ways."
+  },
+  {
+    "expression": "När Gud kommer med döden, kommer fan med arvingarna.",
+    "translation": "When God brings death, the devil brings heirs."
+  },
+  {
+    "expression": "När man talar om trollen så står de i farstun och lyssnar.",
+    "translation": "Speak of the devil..."
+  },
+  {
+    "expression": "När musen är mätt, smakar mjölet beskt.",
+    "translation": "When the mouse is full, the flour tastes bitter.",
+    "meaning": "When you finally got something, you don’t appreciate it anymore."
+  },
+  {
+    "expression": "När nöden är som störst är hjälpen som närmast.",
+    "translation": "When distress is the greatest, help is the nearest."
+  },
+  {
+    "expression": "När katten är borta dansar råttorna på bordet.",
+    "translation": "When the cat’s away, the mice will play.",
+    "meaning": "In the absence of the person in authority those under his control will often neglect the duties/rules imposed on them."
+  },
+  {
+    "expression": "Nära skjuter ingen hare.",
+    "translation": "Close but no cigar."
+  },
+  {
+    "expression": "Nöden har ingen lag.",
+    "translation": "Necessity has no law.",
+    "meaning": "It is acceptable to break rules in times of need."
+  },
+  {
+    "expression": "Nöden är uppfinningarnas moder.",
+    "translation": "Necessity is the mother of invention."
+  },
+  {
+    "expression": "Om en blind leder en blind, så faller de båda i gropen.",
+    "translation": "If a blind leads a blind man both shall fall into a ditch.",
+    "meaning": "A person ignorant or inexperienced in something cannot assist someone similar."
+  },
+  {
+    "expression": "Om kvällen får den late brått.",
+    "translation": "During the evening the lazy get in a hurry."
+  },
+  {
+    "expression": "Om man ger någon ett finger vill han ha hela handen.",
+    "translation": "Give him an inch and he will take a yard.",
+    "meaning": "People are inclined to take excessive advantage of the tolerance or generosity of others; often used to warn against making even the smallest concession."
+  },
+  {
+    "expression": "Omväxling förnöjer.",
+    "translation": "Variety delights."
+  },
+  {
+    "expression": "Ont krut förgås inte så lätt.",
+    "translation": "Evil gun powder doesn’t go away easily.",
+    "meaning": "Adverse things are long lived."
+  },
+  {
+    "expression": "Ont skall med ont fördrivas.",
+    "translation": "Fight fire with fire; Like cures like."
+  },
+  {
+    "expression": "Osvuret är bäst.",
+    "translation": "Be quick to act, and slow to promise.",
+    "meaning": "Avoid making promises (to yourself as well)."
+  },
+  {
+    "expression": "Otack är världens lön.",
+    "translation": "Ingratitude is the world’s reward.",
+    "meaning": "Said when it is felt that someone hasn’t received the praise or compensation he deserves."
+  },
+  {
+    "expression": "Pengar luktar inte.",
+    "translation": "Money does not smell.",
+    "meaning": "Money has a value regardless of how it is earned."
+  },
+  {
+    "expression": "Pengar växer inte på träd.",
+    "translation": "Money does not grow on trees."
+  },
+  {
+    "expression": "Pengar öppnar alla portar utom himmelens.",
+    "translation": "Money opens all gates but heaven’s."
+  },
+  {
+    "expression": "Prisa inte dagen förrän solen har gått ner.",
+    "translation": "Don’t praise the day before the sun has set.",
+    "meaning": "Don’t celebrate until you are 100% sure there is a reason to."
+  },
+  {
+    "expression": "På rullande sten växer ingen mossa.",
+    "translation": "A rolling stone gathers no moss.",
+    "meaning": "The unsettled person does not prosper."
+  },
+  {
+    "expression": "Politiker är som krokodiler, stora i käften men saknar öron.",
+    "translation": "Politicians are like crocodiles—big jaws but no ears."
+  },
+  {
+    "expression": "Rom byggdes inte på en dag.",
+    "translation": "Rome was not built in one day.",
+    "meaning": "Large undertakings need proper time to complete, they cannot be done quickly."
+  },
+  {
+    "expression": "Ropa inte hej förrän du är över bäcken.",
+    "translation": "Don’t celebrate until you have crossed the creek.",
+    "meaning": "Don’t cap a victory in advance, and don’t announce something officially which you are not entirely sure of."
+  },
+  {
+    "expression": "Synden straffar sig själv.",
+    "translation": "Sin punishes itself.",
+    "meaning": "Said when someone gets in trouble due to having acted in a bad way."
+  },
+  {
+    "expression": "Sagt ord och kastad sten kan inte tas tillbaka.",
+    "meaning": "You can’t take back what you have said.",
+    "translation": "A spoken word and a thrown stone cannot be called back."
+  },
+  {
+    "expression": "Sakta men säkert.",
+    "translation": "Slow and steady wins the race."
+  },
+  {
+    "expression": "(För) sent skall syndaren vakna.",
+    "translation": "(Too) late shall the sinner awaken."
+  },
+  {
+    "expression": "Själv är bästa dräng.",
+    "translation": "If you want something done, do it yourself."
+  },
+  {
+    "expression": "Skam den som ger sig.",
+    "translation": "Shame on he who gives up."
+  },
+  {
+    "expression": "Skadeglädjen är den enda sanna glädjen.",
+    "translation": "Schadenfreude is the only true joy."
+  },
+  {
+    "expression": "Skenet bedrar.",
+    "translation": "Never judge by appearances; Judge not a man and things at first sight.",
+    "meaning": "Things are not always as they seem, and you can not necessarily trust the evidence of your eyes."
+  },
+  {
+    "expression": "Skjut inte dig själv i foten.",
+    "translation": "Don’t shoot yourself in the foot."
+  },
+  {
+    "expression": "Skjut inte upp till morgondagen det du kan göra idag.",
+    "translation": "Don’t postpone till tomorrow what you can do today."
+  },
+  {
+    "expression": "Skomakare bliv vid din läst.",
+    "translation": "A blind man should not judge of colours."
+  },
+  {
+    "expression": "Skrattar bäst, som skrattar sist.",
+    "translation": "He who laughs last, laughs longest."
+  },
+  {
+    "expression": "Skynda långsamt.",
+    "translation": "Hurry slowly.",
+    "meaning": "Do your work slowly to make sure it gets done thoroughly."
+  },
+  {
+    "expression": "Skåda inte given häst i mun.",
+    "translation": "Look not a horse in the mouth.",
+    "meaning": "And so with respect to gifts and donations in general, whether their value be more or less, they should be accounted tokens of kindness and received with promptness and cordiality."
+  },
+  {
+    "expression": "Slutet gott, allting gott.",
+    "translation": "All is well that ends well."
+  },
+  {
+    "expression": "Smakar det så kostar det.",
+    "translation": "If you buy quality you only cry once.",
+    "meaning": "You get what you pay for."
+  },
+  {
+    "expression": "Smaken är som baken, delad.",
+    "translation": "There is no accounting for taste.",
+    "meaning": "Taste is subjective."
+  },
+  {
+    "expression": "Smedens häst och skomakarens ungar är sämst skodda.",
+    "translation": "Cobblers’ children are worst shod.",
+    "meaning": "Working hard for others one may neglect one’s own needs or the needs of those closest to him."
+  },
+  {
+    "expression": "Små smulor är också bröd."
+  },
+  {
+    "expression": "Små sår och fattiga vänner ska man inte förakta.",
+    "translation": "Small wounds and poor friends should not be despised."
+  },
+  {
+    "expression": "Snålheten bedrar visheten.",
+    "translation": "If you buy cheaply you pay dearly."
+  },
+  {
+    "expression": "Som de gamla sjunga, så kvittra de unga.",
+    "translation": "As old people sing, young people tweet.",
+    "meaning": "Young people grow up to be like old people."
+  },
+  {
+    "expression": "Som fan läser bibeln.",
+    "translation": "The devil can cite scripture for his purpose. (From Shakespeare, Merchant in Venice act 1, scene 3)"
+  },
+  {
+    "expression": "Som man bäddar får man ligga.",
+    "translation": "As you make your bed, so you must lie."
+  },
+  {
+    "expression": "Som man ropar får man svar.",
+    "translation": "As you shout you get will be answered. (As you shout in the forest you will be answered.)",
+    "meaning": "General: The way you formulate a question or a statement will affect the answer you get. Also: your own behavior affects other people’s behavior towards you, e.g., You will be treated politely to the same extent that you yourself act politely."
+  },
+  {
+    "expression": "Som man sår får man skörda.",
+    "meaning": "The consequences are directly related to one’s actions.",
+    "translation": "As you sow, so shall you reap."
+  },
+  {
+    "expression": "Som man är klädd blir man hädd.",
+    "translation": "Fine feathers make fine birds.",
+    "meaning": "By dressing in elegant or good-quality clothing, people create a favorable impression on others, often appearing to be of better breeding or higher class than they are"
+  },
+  {
+    "expression": "Somliga straffar Gud direkt.",
+    "translation": "Some people are punished immediately by God.",
+    "meaning": "Used sarcastically when something bad—and possibly unrelated—happens to someone just after they have acted in a bad way."
+  },
+  {
+    "expression": "Sovande bonde får drömmande dräng.",
+    "translation": "A sleepy master makes his servant a lout."
+  },
+  {
+    "expression": "Spill inte krut på döda kråkor.",
+    "translation": "Don’t beat a dead horse."
+  },
+  {
+    "expression": "Spotta inte i motvind.",
+    "translation": "Strive not against the stream."
+  },
+  {
+    "expression": "Stor i orden, liten på jorden.",
+    "translation": "The worst wheel makes the most noise.",
+    "meaning": "Said about braggarts that have little to show for themselves."
+  },
+  {
+    "expression": "Surt sade räven om rönnbären.",
+    "translation": "Sour grapes.",
+    "meaning": "From a story about a fox that wants to eat some rowanberries that he can’t reach because they’re high up in a tree. A crow lands in the tree and starts eating the berries. When the crow asks the fox if he wants some, the fox replies No, they’re sour. The proverb can be used to state that you think someone really wants something the person claims they do not or that the person makes up an excuse for not wanting it because they cannot get it anyway."
+  },
+  {
+    "expression": "Svårigheter finns till för att övervinnas.",
+    "translation": "Adversity exists to be overcome."
+  },
+  {
+    "expression": "Så länge det finns liv finns det hopp.",
+    "translation": "While there is life there is hope.",
+    "meaning": "No matter how grave the situation is, there is always a chance that everything will work out."
+  },
+  {
+    "expression": "Sådan herre, sådan dräng/slav/hund.",
+    "translation": "Like master, like man.",
+    "meaning": "Servants and other workers tend to follow the good or bad example set by their employers."
+  },
+  {
+    "expression": "Sådan moder, sådan dotter.",
+    "translation": "Like mother, like daughter.",
+    "meaning": "Daughters may look and behave like their mothers. This is due to inheritance and the example observed closely and daily."
+  },
+  {
+    "expression": "Sådan fader, sådan son.",
+    "translation": "Like father, like son.",
+    "meaning": "Sons may look and behave like their fathers. This is due to inheritance and the example observed closely and daily."
+  },
+  {
+    "expression": "Såga inte av den gren du sitter på.",
+    "translation": "Don’t saw off the branch you’re sitting on."
+  },
+  {
+    "expression": "Sälj inte skinnet förrän björnen är skjuten.",
+    "translation": "Sell not the bear’s skin before you have caught him.",
+    "meaning": "Do not plan too far ahead and do not be too optimistic. One cannot be sure of the success of a job until it is completed. Unforeseen unfavourable developments can never be excluded."
+  },
+  {
+    "expression": "Sök och du skall finna.",
+    "meaning": "You must make a personal effort to get what you want.",
+    "translation": "Seek and ye shall find."
+  },
+  {
+    "expression": "Ta tjuren vid hornen.",
+    "translation": "Grab the bull by its horns.",
+    "meaning": "To directly tackle a difficult problem."
+  },
+  {
+    "expression": "Tala är silver, tiga är guld.",
+    "translation": "Silence is golden."
+  },
+  {
+    "expression": "Tala med bönder på bönders vis och med de lärde på latin.",
+    "translation": "Speak with farmers like farmers speak, and with the educated in latin.",
+    "meaning": "Adjust your message after the receivers ability to understand what you are saying"
+  },
+  {
+    "expression": "Tiden går fort när man har roligt.",
+    "translation": "Time passes by quickly when you are enjoying yourself."
+  },
+  {
+    "expression": "Tiden läker alla sår.",
+    "translation": "Time heals all wounds."
+  },
+  {
+    "expression": "Tillfället gör tjuven.",
+    "translation": "Opportunity makes the thief."
+  },
+  {
+    "expression": "Tomma tunnor skramlar mest.",
+    "translation": "It’s the empty can that makes the most noise.",
+    "meaning": "It is not he who advertises for himself the most that can achieve the greatest results."
+  },
+  {
+    "expression": "Trägen vinner.",
+    "translation": "God is with those who persevere; Persevere and never fear."
+  },
+  {
+    "expression": "Tron kan försätta berg.",
+    "translation": "Faith will move mountains.",
+    "meaning": "Nothing is impossible to those who have sufficient faith; applied not only to religious faith, but to any strong belief in a cause or objective."
+  },
+  {
+    "expression": "Tänk efter före.",
+    "translation": "Look before you leap."
+  },
+  {
+    "expression": "Två fel gör inte ett rätt.",
+    "meaning": "Wrongdoing is always unacceptable, even if another person has done the same thing.",
+    "translation": "Two wrongs do not make a right."
+  },
+  {
+    "expression": "Tålamod är konsten att hoppas.",
+    "translation": "Patience is the art of hoping."
+  },
+  {
+    "expression": "Undantaget bekräftar regeln.",
+    "translation": "The exception proves the rule.",
+    "meaning": "The existence of an exception to a rule shows that the rule itself exists and is applicable in other cases; often used loosely to explain away any such inconsistency."
+  },
+  {
+    "expression": "Var dag har nog av sin egen plåga.",
+    "translation": "Sufficient untill the day is the evil thereof."
+  },
+  {
+    "expression": "Var sak har sin tid.",
+    "translation": "Everythings in its season."
+  },
+  {
+    "expression": "Var fågel sjunger efter sin egen näbb.",
+    "translation": "Different strokes, suit different folks."
+  },
+  {
+    "expression": "Var skall sleven vara om inte i grytan?",
+    "translation": "Let him that is cold blow the coals."
+  },
+  {
+    "expression": "Var smed har sin sed.",
+    "translation": "Each smith has his custom.",
+    "meaning": "Each household has its own customs."
+  },
+  {
+    "expression": "Varav hjärtat är fullt talar munnen.",
+    "translation": "The tongue ever turns to the aching tooth; What the heart thinketh the tongue speaketh."
+  },
+  {
+    "expression": "Varje moln har en silverkant.",
+    "translation": "Every cloud has a silver lining.",
+    "meaning": "Bad situations often bring something good with them."
+  },
+  {
+    "expression": "Varnad är väpnad.",
+    "translation": "Warned is forearmed.",
+    "meaning": "A warned person is prepared."
+  },
+  {
+    "expression": "Verkligheten överträffar dikten.",
+    "translation": "Fact is stranger than fiction.",
+    "meaning": "Things that happen in real life are often far more unlikely than those dreamed up by writers."
+  },
+  {
+    "expression": "Vill man vara fin får man lida pin.",
+    "translation": "No pain, no gain; Nothing ventured, nothing gained."
+  },
+  {
+    "expression": "Vis är den som råd lyder, men oråd skall ingen lyda.",
+    "translation": "Those are wise that heed advice, but no one should heed dissuasive advice.",
+    "meaning": "Advice often contain a genuine warning or an effective suggestion, which is unprudent not to take into consideration."
+  },
+  {
+    "expression": "Visdomen har långa öron och kort tunga.",
+    "translation": "Nature gave us two ears and one mouth."
+  },
+  {
+    "expression": "Väck inte den björn som sover.",
+    "translation": "Let sleeping dogs lie.",
+    "meaning": "Do not cause trouble by disturbing a stable—but potentially problematic—situation."
+  },
+  {
+    "expression": "Vännens örfil är ärligt menad, fiendens kyssar vill bedra.",
+    "translation": "A friend’s frown is better than a foe’s smile."
+  },
+  {
+    "expression": "Vägen till helvetet är kantad med goda föresatser.",
+    "translation": "The road to hell is paved with good intentions."
+  },
+  {
+    "expression": "Vägen till mannens hjärta går genom magen.",
+    "meaning": "The best way to please a man is by feeding him well.",
+    "translation": "The way to a man’s heart is through his stomach."
+  },
+  {
+    "expression": "Väggarna har öron.",
+    "translation": "The walls have ears.",
+    "meaning": "Someone you are talking about will often overhear your conversation."
+  },
+  {
+    "expression": "Världen är liten.",
+    "meaning": "It is amazing how often you meet somebody you know—or somebody who knows one of your friends or relatives, comes from your home town, or went to your school—in a distant or unexpected place; said when such a coincidence occurs.",
+    "translation": "It’s a small world."
+  },
+  {
+    "expression": "Åsnan känns igen på öronen, den dumme på sina ord.",
+    "translation": "The donkey is known by his ears, the fool by his words."
+  },
+  {
+    "expression": "Älska mig när jag minst av allt förtjänar det, för det är då jag behöver det som mest.",
+    "translation": "Love me when I least deserve it, because that is when I need it the most."
+  },
+  {
+    "expression": "Ändamålet helgar medlen.",
+    "meaning": "Any course of action, however immoral or unscrupulous, is justifiable if it achieves a worthy objective.",
+    "translation": "The end justifies the means."
+  },
+  {
+    "expression": "Äpplet faller inte långt från trädet.",
+    "translation": "The apple does not fall far from the tree.",
+    "meaning": "Children observe daily and—in their behaviour—often follow the example of their parents."
+  },
+  {
+    "expression": "Är det inte det ena så är det det andra, sa flickan som blödde näsblod.",
+    "translation": "‘If it isn’t one thing it’s the other’ said the girl with a nosebleed.",
+    "meaning": "There is always something to be dissatisfied with."
+  },
+  {
+    "expression": "Är huvudet dumt får kroppen lida.",
+    "translation": "If the head is dumb, the body suffers.",
+    "meaning": "Said when someone hurts him or herself through a foolish act."
+  },
+  {
+    "expression": "Ärlighet varar längst.",
+    "translation": "Honesty is the best policy.",
+    "meaning": "Being honest or telling the truth is always the wisest course of action."
+  },
+  {
+    "expression": "Äras den som äras bör.",
+    "translation": "Give credit where credit is due."
+  },
+  {
+    "expression": "Äta bör man annars dör man.",
+    "translation": "One should eat or one dies."
+  },
+  {
+    "expression": "Även den bäste kan fela.",
+    "translation": "A good marksman may miss."
+  },
+  {
+    "expression": "Även dåren tros vis om han tiger.",
+    "translation": "Even a fool when he holdeth his peace is counted wise."
+  },
+  {
+    "expression": "Även en blind höna kan hitta ett korn.",
+    "translation": "Even a blind pig may occasionally pick up an acorn.",
+    "meaning": "An incompetent person or an unsystematic approach is bound to succeed every now and then by chance."
+  },
+  {
+    "expression": "Även små grytor har öron.",
+    "translation": "Little pitchers have big ears.",
+    "meaning": "Children often understand more than one might think."
+  },
+  {
+    "expression": "Även solen har sina fläckar.",
+    "translation": "Every rose has its thorns.",
+    "meaning": "No one is perfect."
+  },
+  {
+    "expression": "Öga för öga, tand för tand.",
+    "meaning": "Retaliation or punishment should take the same form as the original offense or crime.",
+    "translation": "Eye for an eye, tooth for a tooth."
+  },
+  {
+    "expression": "Ögonen vill ha mer än magen.",
+    "translation": "The eye is bigger than the belly.",
+    "meaning": "Greed persuades a person to take more the he or she can manage."
+  },
+  {
+    "expression": "Övning ger färdighet.",
+    "translation": "Practice makes perfect."
+  }
+]
