@@ -6,11 +6,11 @@ all:
 
 update: database.csv
 
-database.csv: database.json bin/csv.rb
-	bundle exec bin/csv.rb $< > $@
+database.csv: database.json bin/csv
+	bundle exec bin/csv $< > $@
 
-database.json: database.html bin/json.rb
-	bundle exec bin/json.rb $< > $@
+database.json: database.html bin/json
+	bundle exec bin/json $< > $@
 
 database.html:
 	\curl ${URL} > $@
