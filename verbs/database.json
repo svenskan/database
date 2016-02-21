@@ -1,53 +1,5 @@
 [
   {
-    "translation": "request, ask, apply for",
-    "infinitiv": "anhålla",
-    "presens": "anhåller",
-    "preteritum": "anhöll",
-    "supinum": "anhållit",
-    "imperativum": "anhåll"
-  },
-  {
-    "translation": "consider, regard",
-    "infinitiv": "anse",
-    "presens": "anser",
-    "preteritum": "ansåg",
-    "supinum": "ansett",
-    "imperativum": "anse"
-  },
-  {
-    "translation": "discontinue, terminate",
-    "infinitiv": "avbryta",
-    "presens": "avbryter",
-    "preteritum": "avbröt",
-    "supinum": "avbrutit",
-    "imperativum": "avbryt"
-  },
-  {
-    "translation": "pass away (on), die",
-    "infinitiv": "avlida",
-    "presens": "avlider",
-    "preteritum": "avled",
-    "supinum": "avlidit",
-    "imperativum": "avlida"
-  },
-  {
-    "translation": "have as one’s goal, intend, concern, refer to, aim at",
-    "infinitiv": "avse",
-    "presens": "avser",
-    "preteritum": "avsåg",
-    "supinum": "avsett",
-    "imperativum": "avse"
-  },
-  {
-    "translation": "desist from, refrain from, give up, abandon, relinquish",
-    "infinitiv": "avstå",
-    "presens": "avstår",
-    "preteritum": "avstod",
-    "supinum": "avstått",
-    "imperativum": "avstå"
-  },
-  {
     "translation": "ask, pray",
     "infinitiv": "be",
     "presens": "ber",
@@ -254,14 +206,6 @@
     "preteritum": "fick",
     "supinum": "fått",
     "imperativum": "få"
-  },
-  {
-    "translation": "understand",
-    "infinitiv": "förstå",
-    "presens": "förstår",
-    "preteritum": "förstod",
-    "supinum": "förstått",
-    "imperativum": "förstå"
   },
   {
     "translation": "disappear",
