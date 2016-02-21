@@ -1,13 +1,5 @@
 [
   {
-    "translation": "discontinue, terminate",
-    "infinitiv": "avbryta",
-    "presens": "avbryter",
-    "preteritum": "avbröt",
-    "supinum": "avbrutit",
-    "imperativum": "avbryt"
-  },
-  {
     "translation": "request, ask, apply for",
     "infinitiv": "anhålla",
     "presens": "anhåller",
@@ -22,6 +14,14 @@
     "preteritum": "ansåg",
     "supinum": "ansett",
     "imperativum": "anse"
+  },
+  {
+    "translation": "discontinue, terminate",
+    "infinitiv": "avbryta",
+    "presens": "avbryter",
+    "preteritum": "avbröt",
+    "supinum": "avbrutit",
+    "imperativum": "avbryt"
   },
   {
     "translation": "pass away (on), die",
