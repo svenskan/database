@@ -12,7 +12,7 @@
     "infinitiv": "besluta",
     "presens": "beslutar",
     "preteritum": "beslöt",
-    "supinum": "beslutit / beslutat",
+    "supinum": "beslutit/beslutat",
     "imperativum": "besluta"
   },
   {
@@ -41,11 +41,11 @@
   },
   {
     "translation": "become",
-    "infinitiv": "(bliva) / bli",
-    "presens": "(bliver) / blir",
+    "infinitiv": "bli (bliva)",
+    "presens": "blir (bliver)",
     "preteritum": "blev",
     "supinum": "blivit",
-    "imperativum": "(bliv) / bli"
+    "imperativum": "bli (bliv)"
   },
   {
     "translation": "burn",
@@ -116,14 +116,14 @@
     "infinitiv": "duga",
     "presens": "duger",
     "preteritum": "dög",
-    "supinum": "dugit",
+    "supinum": "dugt",
     "imperativum": "dug"
   },
   {
     "translation": "dive",
     "infinitiv": "dyka",
     "presens": "dyker",
-    "preteritum": "dök / dykte",
+    "preteritum": "dök/dykte",
     "supinum": "dykt",
     "imperativum": "dyk"
   },
@@ -217,10 +217,10 @@
   },
   {
     "translation": "give",
-    "infinitiv": "(giva) / ge",
-    "presens": "(giver) / ger",
+    "infinitiv": "ge (giva)",
+    "presens": "ger (giver)",
     "preteritum": "gav",
-    "supinum": "(givit) / gett",
+    "supinum": "gett (givit)",
     "imperativum": "ge"
   },
   {
@@ -396,7 +396,7 @@
     "infinitiv": "lyda",
     "presens": "lyder",
     "preteritum": "löd/lydde",
-    "supinum": "lydit/lytt",
+    "supinum": "lytt",
     "imperativum": "lyd"
   },
   {

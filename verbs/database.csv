@@ -1,9 +1,9 @@
 "ask, pray",be,ber,bad,bett,be
-decide,besluta,beslutar,beslöt,beslutit / beslutat,besluta
+decide,besluta,beslutar,beslöt,beslutit/beslutat,besluta
 bind,binda,binder,band,bundit,bind
 bite,bita,biter,bet,bitit,bit
 "offer, bid",bjuda,bjuder,bjöd,bjudit,bjud
-become,(bliva) / bli,(bliver) / blir,blev,blivit,(bliv) / bli
+become,bli (bliva),blir (bliver),blev,blivit,bli (bliv)
 burn,brinna,brinner,brann,brunnit,brinn
 "burst, snap",brista,brister,brast,brustit,brist
 break,bryta,bryter,bröt,brutit,bryt
@@ -12,8 +12,8 @@ should,(böra),bör,borde,bort,""
 "draw, drag, pull",dra,drar,drog,dragit,dra
 drink,dricka,dricker,drack,druckit,drick
 "propel, drive",driva,driver,drev,drivit,driv
-"be adequate, be suitable",duga,duger,dög,dugit,dug
-dive,dyka,dyker,dök / dykte,dykt,dyk
+"be adequate, be suitable",duga,duger,dög,dugt,dug
+dive,dyka,dyker,dök/dykte,dykt,dyk
 die,dö,dör,dog,dött,dö
 hide,dölja,döljer,dolde,dolt,dölj
 fall,falla,faller,föll,fallit,fall
@@ -25,7 +25,7 @@ float,flyta,flyter,flöt,flutit,flyt
 freeze,frysa,fryser,frös,frusit,frys
 get,få,får,fick,fått,få
 disappear,försvinna,försvinner,försvann,försvunnit,försvinn
-give,(giva) / ge,(giver) / ger,gav,(givit) / gett,ge
+give,ge (giva),ger (giver),gav,gett (givit),ge
 cast,gjuta,gjuter,göt,gjutit,gjut
 glide,glida,glider,gled,glidit,glid
 "please, delight",glädja,gläd(j)er,gladde,glatt,gläd
@@ -47,7 +47,7 @@ smile,le,ler,log,lett,le
 suffer,lida,lider,led,lidit,lid
 lie (be at rest),ligga,ligger,låg,legat,ligg
 lie (tell untruths),ljuga,ljuger,ljög,ljugit,ljug
-obey,lyda,lyder,löd/lydde,lydit/lytt,lyd
+obey,lyda,lyder,löd/lydde,lytt,lyd
 let,låta,låter,lät,låtit,låt
 lay,lägga,lägger,lade,lagt,lägg
 must,(måsta),måste,måste,(måst),""
