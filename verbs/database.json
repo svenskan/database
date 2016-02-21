@@ -32,6 +32,14 @@
     "imperativum": "avlida"
   },
   {
+    "translation": "have as one’s goal, intend, concern, refer to, aim at",
+    "infinitiv": "avse",
+    "presens": "avser",
+    "preteritum": "avsåg",
+    "supinum": "avsett",
+    "imperativum": "avse"
+  },
+  {
     "translation": "desist from, refrain from, give up, abandon, relinquish",
     "infinitiv": "avstå",
     "presens": "avstår",
@@ -680,7 +688,7 @@
     "imperativum": "smält"
   },
   {
-    "translation": "blow one's nose",
+    "translation": "blow one’s nose",
     "infinitiv": "snyta",
     "presens": "snyter",
     "preteritum": "snöt",
