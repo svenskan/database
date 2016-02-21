@@ -1,5 +1,45 @@
 [
   {
+    "translation": "discontinue, terminate",
+    "infinitiv": "avbryta",
+    "presens": "avbryter",
+    "preteritum": "avbröt",
+    "supinum": "avbrutit",
+    "imperativum": "avbryt"
+  },
+  {
+    "translation": "request, ask, apply for",
+    "infinitiv": "anhålla",
+    "presens": "anhåller",
+    "preteritum": "anhöll",
+    "supinum": "anhållit",
+    "imperativum": "anhåll"
+  },
+  {
+    "translation": "consider, regard",
+    "infinitiv": "anse",
+    "presens": "anser",
+    "preteritum": "ansåg",
+    "supinum": "ansett",
+    "imperativum": "anse"
+  },
+  {
+    "translation": "pass away (on), die",
+    "infinitiv": "avlida",
+    "presens": "avlider",
+    "preteritum": "avled",
+    "supinum": "avlidit",
+    "imperativum": "avlida"
+  },
+  {
+    "translation": "desist from, refrain from, give up, abandon, relinquish",
+    "infinitiv": "avstå",
+    "presens": "avstår",
+    "preteritum": "avstod",
+    "supinum": "avstått",
+    "imperativum": "avstå"
+  },
+  {
     "translation": "ask, pray",
     "infinitiv": "be",
     "presens": "ber",
