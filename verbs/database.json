@@ -136,14 +136,6 @@
     "imperativum": "dö"
   },
   {
-    "translation": "hide",
-    "infinitiv": "dölja",
-    "presens": "döljer",
-    "preteritum": "dolde",
-    "supinum": "dolt",
-    "imperativum": "dölj"
-  },
-  {
     "translation": "fall",
     "infinitiv": "falla",
     "presens": "faller",
@@ -846,14 +838,6 @@
     "preteritum": "vred",
     "supinum": "vridit",
     "imperativum": "vrid"
-  },
-  {
-    "translation": "choose",
-    "infinitiv": "välja",
-    "presens": "väljer",
-    "preteritum": "valde",
-    "supinum": "valt",
-    "imperativum": "välj"
   },
   {
     "translation": "adapt, accustom",
