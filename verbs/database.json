@@ -240,6 +240,14 @@
     "imperativum": "gläd"
   },
   {
+    "translation": "scrape, rub",
+    "infinitiv": "gnida",
+    "presens": "gnider",
+    "preteritum": "gned",
+    "supinum": "gnidit",
+    "imperativum": "gnid"
+  },
+  {
     "translation": "grip",
     "infinitiv": "gripa",
     "presens": "griper",
@@ -512,6 +520,14 @@
     "imperativum": "sjung"
   },
   {
+    "translation": "boil, seethe, simmer",
+    "infinitiv": "sjuda",
+    "presens": "sjuder",
+    "preteritum": "sjöd",
+    "supinum": "sjudit",
+    "imperativum": "sjud"
+  },
+  {
     "translation": "sink",
     "infinitiv": "sjunka",
     "presens": "sjunker",
@@ -688,6 +704,14 @@
     "imperativum": "stig"
   },
   {
+    "translation": "stink",
+    "infinitiv": "stinka",
+    "presens": "stinker",
+    "preteritum": "stank",
+    "supinum": "stunkit",
+    "imperativum": "stink"
+  },
+  {
     "translation": "steal",
     "infinitiv": "stjäla",
     "presens": "stjäl",
@@ -782,6 +806,14 @@
     "preteritum": "teg",
     "supinum": "tigit",
     "imperativum": "tig"
+  },
+  {
+    "translation": "yell, shriek",
+    "infinitiv": "tjuta",
+    "presens": "tjuter",
+    "preteritum": "tjöt",
+    "supinum": "tjutit",
+    "imperativum": "tjut"
   },
   {
     "translation": "force, compel",

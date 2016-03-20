@@ -28,6 +28,7 @@ give,ge (giva),ger (giver),gav,gett (givit),ge
 cast,gjuta,gjuter,göt,gjutit,gjut
 glide,glida,glider,gled,glidit,glid
 "please, delight",glädja,gläd(j)er,gladde,glatt,gläd
+"scrape, rub",gnida,gnider,gned,gnidit,gnid
 grip,gripa,griper,grep,gripit,grip
 cry,gråta,gråter,grät,gråtit,gråt
 "go, walk",gå,går,gick,gått,gå
@@ -62,6 +63,7 @@ roar,ryta,ryter,röt,rutit,ryt
 see,se,ser,såg,sett,se
 sit,sitta,sitter,satt,suttit,sitt
 sing,sjunga,sjunger,sjöng,sjungit,sjung
+"boil, seethe, simmer",sjuda,sjuder,sjöd,sjudit,sjud
 sink,sjunka,sjunker,sjönk,sjunkit,sjunk
 shine,skina,skiner,sken,skinit,skin
 shoot,skjuta,skjuter,sköt,skjutit,skjut
@@ -84,6 +86,7 @@ spread,sprida,sprider,spred/spridde,spridit/spritt,sprid
 run,springa,springer,sprang,sprungit,spring
 "sting, stick",sticka,sticker,stack,stuckit,stick
 arise; step,stiga,stiger,steg,stigit,stig
+stink,stinka,stinker,stank,stunkit,stink
 steal,stjäla,stjäl,stal,stulit,stjäl
 battle,strida,strider,stred,stridit,strid
 "stroke, rub",stryka,stryker,strök,strukit,stryk
@@ -96,6 +99,7 @@ starve,svälta,svälter,svalt/svälte,svultit/svält,svält
 swear,svära,svär,svor,svurit,svär
 take,ta,tar,tog,tagit,ta
 keep silent,tiga,tiger,teg,tigit,tig
+"yell, shriek",tjuta,tjuter,tjöt,tjutit,tjut
 "force, compel",tvinga,tvinger/tvingar,tvang/tvingade,tvungit/tvingat,tving/tvinga
 be,vara,är,var,varit,var
 know,veta,vet,visste,vetat,""
