@@ -328,6 +328,14 @@
     "imperativum": "kliv"
   },
   {
+    "translation": "pinch",
+    "infinitiv": "knipa",
+    "presens": "kniper",
+    "preteritum": "knep",
+    "supinum": "knipit",
+    "imperativum": "knip"
+  },
+  {
     "translation": "tie",
     "infinitiv": "knyta",
     "presens": "knyter",
