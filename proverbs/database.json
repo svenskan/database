@@ -602,7 +602,8 @@
   },
   {
     "expression": "I mörker är alla katter grå.",
-    "translation": "In the dark all cats are gray."
+    "meaning": "In the dark, physical appearance is unimportant.",
+    "translation": "All cats are grey in the dark."
   },
   {
     "expression": "I nöden prövas vännen.",
