@@ -621,7 +621,8 @@
   },
   {
     "expression": "Ibland kan man inte se skogen på grund av alla träd.",
-    "translation": "He is missing the forest because of the trees."
+    "meaning": "Pay too much attention to details and not understand the general situation.",
+    "translation": "Can’t see the forest for the trees."
   },
   {
     "expression": "Idel solsken gör öken.",
