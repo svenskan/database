@@ -271,7 +271,8 @@
   },
   {
     "expression": "Det ska böjas i tid det som krokigt ska bli.",
-    "translation": "Soon crooks the tree that good gambrel would be."
+    "translation": "Soon crooks the tree that good gambrel would be.",
+    "meaning": "Young people are the easiest to influence."
   },
   {
     "expression": "Det som börjar med en knappnål slutar oftast med en silverskål.",
@@ -283,11 +284,13 @@
   },
   {
     "expression": "Det som göms i snö kommer fram vid tö.",
-    "translation": "What is hidden in snow is revealed at thaw."
+    "translation": "What is hidden in snow is revealed at thaw.",
+    "meaning": "Things lied about or concealed are often eventually revealed."
   },
   {
     "expression": "Det vattnet du hämtar ur bäcken lär dig känna källan.",
-    "translation": "The water you collect from the stream teaches you about its source."
+    "translation": "The water you collect from the stream teaches you about its source.",
+    "meaning": "If you spend time around something, you will learn about it."
   },
   {
     "expression": "Det viktigaste är inte att vinna, utan att kämpa väl.",
@@ -516,7 +519,7 @@
   {
     "expression": "Gör inte en höna av en fjäder.",
     "translation": "Don’t make a mountain out of a molehill.",
-    "meaning": "Do not blow things out of proportion."
+    "meaning": "Do not blow things out of proportion. Do not \"improve\" on a story or a rumor until it no longer resembles the original truth."
   },
   {
     "expression": "Gör om, gör rätt.",
@@ -561,7 +564,7 @@
   {
     "expression": "Hur man än vänder sig har man ändan bak.",
     "translation": "Whichever way you turn you have your end in the back.",
-    "meaning": "Things seems to go wrong no matter what you do."
+    "meaning": "Things seem to go wrong no matter what you do."
   },
   {
     "expression": "Hut går hem.",
@@ -570,7 +573,8 @@
   },
   {
     "expression": "Huvudkudden är bästa rådgivaren.",
-    "translation": "Take counsel of one’s pillow."
+    "translation": "Take counsel of one’s pillow.",
+    "meaning": "to \"sleep on it\"; to consider an (important) issue overnight before making a decision"
   },
   {
     "expression": "Hälsan tiger still.",
@@ -622,7 +626,7 @@
   {
     "expression": "Ibland kan man inte se skogen på grund av alla träd.",
     "meaning": "Pay too much attention to details and not understand the general situation.",
-    "translation": "Can’t see the forest for the trees."
+    "translation": "Can’t see the wood/forest for the trees."
   },
   {
     "expression": "Idel solsken gör öken.",
@@ -639,7 +643,8 @@
   },
   {
     "expression": "Ingen rök utan eld.",
-    "translation": "Every why has its wherefore."
+    "translation": "Every why has its wherefore.",
+    "meaning": "There is an explanation for everything."
   },
   {
     "expression": "Ingen är oumbärlig.",
@@ -687,13 +692,13 @@
   },
   {
     "expression": "Kasta inte pärlor för svin.",
-    "meaning": "Don’t waste something good on someone who doesn’t care about it.",
+    "meaning": "Don’t waste something good on someone who doesn’t care about it/understand its value.",
     "translation": "Don’t throw pearls before swine."
   },
   {
     "expression": "Kasta inte ut barnet med badvattnet.",
     "meaning": "Don’t reject something in its entirety just because parts of it are bad; other parts might be good.",
-    "translation": "Don’t throw the baby out with the bathwater."
+    "translation": "Don’t throw the baby out with the bath water."
   },
   {
     "expression": "Kasta inte sten i glashus.",
@@ -706,7 +711,8 @@
   },
   {
     "expression": "Kommer tid, kommer råd.",
-    "translation": "Comes time, comes counsel."
+    "translation": "Comes time, comes counsel.",
+    "meaning": "For some problems, if there is no good solution at the moment, then given enough time, probably there will somehow be solutions coming up."
   },
   {
     "expression": "Kläderna gör mannen.",
@@ -723,7 +729,8 @@
   },
   {
     "expression": "Köp inte grisen i säcken.",
-    "translation": "Let the buyer have a thousand eyes for the seller wants only one."
+    "translation": "Let the buyer have a thousand eyes for the seller wants only one.",
+    "meaning": "Check carefully before buying things. Do not buy things without knowing what you really pay for. (You thought you bought a pig, while in fact in the bag the unscrupulous seller might have put a stuffed cat.) Do not invest a lot before you know how much reward you can get from the investment."
   },
   {
     "expression": "Lagt kort ligger.",
@@ -741,11 +748,13 @@
   },
   {
     "expression": "Lita inte till en annan, det du själv kan göra.",
-    "translation": "For what thou canst do thyself, rely not on another."
+    "translation": "For what thou canst do thyself, rely not on another.",
+    "meaning": "Expect nothing from friends. Do what you can do yourself."
   },
   {
     "expression": "Liten tuva stjälper ofta stort lass.",
-    "translation": "A small tuft often overturns a big load."
+    "translation": "A small tuft often tumbles a big load.",
+    "meaning": "a failure to anticipate or correct some initially small dysfunctions can lead by successively more critical stages to an egregious failure."
   },
   {
     "expression": "Lyckan kan inte köpas för pengar.",
@@ -768,7 +777,7 @@
   },
   {
     "expression": "Lägg inte sten på börda.",
-    "translation": "Don’t add fuel to the fire.",
+    "translation": "Don’t add fuel to the fire/flames.",
     "meaning": "One should not make a bad situation even worse by an improper remark."
   },
   {
@@ -795,8 +804,8 @@
   },
   {
     "expression": "Låt inte vargen vakta fåren.",
-    "meaning": "This Proverb reflects upon the ill Conduct of Men in the Management of their Affairs, by intrufting either Sharpers with their Money, Blabs with their Secrets, or Enemies or Informer: with their Lives: For no Obligation can bind againft Nature: A Fox will love a Goofe ftill, though his Skin be ftript over his Ears for it; and a Common Cheat will always follow his old Trade of tricking his Friend, in fpite of all Promifes and Principle: of Honour, Honefty, and good Faith.",
-    "translation": "A nice wife and a back door oft do make a rich man poor."
+    "translation": "A nice wife and a back door oft do make a rich man poor.",
+    "meaning": "This Proverb reflects upon the ill Conduct of Men in the Management of their Affairs, by intrufting either Sharpers with their Money, Blabs with their Secrets, or Enemies or Informer: with their Lives: For no Obligation can bind againft Nature: A Fox will love a Goofe ftill, though his Skin be ftript over his Ears for it; and a Common Cheat will always follow his old Trade of tricking his Friend, in fpite of all Promifes and Principle: of Honour, Honefty, and good Faith."
   },
   {
     "expression": "Låt maten tysta mun.",
@@ -845,8 +854,8 @@
   },
   {
     "expression": "Man kan inte både äta kakan och ha kakan kvar.",
-    "translation": "You can’t have your cake and eat it too.",
-    "meaning": "You cannot do two mutually incompatible things at the same time."
+    "translation": "You can’t have your cake and eat it (too).",
+    "meaning": "\"You cannot do two mutually incompatible things at the same time.\" You can not have all the advantages of something without its disadvantages."
   },
   {
     "expression": "Man kan inte lära gamla hundar sitta.",
@@ -856,7 +865,7 @@
   {
     "expression": "Man måste rätta munnen efter matsäcken.",
     "translation": "Cut your coat according to your cloth.",
-    "meaning": "You have to match your revenues with your expenses."
+    "meaning": "You have to match your expenses with your revenues."
   },
   {
     "expression": "Man saknar inte kon förrän båset är tomt.",
@@ -885,12 +894,12 @@
   },
   {
     "expression": "Man ska inte gjuta olja på elden.",
-    "translation": "Don’t add fuel to the fire.",
+    "translation": "Don’t add fuel to the fire/flames.",
     "meaning": "One should not make a bad situation even worse by an improper remark."
   },
   {
     "expression": "Man ska inte gråta över spilld mjölk.",
-    "translation": "Do not weep over spilled milk.",
+    "translation": "It is no use crying over spilt milk.",
     "meaning": "Dwelling on past mishaps will only waste your time."
   },
   {
