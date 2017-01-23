@@ -917,7 +917,7 @@
   },
   {
     "expression": "Mister du en så står dig tusen åter.",
-    "translation": "There are plenty of fish in the sea.",
+    "translation": "There are plenty more fish in the sea.",
     "meaning": "Usually used concerning broken hearts. There is also a continuation for it: Väljer du en så är det tusen som gråter. (If you choose one, a thousand will cry.)."
   },
   {
@@ -931,6 +931,7 @@
   },
   {
     "expression": "Måla inte fan på väggen.",
+    "meaning": "Do not assume the worst of a situation.",
     "translation": "Don’t paint the devil on the wall."
   },
   {
@@ -953,7 +954,8 @@
   },
   {
     "expression": "Någon måtta får det vara.",
-    "translation": "There must be some moderation."
+    "translation": "There must be some moderation.",
+    "meaning": "Enough’s enough, there has to be a limit somewhere."
   },
   {
     "expression": "När det regnar manna från himlen har den fattige ingen sked.",
@@ -975,7 +977,7 @@
   },
   {
     "expression": "När man talar om trollen så står de i farstun och lyssnar.",
-    "translation": "Speak of the devil..."
+    "translation": "Speak/talk of the devil..."
   },
   {
     "expression": "När musen är mätt, smakar mjölet beskt.",
@@ -993,7 +995,8 @@
   },
   {
     "expression": "Nära skjuter ingen hare.",
-    "translation": "Close but no cigar."
+    "translation": "Close but no cigar.",
+    "meaning": "Almost there, but not quite."
   },
   {
     "expression": "Nöden har ingen lag.",
@@ -1016,7 +1019,7 @@
   {
     "expression": "Om man ger någon ett finger vill han ha hela handen.",
     "translation": "Give him an inch and he will take a yard.",
-    "meaning": "People are inclined to take excessive advantage of the tolerance or generosity of others; often used to warn against making even the smallest concession."
+    "meaning": "People are inclined to take excessive advantage of the tolerance or generosity of others; often used to warn against not making even the smallest concession."
   },
   {
     "expression": "Omväxling förnöjer.",
@@ -1029,7 +1032,8 @@
   },
   {
     "expression": "Ont skall med ont fördrivas.",
-    "translation": "Fight fire with fire; Like cures like."
+    "translation": "Fight fire with fire; Like cures like.",
+    "meaning": "to use the same methods as your opponents in an argument, competition etc"
   },
   {
     "expression": "Osvuret är bäst.",
@@ -1039,7 +1043,7 @@
   {
     "expression": "Otack är världens lön.",
     "translation": "Ingratitude is the world’s reward.",
-    "meaning": "Said when it is felt that someone hasn’t received the praise or compensation he deserves."
+    "meaning": "One is not often appreciated for doing good things. One rarely gets thanks."
   },
   {
     "expression": "Pengar luktar inte.",
