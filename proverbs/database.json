@@ -1119,7 +1119,8 @@
   },
   {
     "expression": "Skjut inte dig själv i foten.",
-    "translation": "Don’t shoot yourself in the foot."
+    "translation": "Don’t shoot yourself in the foot.",
+    "meaning": "Don’t say or do something that stupid that will cause you a lot of trouble."
   },
   {
     "expression": "Skjut inte upp till morgondagen det du kan göra idag.",
@@ -1140,8 +1141,8 @@
   },
   {
     "expression": "Skåda inte given häst i mun.",
-    "translation": "Look not a horse in the mouth.",
-    "meaning": "And so with respect to gifts and donations in general, whether their value be more or less, they should be accounted tokens of kindness and received with promptness and cordiality."
+    "meaning": "\"And so with respect to gifts and donations in general, whether their value be more or less, they should be accounted tokens of kindness and received with promptness and cordiality.\" Used to tell someone to be grateful for something that has been given to them, instead of asking questions about it or finding something wrong with it.",
+    "translation": "Never/don’t look a gift horse in the mouth."
   },
   {
     "expression": "Slutet gott, allting gott.",
@@ -1164,7 +1165,7 @@
   },
   {
     "expression": "Små smulor är också bröd.",
-    "translation": "Small crumbles are bread too."
+    "translation": "Small crumbs are bread too."
   },
   {
     "expression": "Små sår och fattiga vänner ska man inte förakta.",
@@ -1181,7 +1182,8 @@
   },
   {
     "expression": "Som fan läser bibeln.",
-    "translation": "The devil can cite scripture for his purpose. (From Shakespeare, Merchant in Venice act 1, scene 3)"
+    "translation": "The devil can cite Scripture for his purpose. (From Shakespeare, Merchant in Venice act 1, scene 3; Spoken by Antonio: Mark you this, Bassanio, The devil can cite Scripture for his purpose.)",
+    "meaning": "One can through consciously misinterpret or distort things in order to serve his/her own purposes or ideas. Even good things can be twisted to achieve bad ends."
   },
   {
     "expression": "Som man bäddar får man ligga.",
