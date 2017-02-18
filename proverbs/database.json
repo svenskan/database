@@ -1273,12 +1273,12 @@
   },
   {
     "expression": "Ta tjuren vid hornen.",
-    "translation": "Grab the bull by its horns.",
+    "translation": "Grasp the nettle.",
     "meaning": "To directly tackle a difficult problem."
   },
   {
     "expression": "Tala är silver, tiga är guld.",
-    "translation": "Silence is golden."
+    "translation": "Silence is golden. (Fuller version, less common: speech is silver; silence is golden.)"
   },
   {
     "expression": "Tala med bönder på bönders vis och med de lärde på latin.",
@@ -1299,12 +1299,13 @@
   },
   {
     "expression": "Tomma tunnor skramlar mest.",
-    "translation": "It’s the empty can that makes the most noise.",
+    "translation": "Empty vessels make (the) most noise/sound.",
     "meaning": "It is not he who advertises for himself the most that can achieve the greatest results."
   },
   {
     "expression": "Trägen vinner.",
-    "translation": "God is with those who persevere; Persevere and never fear."
+    "translation": "God is with those who persevere; Persevere and never fear.",
+    "meaning": "Those who work strenuously reach their goals in the end."
   },
   {
     "expression": "Tron kan försätta berg.",
