@@ -1128,13 +1128,14 @@
     "translation": "Don’t postpone till tomorrow what you can do today."
   },
   {
-    "expression": "Skomakare bliv vid din läst.",
+    "expression": "Skomakare, bliv vid din läst.",
     "translation": "A blind man should not judge of colours.",
     "meaning": "An uneducated man cannot judge of the attainments of the learned."
   },
   {
     "expression": "Skrattar bäst, som skrattar sist.",
-    "translation": "He who laughs last, laughs longest."
+    "translation": "He who laughs last, laughs longest.",
+    "meaning": "Minor successes or failures along the way are of no significance—the person who is ultimately triumphant is the only real winner."
   },
   {
     "expression": "Skynda långsamt.",
@@ -1148,7 +1149,8 @@
   },
   {
     "expression": "Slutet gott, allting gott.",
-    "translation": "All is well that ends well."
+    "translation": "All is well that ends well.",
+    "meaning": "Problems and misfortunes along the way can be forgotten as long as the end is satisfactory."
   },
   {
     "expression": "Smakar det så kostar det.",
@@ -1167,7 +1169,8 @@
   },
   {
     "expression": "Små smulor är också bröd.",
-    "translation": "Small crumbs are bread too."
+    "translation": "Small crumbs are bread too.",
+    "meaning": "Something is ever so much better than nothing."
   },
   {
     "expression": "Små sår och fattiga vänner ska man inte förakta.",
@@ -1204,7 +1207,7 @@
   {
     "expression": "Som man är klädd blir man hädd.",
     "translation": "Fine feathers make fine birds.",
-    "meaning": "By dressing in elegant or good-quality clothing, people create a favorable impression on others, often appearing to be of better breeding or higher class than they are"
+    "meaning": "By dressing in elegant or good-quality clothing, people create a favorable impression on others, often appearing to be of better breeding or higher class than they are."
   },
   {
     "expression": "Somliga straffar Gud direkt.",
