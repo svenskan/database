@@ -1192,12 +1192,13 @@
   },
   {
     "expression": "Som man bäddar får man ligga.",
-    "translation": "As you make your bed, so you must lie."
+    "translation": "As you make your bed, so you must lie in/on/upon it.",
+    "meaning": "You must put up with the unpleasant results of a foolish action or decision."
   },
   {
-    "expression": "Som man ropar får man svar.",
-    "translation": "As you shout you get will be answered. (As you shout in the forest you will be answered.)",
-    "meaning": "General: The way you formulate a question or a statement will affect the answer you get. Also: your own behavior affects other people’s behavior towards you, e.g., You will be treated politely to the same extent that you yourself act politely."
+    "expression": "Som man ropar (i skogen) får man svar.",
+    "translation": "As you shout (in the forest) you will be answered.",
+    "meaning": "The way you formulate a question or a statement will affect the answer you get. Also, your own behavior affects other people’s behavior towards you, e.g., you will be treated politely to the same extent that you yourself act politely."
   },
   {
     "expression": "Som man sår får man skörda.",
