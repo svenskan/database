@@ -80,14 +80,6 @@
     "imperativum": "bär"
   },
   {
-    "translation": "should",
-    "infinitiv": "(böra)",
-    "presens": "bör",
-    "preteritum": "borde",
-    "supinum": "bort",
-    "imperativum": ""
-  },
-  {
     "translation": "draw, drag, pull",
     "infinitiv": "dra",
     "presens": "drar",
@@ -230,14 +222,6 @@
     "preteritum": "gled",
     "supinum": "glidit",
     "imperativum": "glid"
-  },
-  {
-    "translation": "please, delight",
-    "infinitiv": "glädja",
-    "presens": "gläd(j)er",
-    "preteritum": "gladde",
-    "supinum": "glatt",
-    "imperativum": "gläd"
   },
   {
     "translation": "scrape, rub",
@@ -414,14 +398,6 @@
     "preteritum": "lät",
     "supinum": "låtit",
     "imperativum": "låt"
-  },
-  {
-    "translation": "lay",
-    "infinitiv": "lägga",
-    "presens": "lägger",
-    "preteritum": "lade",
-    "supinum": "lagt",
-    "imperativum": "lägg"
   },
   {
     "translation": "must",
