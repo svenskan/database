@@ -32,6 +32,10 @@
     "translation": "All that glitters is not gold."
   },
   {
+    "expression": "Allt/allting/var sak har sin tid.",
+    "translation": "To everything there is a season."
+  },
+  {
     "expression": "Anfall är bästa försvar.",
     "translation": "The best defense is a good offense.",
     "meaning": "If you attack your opponents, they will be so busy fighting off your attack that they will not be able to attack you."
@@ -162,6 +166,10 @@
     "translation": "Wise men learn by other men’s harms, fools by their own."
   },
   {
+    "expression": "Daggen faller både på lort och lilja.",
+    "translation": "The dew falls on both dirt and lily."
+  },
+  {
     "expression": "Delad glädje är dubbel glädje (och delad sorg är halv sorg).",
     "translation": "Joy shared, joy doubled: sorrow shared, sorrow halved."
   },
@@ -214,6 +222,10 @@
   {
     "expression": "Den som viskar han ljuger.",
     "translation": "He who whispers lies."
+  },
+  {
+    "expression": "Den som vågar han vinner.",
+    "translation": "He who dares wins."
   },
   {
     "expression": "Den som väntar på något gott, väntar aldrig för länge.",
@@ -327,6 +339,10 @@
     "expression": "Det är saligare att giva än att taga.",
     "translation": "It is more blissful to give than to receive.",
     "meaning": "The act of giving is more worthy, noble and spiritually satisfying than the act of receiving,"
+  },
+  {
+    "expression": "Det är skillnad på folk och folk.",
+    "translation": "There is a difference between people and people."
   },
   {
     "expression": "Det är skönare lyss till den sträng som brast än att aldrig spänna en båge.",
@@ -1340,10 +1356,6 @@
     "meaning": "There is no need to add to the troubles each day brings. One should live in the present, without a care for tomorrow."
   },
   {
-    "expression": "Var sak har sin tid.",
-    "translation": "To everything there is a season."
-  },
-  {
     "expression": "Var fågel sjunger efter sin egen näbb.",
     "translation": "Different strokes suit different folks."
   },
@@ -1459,7 +1471,7 @@
     "translation": "One should eat or one dies."
   },
   {
-    "expression": "Även den bäste kan fela.",
+    "expression": "Även den bäste/mästaren kan fela.",
     "translation": "A good marksman may miss."
   },
   {
