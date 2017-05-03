@@ -80,6 +80,14 @@
     "imperativum": "bär"
   },
   {
+    "translation": "tumble, fall, drop",
+    "infinitiv": "dimpa",
+    "presens": "dimper",
+    "preteritum": "damp",
+    "supinum": "dumpit",
+    "imperativum": "dimp"
+  },
+  {
     "translation": "draw, drag, pull",
     "infinitiv": "dra",
     "presens": "drar",
