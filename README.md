@@ -2,7 +2,7 @@
 
 The repository is a database of Swedish words and expressions.
 
-## Content
+## Contents
 
 * [Proverbs](proverbs)
 * [Strong and irregular verbs](verbs)
