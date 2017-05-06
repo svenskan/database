@@ -10,7 +10,9 @@ class Record
 
   def initialize(element)
     attributes = element.css('td')
-    raise 'expected six columns' unless attributes.length == 6
+    if attributes.length != ATTRIBUTES.length
+      raise "expected #{ATTRIBUTES.length} columns"
+    end
     ATTRIBUTES.each_with_index do |attribute, i|
       self.send("#{attribute}=", typography(attributes[i].text))
     end

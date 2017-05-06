@@ -11,10 +11,8 @@ class Record
   def self.parse(element)
     attribute = element.css('i')[0]
     return nil if attribute.nil?
-
     record = Record.new
     record.expression = attribute.text
-
     element.css('li').each do |attribute|
       text = attribute.text
       case text
@@ -26,7 +24,6 @@ class Record
         record.meaning = compact(record.meaning, typograph($1))
       end
     end
-
     record
   end
 
