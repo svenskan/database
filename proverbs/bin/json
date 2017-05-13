@@ -59,7 +59,7 @@ end
 raise 'an HTML file is required' if ARGV.length < 1
 
 page = Nokogiri::HTML(open(ARGV[0]))
-elements = page.css('#mw-content-text')[0].children
+elements = page.css('#mw-content-text > .mw-parser-output')[0].children
 
 database = []
 elements.each do |element|
