@@ -1,9 +1,8 @@
 "ask, pray",be,ber,bad,bett,be
-decide,besluta,besluter/beslutar,beslöt/beslutade,beslutit/beslutat,besluta
 bind,binda,binder,band,bundit,bind
 bite,bita,biter,bet,bitit,bit
 "offer, bid",bjuda,bjuder,bjöd,bjudit,bjud
-become,bli (bliva),blir (bliver),blev,blivit,bli (bliv)
+become,bli/bliva,blir/bliver,blev,blivit,bli/bliv
 burn,brinna,brinner,brann,brunnit,brinn
 "burst, snap",brista,brister,brast,brustit,brist
 break,bryta,bryter,bröt,brutit,bryt
@@ -24,7 +23,7 @@ float,flyta,flyter,flöt,flutit,flyt
 freeze,frysa,fryser,frös,frusit,frys
 get,få,får,fick,fått,få
 disappear,försvinna,försvinner,försvann,försvunnit,försvinn
-give,ge (giva),ger (giver),gav,gett (givit),ge
+give,ge/giva,ger/giver,gav,gett/givit,ge
 cast,gjuta,gjuter,göt,gjutit,gjut
 glide,glida,glider,gled,glidit,glid
 "scrape, rub",gnida,gnider,gned,gnidit,gnid
@@ -47,7 +46,7 @@ smile,le,ler,log,lett,le
 suffer,lida,lider,led,lidit,lid
 lie (be at rest),ligga,ligger,låg,legat,ligg
 lie (tell untruths),ljuga,ljuger,ljög,ljugit,ljug
-obey,lyda,lyder,löd/lydde,lytt,lyd
+obey,lyda,lyder,löd/lydde,lydit/lytt,lyd
 let,låta,låter,lät,låtit,låt
 must,(måsta),måste,måste,(måst),""
 curtsey,niga,niger,neg,nigit,nig
@@ -58,7 +57,8 @@ sneeze,nysa,nyser,nös/nyste,nysit/nyst,nys
 ride,rida,rider,red,ridit,rid
 "run, flow",rinna,rinner,rann,runnit,rinn
 scratch hard,riva,river,rev,rivit,riv
-shiver,rysa,ryser,rös,ryst,rys
+smoke,ryka,ryker,rykte/rök,rykt,ryk
+shiver,rysa,ryser,ryste/rös,ryst,rys
 roar,ryta,ryter,röt,rutit,ryt
 see,se,ser,såg,sett,se
 swim,simma,simmer/simmar,sam/simmade,summit/simmat,sim/simma
@@ -76,18 +76,21 @@ brag,skryta,skryter,skröt,skrutit,skryt
 cut,skära,skär,skar,skurit,skär
 "be excused from, avoid",slippa,slipper,slapp,sluppit,slipp
 tear,slita,sliter,slet,slitit,slit
+"shut, close",sluta,sluter,slöt,slutit,slut
 punch,slå,slår,slog,slagit,slå
 fight,slåss,slåss,slogs,slagits,slåss
 sneak,smyga,smyger,smög,smugit,smyg
+"slam, bang, crack, snap",smälla,smäller,smällde/small,smällt,smäll
 melt,smälta,smälter,smälte/smalt,smält,smält
 blow one’s nose,snyta,snyter,snöt,snutit,snyt
 sleep,sova,sover,sov,sovit,sov
-spin; purr,spinna,spinner,spann,spunnit,spinn
+"spin, purr",spinna,spinner,spann,spunnit,spinn
 crack,spricka,spricker,sprack,spruckit,sprick
 spread,sprida,sprider,spred/spridde,spridit/spritt,sprid
 run,springa,springer,sprang,sprungit,spring
+"tremble, quiver, jump",spritta,spritter,spratt,spruttit,spritt
 "sting, stick",sticka,sticker,stack,stuckit,stick
-arise; step,stiga,stiger,steg,stigit,stig
+"arise, step",stiga,stiger,steg,stigit,stig
 stink,stinka,stinker,stank,stunkit,stink
 steal,stjäla,stjäl,stal,stulit,stjäl
 battle,strida,strider,stred,stridit,strid
@@ -99,13 +102,14 @@ drink alcohol,supa,super,söp,supit,sup
 "let down, fail",svika,sviker,svek,svikit,svik
 starve,svälta,svälter,svalt/svälte,svultit/svält,svält
 swear,svära,svär,svor,svurit,svär
+say,säga,säger,sa/sade,sagt,säg
 take,ta,tar,tog,tagit,ta
 keep silent,tiga,tiger,teg,tigit,tig
 "yell, shriek",tjuta,tjuter,tjöt,tjutit,tjut
 "force, compel",tvinga,tvinger/tvingar,tvang/tvingade,tvungit/tvingat,tving/tvinga
 be,vara,är,var,varit,var
 know,veta,vet,visste,vetat,""
-fold; yield,vika,viker,vek/vikte,vikit/vikt,vik
+"fold, yield",vika,viker,vek/vikte,vikit/vikt,vik
 want,vilja,vill,ville,velat,""
 win,vinna,vinner,vann,vunnit,vinn
 turn,vrida,vrider,vred,vridit,vrid

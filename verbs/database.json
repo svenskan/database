@@ -8,14 +8,6 @@
     "imperativum": "be"
   },
   {
-    "translation": "decide",
-    "infinitiv": "besluta",
-    "presens": "besluter/beslutar",
-    "preteritum": "beslöt/beslutade",
-    "supinum": "beslutit/beslutat",
-    "imperativum": "besluta"
-  },
-  {
     "translation": "bind",
     "infinitiv": "binda",
     "presens": "binder",
@@ -41,11 +33,11 @@
   },
   {
     "translation": "become",
-    "infinitiv": "bli (bliva)",
-    "presens": "blir (bliver)",
+    "infinitiv": "bli/bliva",
+    "presens": "blir/bliver",
     "preteritum": "blev",
     "supinum": "blivit",
-    "imperativum": "bli (bliv)"
+    "imperativum": "bli/bliv"
   },
   {
     "translation": "burn",
@@ -209,10 +201,10 @@
   },
   {
     "translation": "give",
-    "infinitiv": "ge (giva)",
-    "presens": "ger (giver)",
+    "infinitiv": "ge/giva",
+    "presens": "ger/giver",
     "preteritum": "gav",
-    "supinum": "gett (givit)",
+    "supinum": "gett/givit",
     "imperativum": "ge"
   },
   {
@@ -396,7 +388,7 @@
     "infinitiv": "lyda",
     "presens": "lyder",
     "preteritum": "löd/lydde",
-    "supinum": "lytt",
+    "supinum": "lydit/lytt",
     "imperativum": "lyd"
   },
   {
@@ -480,10 +472,18 @@
     "imperativum": "riv"
   },
   {
+    "translation": "smoke",
+    "infinitiv": "ryka",
+    "presens": "ryker",
+    "preteritum": "rykte/rök",
+    "supinum": "rykt",
+    "imperativum": "ryk"
+  },
+  {
     "translation": "shiver",
     "infinitiv": "rysa",
     "presens": "ryser",
-    "preteritum": "rös",
+    "preteritum": "ryste/rös",
     "supinum": "ryst",
     "imperativum": "rys"
   },
@@ -624,6 +624,14 @@
     "imperativum": "slit"
   },
   {
+    "translation": "shut, close",
+    "infinitiv": "sluta",
+    "presens": "sluter",
+    "preteritum": "slöt",
+    "supinum": "slutit",
+    "imperativum": "slut"
+  },
+  {
     "translation": "punch",
     "infinitiv": "slå",
     "presens": "slår",
@@ -646,6 +654,14 @@
     "preteritum": "smög",
     "supinum": "smugit",
     "imperativum": "smyg"
+  },
+  {
+    "translation": "slam, bang, crack, snap",
+    "infinitiv": "smälla",
+    "presens": "smäller",
+    "preteritum": "smällde/small",
+    "supinum": "smällt",
+    "imperativum": "smäll"
   },
   {
     "translation": "melt",
@@ -672,7 +688,7 @@
     "imperativum": "sov"
   },
   {
-    "translation": "spin; purr",
+    "translation": "spin, purr",
     "infinitiv": "spinna",
     "presens": "spinner",
     "preteritum": "spann",
@@ -704,6 +720,14 @@
     "imperativum": "spring"
   },
   {
+    "translation": "tremble, quiver, jump",
+    "infinitiv": "spritta",
+    "presens": "spritter",
+    "preteritum": "spratt",
+    "supinum": "spruttit",
+    "imperativum": "spritt"
+  },
+  {
     "translation": "sting, stick",
     "infinitiv": "sticka",
     "presens": "sticker",
@@ -712,7 +736,7 @@
     "imperativum": "stick"
   },
   {
-    "translation": "arise; step",
+    "translation": "arise, step",
     "infinitiv": "stiga",
     "presens": "stiger",
     "preteritum": "steg",
@@ -808,6 +832,14 @@
     "imperativum": "svär"
   },
   {
+    "translation": "say",
+    "infinitiv": "säga",
+    "presens": "säger",
+    "preteritum": "sa/sade",
+    "supinum": "sagt",
+    "imperativum": "säg"
+  },
+  {
     "translation": "take",
     "infinitiv": "ta",
     "presens": "tar",
@@ -856,7 +888,7 @@
     "imperativum": ""
   },
   {
-    "translation": "fold; yield",
+    "translation": "fold, yield",
     "infinitiv": "vika",
     "presens": "viker",
     "preteritum": "vek/vikte",
