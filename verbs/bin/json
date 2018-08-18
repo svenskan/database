@@ -34,6 +34,7 @@ end
 
 def typography(text)
   text.gsub!('!', '')
+  text.strip!
   text
 end
 
