@@ -14,8 +14,7 @@
   },
   {
     "expression": "Alla vägar bär till Rom.",
-    "translation": "All roads lead to Rome.",
-    "meaning": "There are many different routes to the same goal."
+    "translation": "All roads lead to Rome."
   },
   {
     "expression": "Alla är vi barn i början.",
@@ -23,8 +22,7 @@
   },
   {
     "expression": "Alla vill vara herrar, men ingen vill bära säcken.",
-    "translation": "There are too many chiefs and not enough Indians.",
-    "meaning": "Too many people want to be the leader, and not enough people are willing to follow to do the detail work."
+    "translation": "There are too many chiefs and not enough Indians."
   },
   {
     "expression": "Allt är inte guld som glimmar.",
@@ -36,8 +34,7 @@
   },
   {
     "expression": "Anfall är bästa försvar.",
-    "translation": "The best defense is a good offense.",
-    "meaning": "If you attack your opponents, they will be so busy fighting off your attack that they will not be able to attack you."
+    "translation": "The best defense is a good offense."
   },
   {
     "expression": "Arga katter får rivet skinn.",
@@ -61,8 +58,7 @@
   },
   {
     "expression": "Av skadan blir man vis.",
-    "translation": "Injury makes you wise.",
-    "meaning": "You learn from your mistakes."
+    "translation": "Adversity is the mother of wisdom."
   },
   {
     "expression": "Avundsjukan vilar aldrig.",
@@ -82,8 +78,7 @@
   },
   {
     "expression": "Blod är tjockare än vatten.",
-    "translation": "Blood is thicker than water.",
-    "meaning": "Family relationships remain strong across great distances."
+    "translation": "Blood is thicker than water."
   },
   {
     "expression": "Blott Sverige svenska krusbär har.",
@@ -143,12 +138,11 @@
   },
   {
     "expression": "Bättre stämma i bäcken än i ån.",
-    "translation": "An ounce of prevention is worth a pound of cure.",
-    "meaning": "Be proactive about preventing bad things from happening; defects are best taken care of at an early stage."
+    "translation": "An ounce of prevention is worth a pound of cure."
   },
   {
     "expression": "Bättre tiga än illa tala.",
-    "translation": "Man more often repents what he did say than he did not."
+    "translation": "A closed mouth catches no flies."
   },
   {
     "expression": "Bättre älskat och förlorat än att aldrig ha älskat.",
@@ -188,12 +182,11 @@
   },
   {
     "expression": "Den som gapar efter mycket, mister ofta hela stycket.",
-    "translation": "Grasp all, lose all.",
-    "meaning": "One who wants everything, may lose it all."
+    "translation": "Grasp all, lose all."
   },
   {
     "expression": "Den som ger sig in i leken, får leken tåla.",
-    "translation": "He that would have eggs must endure the cackling of hens."
+    "translation": "He who enters the game must endure it."
   },
   {
     "expression": "Den som gräver en grop åt andra faller ofta själv däri.",
@@ -233,7 +226,6 @@
   },
   {
     "expression": "Den som är fri från synd skall kasta första stenen.",
-    "meaning": "Only those who are truly virtuous have the right to criticize or condemn others (used to imply that nobody has this right).",
     "translation": "Let him who is without sin cast the first stone."
   },
   {
@@ -262,8 +254,7 @@
   },
   {
     "expression": "Det kommer inga stekta sparvar flygande i din mun.",
-    "translation": "Birds fly not into our mouth ready roasted.",
-    "meaning": "One cannot (or should not) expect to benefit without making some effort."
+    "translation": "Birds fly not into our mouth ready roasted."
   },
   {
     "expression": "Det man inte har i huvudet får man ha i benen.",
@@ -284,7 +275,7 @@
   },
   {
     "expression": "Det som börjar med en knappnål slutar oftast med en silverskål.",
-    "translation": "He that steals an egg will steal an ox."
+    "translation": "In for a penny, in for a pound."
   },
   {
     "expression": "Det som inte dödar, härdar.",
@@ -297,8 +288,7 @@
   },
   {
     "expression": "Det vattnet du hämtar ur bäcken lär dig känna källan.",
-    "translation": "The water you collect from the stream teaches you about its source.",
-    "meaning": "If you spend time around something, you will learn about it."
+    "translation": "The water you collect from the stream teaches you about its source."
   },
   {
     "expression": "Det viktigaste är inte att vinna, utan att kämpa väl.",
@@ -319,7 +309,7 @@
   },
   {
     "expression": "Det är inte ens fel när två träter.",
-    "translation": "It takes two to tango."
+    "translation": "It is not one person’s fault if two people quarrel."
   },
   {
     "expression": "Det är lätt att skära breda remsor av andras läder.",
@@ -505,10 +495,6 @@
     "expression": "Gammal är äldst.",
     "translation": "The older the fiddle the sweeter the tune.",
     "meaning": "(Jokingly) said to imply that the older generation is superior, e.g., when an older person beats a younger one at something."
-  },
-  {
-    "expression": "Ge dig inte på berg när det finns småsten.",
-    "translation": "Don’t attack mountains when there are pebbles."
   },
   {
     "expression": "Genom sig själv känner man andra.",
@@ -853,7 +839,7 @@
   },
   {
     "expression": "Man får ta seden dit man kommer.",
-    "translation": "When in Rome, do as the Romans. When among wolves you must howl."
+    "translation": "When in Rome, do as the Romans do. When among wolves you must howl."
   },
   {
     "expression": "Man har aldrig roligare än vad man gör sig.",
